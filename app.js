@@ -229,8 +229,6 @@
     const reg = regions.get(ch.sec);
     el("rect", { x: reg.x, y: reg.y, width: reg.w, height: reg.h, rx: 3, class: "region" }, markLayer);
     const cx = r.x + r.w / 2, cy = r.y + r.h / 2, rad = Math.max(r.w, r.h) + 9;
-    el("line", { x1: 0, y1: cy, x2: WALL_W, y2: cy, class: "cross" }, markLayer);
-    el("line", { x1: cx, y1: 0, x2: cx, y2: WALL_H, class: "cross" }, markLayer);
     const g = el("g", { class: "pulse" }, markLayer);
     el("circle", { cx, cy, r: rad, class: "ring-o" }, g);
     el("circle", { cx, cy, r: rad, class: "ring-i" }, g);
