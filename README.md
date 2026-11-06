@@ -15,7 +15,9 @@ Live site: https://blakeiis.github.io/Paint-Planogram/
 
 | File | Purpose |
 | --- | --- |
-| `index.html` | Page layout and styles |
+| `index.html` | Page layout and security settings |
+| `style.css` | Styles |
+| `fonts/` | Atkinson Hyperlegible font (SIL Open Font License, see `fonts/LICENSE`) |
 | `app.js` | Search, wall map, and close up logic |
 | `data.js` | Every chip's name, number, color, and wall position (generated) |
 | `raw/colors.json` | Source data from the color locator tool |
@@ -31,3 +33,12 @@ Live site: https://blakeiis.github.io/Paint-Planogram/
 ## Wall layout
 
 Left to right as you face it: Reds, Oranges, Yellows, Greens, Blues, Purples (each with Pure, Muted, Shaded and Neutral rows, 8 columns), then the Whites, Neutrals and Grays panel, then One Coat Hide, then the Designer Collection.
+
+## Security
+
+1. The page loads nothing from other websites. Fonts, scripts and styles are all served from this repo.
+2. A Content Security Policy in `index.html` blocks scripts and styles from any other source, so injected code cannot run.
+3. `scripts/build_data.py` rejects any color with an unexpected name, number or hex value, and leaves `data.js` untouched if anything fails.
+4. The app never inserts raw HTML built from data, and it collects no personal information, cookies or analytics.
+5. Keep two factor authentication on for the GitHub account, since whoever controls this repo controls the live site.
+6. Check the printed QR sign regularly so nobody covers it with a fake code.

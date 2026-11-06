@@ -58,7 +58,27 @@ for ci, col in enumerate(dcols):
             print("designer missing", code); continue
         chips.append([m["name"].strip(), code, m["hex"], "dc", ri + 1, ci + 1, f"D-{ci+1}-{ri+1}"])
 
+# Validate every chip before writing. A bad value stops the build instead of reaching the site.
+NAME_OK = re.compile(r"^[A-Za-z0-9 '&.,!?()/®™à-ÿÀ-ß-]{1,60}$")
+CODE_OK = re.compile(r"^[A-Za-z0-9 /-]{1,24}$")
+HEX_OK = re.compile(r"^[0-9A-Fa-f]{6}$")
+section_keys = {s["key"] for s in sections}
+problems = []
+for ch in chips:
+    name, code, hx, sec, r, col, slot = ch
+    if not NAME_OK.match(name): problems.append(("name", ch))
+    if not CODE_OK.match(code): problems.append(("code", ch))
+    if not HEX_OK.match(hx): problems.append(("hex", ch))
+    if sec not in section_keys: problems.append(("section", ch))
+    if not (isinstance(r, int) and isinstance(col, int) and r > 0 and col > 0): problems.append(("position", ch))
+    if slot and not CODE_OK.match(slot): problems.append(("slot", ch))
+if problems:
+    for what, ch in problems[:20]:
+        print(f"Rejected {what}: {ch}")
+    sys.exit(f"Build stopped: {len(problems)} chip(s) failed validation. data.js was not changed.")
+
 trending = [t["items"] for t in D["trending"]][0]
+trending = [t for t in trending if CODE_OK.match(t)]
 coty = next((c["alt"] for c in D["core"] if c.get("tag") == "COTY-27"), None)
 
 data = {"sections": sections, "chips": chips, "featured": trending, "coty": coty}

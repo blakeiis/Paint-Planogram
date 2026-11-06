@@ -8,7 +8,11 @@
   const sections = new Map(W.sections.map((s) => [s.key, s]));
   // Only the color family slot labels (like GN4-7) match real positions; side panel labels do not.
   const isCore = (sec) => /^[ROYGBP][PMSN]$/.test(sec);
-  const chips = W.chips.map((c, i) => ({ i, name: c[0], code: c[1], hex: "#" + c[2], sec: c[3], r: c[4], c: c[5], slot: isCore(c[3]) ? c[6] : "" }));
+  // Defense in depth: skip any chip whose data is not the expected shape.
+  const HEX = /^[0-9a-f]{6}$/i;
+  const chips = W.chips
+    .filter((c) => Array.isArray(c) && HEX.test(c[2]) && sections.has(c[3]) && Number.isInteger(c[4]) && Number.isInteger(c[5]) && typeof c[0] === "string" && typeof c[1] === "string")
+    .map((c, i) => ({ i, name: c[0], code: c[1], hex: "#" + c[2], sec: c[3], r: c[4], c: c[5], slot: isCore(c[3]) ? String(c[6] || "") : "" }));
 
   const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
   const compact = (s) => norm(s).replace(/ /g, "");
@@ -149,7 +153,7 @@
   };
   parts.forEach((p) => {
     const t = el("text", { x: p.x, y: p.y, class: "lbl", "text-anchor": p.t === "title" ? "middle" : "start" });
-    if (p.t === "title") t.setAttribute("style", "font-size:8.5px");
+    if (p.t === "title") t.style.fontSize = "8.5px";
     t.textContent = p.text;
   });
   const chipLayer = el("g", {});
@@ -179,15 +183,21 @@
     let lead;
     if (pi < 6) {
       const band = s.title.split(" · ").pop();
-      lead = `<strong>${panel.title}</strong>, the ${ordinal(pi + 1)} color family from the left, in the <strong>${band}</strong> rows.`;
+      lead = [[panel.title, 1], [`, the ${ordinal(pi + 1)} color family from the left, in the `], [band, 1], [" rows. "]];
     } else if (ch.sec === "dc") {
-      lead = `<strong>Designer Collection</strong>, the large chips at the right end.`;
+      lead = [["Designer Collection", 1], [", the large chips at the right end. "]];
     } else if (ch.sec === "och") {
-      lead = `<strong>One Coat Hide</strong> panel, right of the Whites and Neutrals.`;
+      lead = [["One Coat Hide", 1], [" panel, right of the Whites and Neutrals. "]];
     } else {
-      lead = `<strong>${s.title}</strong> on the Whites &amp; Neutrals panel, right of the Purples.`;
+      lead = [[s.title, 1], [" on the Whites & Neutrals panel, right of the Purples. "]];
     }
-    return `${lead} Go to <strong>column ${ch.c}</strong> from the left and <strong>row ${ch.r}</strong> from the top of that block.`;
+    return lead.concat([["Go to "], [`column ${ch.c}`, 1], [" from the left and "], [`row ${ch.r}`, 1], [" from the top of that block."]]);
+  }
+  function swatch(hex) {
+    const sw = document.createElement("span");
+    sw.className = "sw";
+    sw.style.background = hex;
+    return sw;
   }
   function spotLabel(ch) {
     const s = sections.get(ch.sec);
@@ -207,10 +217,15 @@
     $("fSw").style.background = color.hex;
     $("fName").textContent = color.name;
     $("fCode").textContent = color.code + (ch.slot && ch.slot !== color.code ? "  •  slot " + ch.slot : "");
-    $("fWhere").innerHTML = where(ch);
+    $("fWhere").replaceChildren(...where(ch).map(([text, bold]) => {
+      if (!bold) return document.createTextNode(text);
+      const b = document.createElement("strong");
+      b.textContent = text;
+      return b;
+    }));
 
     const spots = $("fSpots");
-    spots.innerHTML = "";
+    spots.replaceChildren();
     if (color.spots.length > 1) {
       color.spots.forEach((sp, i) => {
         const b = document.createElement("button");
@@ -224,7 +239,7 @@
     }
 
     // Marker on the wall map
-    markLayer.innerHTML = "";
+    markLayer.replaceChildren();
     const r = pos.get(`${ch.sec}-${ch.r}-${ch.c}`);
     const reg = regions.get(ch.sec);
     el("rect", { x: reg.x, y: reg.y, width: reg.w, height: reg.h, rx: 3, class: "region" }, markLayer);
@@ -252,7 +267,7 @@
     $("dSub").textContent = `The flashing chip is ${ch.name}. Column ${ch.c} of ${s.cols}, row ${ch.r} of ${s.rows}.`;
     $("dLast").textContent = "Column " + s.cols;
     const grid = $("dGrid");
-    grid.innerHTML = "";
+    grid.replaceChildren();
     grid.style.gridTemplateColumns = `repeat(${s.cols}, minmax(22px, 1fr))`;
     grid.style.maxWidth = (s.big ? s.cols * 110 : s.cols * 58) + 20 + "px";
     $("dLast").parentElement.style.maxWidth = grid.style.maxWidth;
@@ -309,7 +324,7 @@
   let hits = [], active = -1;
 
   function renderList() {
-    list.innerHTML = "";
+    list.replaceChildren();
     const q = input.value.trim();
     clearBtn.hidden = !input.value;
     if (!q) { list.hidden = true; input.setAttribute("aria-expanded", "false"); return; }
@@ -326,9 +341,15 @@
       b.id = "opt" + i;
       b.setAttribute("role", "option");
       b.setAttribute("aria-selected", i === active ? "true" : "false");
-      b.innerHTML = `<span class="sw" style="background:${c.hex}"></span><span><span class="rname"></span><span class="rmeta"></span></span>`;
-      b.querySelector(".rname").textContent = c.name;
-      b.querySelector(".rmeta").textContent = c.code + "  •  " + spotLabel(c.spots[0]);
+      const wrapEl = document.createElement("span");
+      const nm = document.createElement("span");
+      nm.className = "rname";
+      nm.textContent = c.name;
+      const meta = document.createElement("span");
+      meta.className = "rmeta";
+      meta.textContent = c.code + "  \u2022  " + spotLabel(c.spots[0]);
+      wrapEl.append(nm, meta);
+      b.append(swatch(c.hex), wrapEl);
       b.addEventListener("click", () => pick(c));
       li.appendChild(b);
       list.appendChild(li);
@@ -363,7 +384,7 @@
     if (!c) return;
     const b = document.createElement("button");
     b.type = "button";
-    b.innerHTML = `<span class="sw" style="background:${c.hex}"></span>`;
+    b.append(swatch(c.hex));
     b.appendChild(document.createTextNode(c.name));
     b.addEventListener("click", () => { input.value = c.name; clearBtn.hidden = false; show(c, 0); });
     quick.appendChild(b);
@@ -382,6 +403,6 @@
     }
   }
 
-  // Expose for testing
-  window.__planogram = { search, colors };
+  // Read only search hook used by automated tests.
+  Object.defineProperty(window, "__planogram", { value: Object.freeze({ search }), writable: false });
 })();
