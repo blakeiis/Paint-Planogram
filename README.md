@@ -7,7 +7,7 @@ Live site: https://blakeiis.github.io/Paint-Planogram/
 ## What it does
 
 1. Search by color name ("Swiss Coffee") or number ("PPU7-13"). Partial words and typos still find results.
-2. A whole wall map shows the found chip with a flashing ring and crosshair lines.
+2. A whole wall map shows the found chip with a flashing ring and an outline.
 3. A close up of that section highlights the chip and gives plain directions (family, rows, column, row).
 4. Links can point straight to a color, for example `?c=T27-01`.
 
