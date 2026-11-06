@@ -306,8 +306,9 @@
     list.classList.toggle("collapsed", n > SHOW_FEW && !mineOpen);
     more.textContent = mineOpen ? "Show fewer" : `Show all ${n}`;
     more.setAttribute("aria-expanded", String(mineOpen));
-    $("mine").hidden = n === 0 && $("undo").hidden;
-    $("myBtn").hidden = n === 0;
+    $("mineEmpty").hidden = n > 0;
+    list.hidden = n === 0;
+    $("myCount").hidden = n === 0;
     $("myCount").textContent = String(n);
     $("myBtn").setAttribute("aria-label", `My colors, ${n} saved`);
     const note = $("mine").querySelector(".minehead p");
