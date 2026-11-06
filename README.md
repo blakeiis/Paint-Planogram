@@ -10,7 +10,8 @@ Live site: https://blakeiis.github.io/Paint-Planogram/
 2. A whole wall map shows the found chip with a flashing ring and an outline.
 3. A close up of that section highlights the chip and gives plain directions (family, rows, column, row).
 4. Links can point straight to a color, for example `?c=T27-01`.
-5. Customers can tap Save to keep colors in a My colors list. The list is stored only in that phone's browser (localStorage), is never sent anywhere, and clears if they clear their browser data or use private browsing.
+5. Next to the close up, a Similar colors list shows the 8 closest matches, using the same CIEDE2000 color comparison as the color locator site, with labels like "Very close, a bit lighter".
+6. Customers can tap Save to keep colors in a My colors list. The list is stored only in that phone's browser (localStorage), is never sent anywhere, and clears if they clear their browser data or use private browsing.
 
 ## Files
 

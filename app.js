@@ -204,6 +204,79 @@
     return s.title;
   }
 
+  /* ---------- Similar colors (same method as the color locator site) ---------- */
+  // Converts a hex color to CIE Lab, then compares with the CIEDE2000 formula, which
+  // measures how different two colors look to the human eye.
+  function hexToLab(hex) {
+    const h = hex.replace("#", "");
+    const lin = (v) => { v /= 255; return v > 0.04045 ? Math.pow((v + 0.055) / 1.055, 2.4) : v / 12.92; };
+    const r = lin(parseInt(h.slice(0, 2), 16)), g = lin(parseInt(h.slice(2, 4), 16)), b = lin(parseInt(h.slice(4, 6), 16));
+    const x = (r * 0.4124 + g * 0.3576 + b * 0.1805) / 0.95047;
+    const y = r * 0.2126 + g * 0.7152 + b * 0.0722;
+    const z = (r * 0.0193 + g * 0.1192 + b * 0.9505) / 1.08883;
+    const f = (t) => (t > 0.008856 ? Math.cbrt(t) : 7.787 * t + 16 / 116);
+    return [116 * f(y) - 16, 500 * (f(x) - f(y)), 200 * (f(y) - f(z))];
+  }
+  function deltaE2000([L1, a1, b1], [L2, a2, b2]) {
+    const rad = Math.PI / 180, deg = 180 / Math.PI;
+    const C1 = Math.hypot(a1, b1), C2 = Math.hypot(a2, b2), Cb = (C1 + C2) / 2;
+    const G = 0.5 * (1 - Math.sqrt(Math.pow(Cb, 7) / (Math.pow(Cb, 7) + Math.pow(25, 7))));
+    const a1p = (1 + G) * a1, a2p = (1 + G) * a2;
+    const C1p = Math.hypot(a1p, b1), C2p = Math.hypot(a2p, b2);
+    const hue = (b, a) => { if (b === 0 && a === 0) return 0; const v = Math.atan2(b, a) * deg; return v < 0 ? v + 360 : v; };
+    const h1p = hue(b1, a1p), h2p = hue(b2, a2p);
+    const dLp = L2 - L1, dCp = C2p - C1p;
+    let dhp = 0;
+    if (C1p * C2p !== 0) { dhp = h2p - h1p; if (dhp > 180) dhp -= 360; else if (dhp < -180) dhp += 360; }
+    const dHp = 2 * Math.sqrt(C1p * C2p) * Math.sin((dhp / 2) * rad);
+    const Lbp = (L1 + L2) / 2, Cbp = (C1p + C2p) / 2;
+    let hbp = h1p + h2p;
+    if (C1p * C2p !== 0) { if (Math.abs(h1p - h2p) > 180) hbp += h1p + h2p < 360 ? 360 : -360; hbp /= 2; }
+    const T = 1 - 0.17 * Math.cos((hbp - 30) * rad) + 0.24 * Math.cos(2 * hbp * rad) + 0.32 * Math.cos((3 * hbp + 6) * rad) - 0.2 * Math.cos((4 * hbp - 63) * rad);
+    const dTheta = 30 * Math.exp(-Math.pow((hbp - 275) / 25, 2));
+    const Rc = 2 * Math.sqrt(Math.pow(Cbp, 7) / (Math.pow(Cbp, 7) + Math.pow(25, 7)));
+    const Sl = 1 + (0.015 * Math.pow(Lbp - 50, 2)) / Math.sqrt(20 + Math.pow(Lbp - 50, 2));
+    const Sc = 1 + 0.045 * Cbp, Sh = 1 + 0.015 * Cbp * T, Rt = -Math.sin(2 * dTheta * rad) * Rc;
+    return Math.sqrt(Math.pow(dLp / Sl, 2) + Math.pow(dCp / Sc, 2) + Math.pow(dHp / Sh, 2) + Rt * (dCp / Sc) * (dHp / Sh));
+  }
+  const labOf = (c) => c.lab || (c.lab = hexToLab(c.hex));
+  function findSimilar(target, count = 8) {
+    const tl = labOf(target), seen = new Set([target.name.trim().toLowerCase()]);
+    return colors
+      .map((c) => ({ c, d: deltaE2000(tl, labOf(c)), dL: labOf(c)[0] - tl[0] }))
+      .sort((a, b) => a.d - b.d)
+      .filter(({ c }) => { const k = c.name.trim().toLowerCase(); if (seen.has(k)) return false; seen.add(k); return true; })
+      .slice(0, count);
+  }
+  function renderSimilar(color) {
+    const list = $("simList");
+    list.replaceChildren();
+    findSimilar(color).forEach(({ c, d, dL }) => {
+      const closeness = d < 1.2 ? "Nearly identical" : d < 2.5 ? "Very close" : d < 5 ? "Close" : "Similar family";
+      const tone = Math.abs(dL) < 1.5 ? "" : dL > 0 ? ", a bit lighter" : ", a bit darker";
+      const li = document.createElement("li");
+      const b = document.createElement("button");
+      b.type = "button";
+      const txt = document.createElement("span");
+      txt.className = "txt";
+      const match = document.createElement("span");
+      match.className = "match";
+      match.textContent = closeness + tone;
+      const nm = document.createElement("span");
+      nm.className = "rname";
+      nm.textContent = c.name;
+      const meta = document.createElement("span");
+      meta.className = "rmeta";
+      meta.textContent = c.code + "  \u2022  " + spotLabel(c.spots[0]);
+      txt.append(nm, meta, match);
+      b.append(swatch(c.hex), txt);
+      b.setAttribute("aria-label", `${c.name}, ${closeness}${tone}. Show on the wall`);
+      b.addEventListener("click", () => { input.value = c.name; clearBtn.hidden = false; show(c, 0); });
+      li.appendChild(b);
+      list.appendChild(li);
+    });
+  }
+
   /* ---------- My colors (saved on this device only) ---------- */
   const STORE_KEY = "paintPlanogram.myColors.v1";
   const MAX_SAVED = 200;
@@ -376,6 +449,7 @@
 
     if (zoomed) scrollWallTo(cx);
     drawDetail(ch);
+    renderSimilar(color);
 
     const url = new URL(location.href);
     url.searchParams.set("c", color.code);
