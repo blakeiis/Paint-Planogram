@@ -1,0 +1,10320 @@
+{
+ "data": {
+  "sections": [
+   {
+    "key": "white",
+    "title": "Whites",
+    "cols": 12,
+    "rows": 7,
+    "tint": "#FDFCFA",
+    "ring": "#C9A227",
+    "colors": [
+     {
+      "id": "DC-001",
+      "name": "Whipped Cream",
+      "hex": "F6F5EF",
+      "alt": "DC-1-1"
+     },
+     {
+      "id": "HDC-MD-08",
+      "name": "Whisper White",
+      "hex": "F4F3EA",
+      "alt": "W4-1"
+     },
+     {
+      "id": "BWC-04",
+      "name": "Beach House",
+      "hex": "F5F3E6",
+      "alt": "W6-1"
+     },
+     {
+      "id": "DC-005",
+      "name": "Natural White",
+      "hex": "F7F4E8",
+      "alt": "DC-5-1"
+     },
+     {
+      "id": "YL-W10",
+      "name": "Night Blooming Jasmine",
+      "hex": "F9F7EC",
+      "alt": "W3-1"
+     },
+     {
+      "id": "OR-W15",
+      "name": "Sleek White",
+      "hex": "FAF6E9",
+      "alt": "W8-1"
+     },
+     {
+      "id": "GR-W14",
+      "name": "Coconut Twist",
+      "hex": "F7F1E1",
+      "alt": "W7-1"
+     },
+     {
+      "id": "UPW",
+      "name": "ULTRA PURE WHITE\u00ae",
+      "hex": "F8F8F2",
+      "alt": "W1-1"
+     },
+     {
+      "id": "BWC-11",
+      "name": "Fresh Popcorn",
+      "hex": "F4F3E9",
+      "alt": "W9-1"
+     },
+     {
+      "id": "57",
+      "name": "Frost",
+      "hex": "EEF0ED",
+      "alt": "W1-2"
+     },
+     {
+      "id": "75",
+      "name": "Polar Bear",
+      "hex": "F5F3EB",
+      "alt": "W1-4"
+     },
+     {
+      "id": "BL-W09",
+      "name": "Bakery Box",
+      "hex": "F0F4F2",
+      "alt": "W11-1"
+     },
+     {
+      "id": "PR-W14",
+      "name": "Bit of Sugar",
+      "hex": "F4F2EC",
+      "alt": "W12-1"
+     },
+     {
+      "id": "RD-W15",
+      "name": "Cotton Sheets",
+      "hex": "F6EBDD",
+      "alt": "W5-1"
+     },
+     {
+      "id": "BWC-03",
+      "name": "Lively White",
+      "hex": "F7F3E0",
+      "alt": "W6-2"
+     },
+     {
+      "id": "DC-006",
+      "name": "First Snow",
+      "hex": "ECEAE2",
+      "alt": "DC-1-2"
+     },
+     {
+      "id": "OR-W14",
+      "name": "White Veil",
+      "hex": "F7F1E3",
+      "alt": "W3-2"
+     },
+     {
+      "id": "BWC-07",
+      "name": "Cotton Blossom",
+      "hex": "F5F1E4",
+      "alt": "W8-2"
+     },
+     {
+      "id": "YL-W09",
+      "name": "Spun Cotton",
+      "hex": "F7F2E3",
+      "alt": "W7-2"
+     },
+     {
+      "id": "HDC-MD-06",
+      "name": "Nano White",
+      "hex": "F2F0EA",
+      "alt": "W2-1"
+     },
+     {
+      "id": "DC-013",
+      "name": "Harmonious White",
+      "hex": "EEEDE4",
+      "alt": "W10-6"
+     },
+     {
+      "id": "52",
+      "name": "White",
+      "hex": "ECEBE6",
+      "alt": "W1-3"
+     },
+     {
+      "id": "DC-004",
+      "name": "Winter White",
+      "hex": "EEEFE9",
+      "alt": "DC-4-1"
+     },
+     {
+      "id": "PR-W10",
+      "name": "Swirling Water",
+      "hex": "E6E9E9",
+      "alt": "W11-2"
+     },
+     {
+      "id": "PR-W13",
+      "name": "Crystal Cut",
+      "hex": "F8F4ED",
+      "alt": "W12-2"
+     },
+     {
+      "id": "OR-W01",
+      "name": "White Blush",
+      "hex": "FBECD8",
+      "alt": "W5-2"
+     },
+     {
+      "id": "YL-W07",
+      "name": "Smooth Silk",
+      "hex": "F6E9D2",
+      "alt": "W6-3"
+     },
+     {
+      "id": "BWC-23",
+      "name": "Vanilla Frost",
+      "hex": "F3E8D7",
+      "alt": "W4-2"
+     },
+     {
+      "id": "13",
+      "name": "Cottage White",
+      "hex": "F3E9D6",
+      "alt": "W3-3"
+     },
+     {
+      "id": "BWC-01",
+      "name": "Simply White",
+      "hex": "F5F1E4",
+      "alt": "W8-3"
+     },
+     {
+      "id": "DC-003",
+      "name": "Blank Canvas",
+      "hex": "F1EDE1",
+      "alt": "DC-3-1"
+     },
+     {
+      "id": "GR-W15",
+      "name": "Palais White",
+      "hex": "F4F0E5",
+      "alt": "W2-4"
+     },
+     {
+      "id": "PPU7-12",
+      "name": "Silky White",
+      "hex": "EEEBE2",
+      "alt": "W9-2"
+     },
+     {
+      "id": "MQ3-32",
+      "name": "Cameo White",
+      "hex": "EBE8E2",
+      "alt": "W2-2"
+     },
+     {
+      "id": "PPU25-12",
+      "name": "Minimalistic",
+      "hex": "E9ECE5",
+      "alt": "W10-1"
+     },
+     {
+      "id": "BWC-12",
+      "name": "Vibrant White",
+      "hex": "EAEDEB",
+      "alt": "W11-3"
+     },
+     {
+      "id": "RD-W10",
+      "name": "New House White",
+      "hex": "F1EDE7",
+      "alt": "W12-3"
+     },
+     {
+      "id": "PPU5-11",
+      "name": "Delicate Lace",
+      "hex": "F3E6D4",
+      "alt": "W4-4"
+     },
+     {
+      "id": "HDC-NT-11A",
+      "name": "Warm Marshmallow",
+      "hex": "F2E6CF",
+      "alt": "W6-4"
+     },
+     {
+      "id": "OR-W11",
+      "name": "White Mocha",
+      "hex": "E7DCCC",
+      "alt": "W4-3"
+     },
+     {
+      "id": "70",
+      "name": "Linen White",
+      "hex": "F7ECD7",
+      "alt": "W3-4"
+     },
+     {
+      "id": "OR-W12",
+      "name": "Mourning Dove",
+      "hex": "EFE8D9",
+      "alt": "W8-4"
+     },
+     {
+      "id": "DC-012",
+      "name": "White Stone",
+      "hex": "F1EDE1",
+      "alt": "W7-3"
+     },
+     {
+      "id": "12",
+      "name": "Swiss Coffee",
+      "hex": "F1ECDF",
+      "alt": "W2-5"
+     },
+     {
+      "id": "PPU10-13",
+      "name": "Snowy Pine",
+      "hex": "F0EFE3",
+      "alt": "W9-3"
+     },
+     {
+      "id": "BWC-20",
+      "name": "Melting Icicles",
+      "hex": "ECEBE4",
+      "alt": "W1-7"
+     },
+     {
+      "id": "PPU24-14",
+      "name": "White Moderne",
+      "hex": "EBEAE2",
+      "alt": "W9-4"
+     },
+     {
+      "id": "BL-W02",
+      "name": "Ice Sculpture",
+      "hex": "E1E6E5",
+      "alt": "W11-4"
+     },
+     {
+      "id": "RD-W05",
+      "name": "Moonlit Beach",
+      "hex": "F9F0E6",
+      "alt": "W12-4"
+     },
+     {
+      "id": "OR-W05",
+      "name": "Almond Milk",
+      "hex": "F9E9D3",
+      "alt": "W5-3"
+     },
+     {
+      "id": "YL-W03",
+      "name": "Honied White",
+      "hex": "FCEFD2",
+      "alt": "W6-5"
+     },
+     {
+      "id": "PPU7-11",
+      "name": "Cotton Knit",
+      "hex": "E5DFD2",
+      "alt": "W4-5"
+     },
+     {
+      "id": "22",
+      "name": "Navajo White",
+      "hex": "EBDDC3",
+      "alt": "W3-5"
+     },
+     {
+      "id": "PPU7-13",
+      "name": "Coastal Beige",
+      "hex": "F0EBD9",
+      "alt": "W8-5"
+     },
+     {
+      "id": "BWC-16",
+      "name": "Ancient Ivory",
+      "hex": "F1E6D1",
+      "alt": "W7-4"
+     },
+     {
+      "id": "BWC-06",
+      "name": "Solid Opal",
+      "hex": "EFEBE2",
+      "alt": "W1-5"
+     },
+     {
+      "id": "GR-W09",
+      "name": "Snowfall White",
+      "hex": "EEEDE0",
+      "alt": "W10-4"
+     },
+     {
+      "id": "GR-W08",
+      "name": "Arcade White",
+      "hex": "EDEBE2",
+      "alt": "W2-6"
+     },
+     {
+      "id": "PPU12-12",
+      "name": "Gallery White",
+      "hex": "EAEBE4",
+      "alt": "W9-5"
+     },
+     {
+      "id": "BL-W11",
+      "name": "Tinsmith",
+      "hex": "DCE0DC",
+      "alt": "W11-6"
+     },
+     {
+      "id": "PPU5-09",
+      "name": "Bleached Linen",
+      "hex": "F3ECE1",
+      "alt": "W12-5"
+     },
+     {
+      "id": "OR-W04",
+      "name": "Nice Cream",
+      "hex": "FAECD1",
+      "alt": "W5-5"
+     },
+     {
+      "id": "YL-W02",
+      "name": "Spanish Lace",
+      "hex": "FCE8CA",
+      "alt": "W6-6"
+     },
+     {
+      "id": "PPU7-09",
+      "name": "Aged Beige",
+      "hex": "D7CFC0",
+      "alt": "W4-6"
+     },
+     {
+      "id": "23",
+      "name": "Antique White",
+      "hex": "E8DDCA",
+      "alt": "W3-6"
+     },
+     {
+      "id": "PPU7-15",
+      "name": "Ivory Lace",
+      "hex": "ECE2CC",
+      "alt": "W7-5"
+     },
+     {
+      "id": "GR-W12",
+      "name": "Confident White",
+      "hex": "E4DFCE",
+      "alt": "W8-6"
+     },
+     {
+      "id": "BWC-13",
+      "name": "Smoky White",
+      "hex": "E9E4DA",
+      "alt": "W1-6"
+     },
+     {
+      "id": "GR-W01",
+      "name": "White Wool",
+      "hex": "F2EFDE",
+      "alt": "W10-5"
+     },
+     {
+      "id": "BWC-30",
+      "name": "Diamonds Therapy",
+      "hex": "E9E8E0",
+      "alt": "W2-3"
+     },
+     {
+      "id": "BL-W12",
+      "name": "Canyon Wind",
+      "hex": "E3E5DF",
+      "alt": "W11-5"
+     },
+     {
+      "id": "BL-W08",
+      "name": "Frothy Surf",
+      "hex": "E7EBE6",
+      "alt": "W11-7"
+     },
+     {
+      "id": "PR-W12",
+      "name": "Timid White",
+      "hex": "EDE7E0",
+      "alt": "W12-6"
+     },
+     {
+      "id": "BWC-08",
+      "name": "Pebble Cream",
+      "hex": "F3E1CA",
+      "alt": "W5-6"
+     },
+     {
+      "id": "YL-W01",
+      "name": "Spinning Silk",
+      "hex": "F3DDBC",
+      "alt": "W6-7"
+     },
+     {
+      "id": "DC-011",
+      "name": "Gray Envelope",
+      "hex": "D9D0C1",
+      "alt": "W4-7"
+     },
+     {
+      "id": "OR-W07",
+      "name": "Spanish Sand",
+      "hex": "DCD0BD",
+      "alt": "W8-7"
+     },
+     {
+      "id": "73",
+      "name": "Off White",
+      "hex": "E7E2D2",
+      "alt": "W3-7"
+     },
+     {
+      "id": "YL-W13",
+      "name": "Sentimental Beige",
+      "hex": "E0D8C5",
+      "alt": "W7-7"
+     },
+     {
+      "id": "OR-W13",
+      "name": "Shoelace",
+      "hex": "EAE4D9",
+      "alt": "W2-7"
+     },
+     {
+      "id": "GR-W11",
+      "name": "Silver Ash",
+      "hex": "DDDBD0",
+      "alt": "W9-7"
+     },
+     {
+      "id": "DC-002",
+      "name": "Statement White",
+      "hex": "EBEBE6",
+      "alt": "DC-2-1"
+     },
+     {
+      "id": "GR-W06",
+      "name": "Winds Breath",
+      "hex": "E0E1DA",
+      "alt": "W9-6"
+     },
+     {
+      "id": "GR-W05",
+      "name": "Unwind",
+      "hex": "F2F8ED",
+      "alt": "W10-2"
+     }
+    ]
+   },
+   {
+    "key": "warm",
+    "title": "Neutrals",
+    "cols": 12,
+    "rows": 7,
+    "tint": "#F6EEE4",
+    "ring": "#B5651D",
+    "colors": [
+     {
+      "id": "MQ3-06",
+      "name": "Granite Dust",
+      "hex": "D7CEC4",
+      "alt": "B1-1"
+     },
+     {
+      "id": "HDC-MD-21",
+      "name": "Dove",
+      "hex": "D9D4CB",
+      "alt": "B2-1"
+     },
+     {
+      "id": "MQ3-11",
+      "name": "Dainty Lace",
+      "hex": "DECFBB",
+      "alt": "B4-1"
+     },
+     {
+      "id": "MQ2-50",
+      "name": "Gravelstone",
+      "hex": "D3C7B8",
+      "alt": "B3-1"
+     },
+     {
+      "id": "PPU4-08",
+      "name": "Plateau",
+      "hex": "DBC4AA",
+      "alt": "B5-1"
+     },
+     {
+      "id": "PPU5-08",
+      "name": "Sculptor Clay",
+      "hex": "CCC3B4",
+      "alt": "B6-1"
+     },
+     {
+      "id": "PPU7-10",
+      "name": "Roman Plaster",
+      "hex": "DDD2BF",
+      "alt": "B7-1"
+     },
+     {
+      "id": "BWC-09",
+      "name": "Atlantis Pearl",
+      "hex": "F1E8D2",
+      "alt": "B8-1"
+     },
+     {
+      "id": "BWC-27",
+      "name": "Alpaca Blanket",
+      "hex": "DED7C5",
+      "alt": "B9-1"
+     },
+     {
+      "id": "HDC-NT-21",
+      "name": "Weathered White",
+      "hex": "E6E3D9",
+      "alt": "B10-1"
+     },
+     {
+      "id": "BWC-21",
+      "name": "Poetic Light",
+      "hex": "E2DED8",
+      "alt": "B11-1"
+     },
+     {
+      "id": "BWC-28",
+      "name": "Alpine Frost",
+      "hex": "E0DED2",
+      "alt": "B12-1"
+     },
+     {
+      "id": "MQ1-55",
+      "name": "Lite Cocoa",
+      "hex": "B59A8D",
+      "alt": "B1-2"
+     },
+     {
+      "id": "HDC-CT-21",
+      "name": "Grey Mist",
+      "hex": "BDB6AB",
+      "alt": "B2-2"
+     },
+     {
+      "id": "MQ3-09",
+      "name": "Loft Light",
+      "hex": "DCCAB7",
+      "alt": "B4-2"
+     },
+     {
+      "id": "PPU5-13",
+      "name": "Creamy Mushroom",
+      "hex": "CABDAE",
+      "alt": "B3-2"
+     },
+     {
+      "id": "MQ2-46",
+      "name": "Basswood",
+      "hex": "C9B196",
+      "alt": "B4-3"
+     },
+     {
+      "id": "720C-3",
+      "name": "Wheat Bread",
+      "hex": "CDC4B7",
+      "alt": "B6-2"
+     },
+     {
+      "id": "PPU7-08",
+      "name": "Baja",
+      "hex": "D2C1A8",
+      "alt": "B7-2"
+     },
+     {
+      "id": "HDC-NT-15",
+      "name": "Rococo Beige",
+      "hex": "DFD6C1",
+      "alt": "B8-2"
+     },
+     {
+      "id": "BWC-25",
+      "name": "Sandy Clay",
+      "hex": "DBD0BD",
+      "alt": "B9-2"
+     },
+     {
+      "id": "HDC-NT-20",
+      "name": "Cotton Grey",
+      "hex": "D1CCC3",
+      "alt": "B10-2"
+     },
+     {
+      "id": "PPU26-10",
+      "name": "Chic Gray",
+      "hex": "CFCCC5",
+      "alt": "B11-2"
+     },
+     {
+      "id": "PPU25-07",
+      "name": "Arid Plains",
+      "hex": "B6B4A9",
+      "alt": "B12-2"
+     },
+     {
+      "id": "MQ2-33",
+      "name": "Parisian Caf\u00e9",
+      "hex": "A49085",
+      "alt": "B1-3"
+     },
+     {
+      "id": "HDC-NT-27B",
+      "name": "Wild Truffle",
+      "hex": "8B7F76",
+      "alt": "B2-3"
+     },
+     {
+      "id": "280F-4",
+      "name": "Burnt Almond",
+      "hex": "B59578",
+      "alt": "B5-3"
+     },
+     {
+      "id": "PPU5-14",
+      "name": "Mesa Taupe",
+      "hex": "B8A899",
+      "alt": "OH-3-13 / B4-4"
+     },
+     {
+      "id": "MQ2-47",
+      "name": "Midtown",
+      "hex": "B5A18A",
+      "alt": "B5-2"
+     },
+     {
+      "id": "MQ2-37",
+      "name": "Eiffel for You",
+      "hex": "B9A795",
+      "alt": "B6-3"
+     },
+     {
+      "id": "710D-4",
+      "name": "Harvest Brown",
+      "hex": "B9A589",
+      "alt": "B7-3"
+     },
+     {
+      "id": "BWC-26",
+      "name": "Stucco Tan",
+      "hex": "DDD1BA",
+      "alt": "B8-3"
+     },
+     {
+      "id": "DC-010",
+      "name": "Even Better Beige",
+      "hex": "D4CABA",
+      "alt": "DC-5-2"
+     },
+     {
+      "id": "MQ2-55",
+      "name": "Park Avenue",
+      "hex": "BBB3A8",
+      "alt": "B10-3"
+     },
+     {
+      "id": "PPU24-11",
+      "name": "Greige",
+      "hex": "B7B4AC",
+      "alt": "B11-3"
+     },
+     {
+      "id": "790D-4",
+      "name": "Granite Boulder",
+      "hex": "B1AEA2",
+      "alt": "B12-3"
+     },
+     {
+      "id": "HDC-AC-28",
+      "name": "Smokey Claret",
+      "hex": "88716D",
+      "alt": "B1-4"
+     },
+     {
+      "id": "PPU5-17",
+      "name": "Cardamom Spice",
+      "hex": "837165",
+      "alt": "B2-4"
+     },
+     {
+      "id": "PPU5-16",
+      "name": "Earthnut",
+      "hex": "9D8675",
+      "alt": "B4-5"
+     },
+     {
+      "id": "PPU7-05",
+      "name": "Pure Earth",
+      "hex": "A79480",
+      "alt": "B3-3"
+     },
+     {
+      "id": "700D-5",
+      "name": "Toffee Crunch",
+      "hex": "9F8870",
+      "alt": "B5-4"
+     },
+     {
+      "id": "MQ2-56",
+      "name": "Abbey Stone",
+      "hex": "AFA397",
+      "alt": "B6-4"
+     },
+     {
+      "id": "PPU24-09",
+      "name": "True Taupewood",
+      "hex": "A8A095",
+      "alt": "B7-4"
+     },
+     {
+      "id": "750C-3",
+      "name": "Sandstone Cliff",
+      "hex": "D2C9B7",
+      "alt": "B9-3"
+     },
+     {
+      "id": "DC-009",
+      "name": "Vintage Pewter",
+      "hex": "CBC4B7",
+      "alt": "DC-4-2"
+     },
+     {
+      "id": "MQ2-52",
+      "name": "Roadside",
+      "hex": "ADA493",
+      "alt": "B10-4"
+     },
+     {
+      "id": "MQ2-60",
+      "name": "Iron Gate",
+      "hex": "9C978D",
+      "alt": "B11-4"
+     },
+     {
+      "id": "HDC-NT-23",
+      "name": "Wet Cement",
+      "hex": "89877F",
+      "alt": "B12-4"
+     },
+     {
+      "id": "MQ1-58",
+      "name": "Chocolate Soul",
+      "hex": "5C4945",
+      "alt": "B1-5"
+     },
+     {
+      "id": "HDC-AC-07",
+      "name": "Oak Creek",
+      "hex": "5D504A",
+      "alt": "B2-5"
+     },
+     {
+      "id": "T27-03",
+      "name": "Introspective",
+      "hex": "87786A",
+      "alt": "B3-5"
+     },
+     {
+      "id": "PPU5-05",
+      "name": "Coconut Shell",
+      "hex": "8E7967",
+      "alt": "B3-4"
+     },
+     {
+      "id": "MQ2-48",
+      "name": "Sturdy Brown",
+      "hex": "9B856F",
+      "alt": "B5-5"
+     },
+     {
+      "id": "PPU5-07",
+      "name": "Studio Taupe",
+      "hex": "A59789",
+      "alt": "B6-5"
+     },
+     {
+      "id": "MQ2-49",
+      "name": "Kaffee",
+      "hex": "816D5A",
+      "alt": "B7-5"
+     },
+     {
+      "id": "YL-W11",
+      "name": "Khaki Shade",
+      "hex": "D4C5AC",
+      "alt": "B8-4"
+     },
+     {
+      "id": "MQ2-51",
+      "name": "Pasha Brown",
+      "hex": "C3B7A4",
+      "alt": "B8-5"
+     },
+     {
+      "id": "MQ2-57",
+      "name": "Art District",
+      "hex": "94897C",
+      "alt": "B10-5"
+     },
+     {
+      "id": "PPU18-16",
+      "name": "Elephant Skin",
+      "hex": "97928B",
+      "alt": "B11-5"
+     },
+     {
+      "id": "MQ2-53",
+      "name": "Smoky Trout",
+      "hex": "857D72",
+      "alt": "B12-5"
+     },
+     {
+      "id": "S-G-790",
+      "name": "Bear Rug",
+      "hex": "5A4943",
+      "alt": "B1-6"
+     },
+     {
+      "id": "HDC-MD-13",
+      "name": "Rave Raisin",
+      "hex": "54463F",
+      "alt": "B2-6"
+     },
+     {
+      "id": "MQ2-44",
+      "name": "Museum",
+      "hex": "685951",
+      "alt": "B4-7"
+     },
+     {
+      "id": "PPU5-18",
+      "name": "Chocolate Swirl",
+      "hex": "68574B",
+      "alt": "B4-6"
+     },
+     {
+      "id": "PPU5-04",
+      "name": "Mocha Latte",
+      "hex": "82715F",
+      "alt": "B5-6"
+     },
+     {
+      "id": "PPU5-06A",
+      "name": "Light Truffle",
+      "hex": "968777",
+      "alt": "B6-6"
+     },
+     {
+      "id": "PPU5-02",
+      "name": "Aging Barrel",
+      "hex": "6A5B4E",
+      "alt": "B7-6"
+     },
+     {
+      "id": "HDC-NT-09",
+      "name": "Basic Khaki",
+      "hex": "C3B69F",
+      "alt": "B9-5"
+     },
+     {
+      "id": "730D-4",
+      "name": "Garden Wall",
+      "hex": "AEA492",
+      "alt": "B8-6"
+     },
+     {
+      "id": "MQ2-58",
+      "name": "Unpredictable Hue",
+      "hex": "7B746B",
+      "alt": "B10-6"
+     },
+     {
+      "id": "790F-4",
+      "name": "Creek Bend",
+      "hex": "928C87",
+      "alt": "B11-6"
+     },
+     {
+      "id": "PPU24-06",
+      "name": "Slippery Shale",
+      "hex": "7B766C",
+      "alt": "B12-6"
+     },
+     {
+      "id": "HDC-AC-26",
+      "name": "Sarsaparilla",
+      "hex": "4B4242",
+      "alt": "B1-7"
+     },
+     {
+      "id": "MQ1-35",
+      "name": "Off Broadway",
+      "hex": "433F3D",
+      "alt": "B2-7"
+     },
+     {
+      "id": "MQ2-39",
+      "name": "Rare Wood",
+      "hex": "594C42",
+      "alt": "B3-7"
+     },
+     {
+      "id": "PPU5-19",
+      "name": "Dark Truffle",
+      "hex": "594D46",
+      "alt": "B3-6"
+     },
+     {
+      "id": "MQ2-54",
+      "name": "Gardener's Soil",
+      "hex": "5C534D",
+      "alt": "B5-7"
+     },
+     {
+      "id": "PPU5-01",
+      "name": "Espresso Beans",
+      "hex": "4C443E",
+      "alt": "B6-7"
+     },
+     {
+      "id": "PPU24-02",
+      "name": "Berry Brown",
+      "hex": "544F4C",
+      "alt": "B7-7"
+     },
+     {
+      "id": "PPU7-22",
+      "name": "Safari Vest",
+      "hex": "B2A68F",
+      "alt": "B9-7"
+     },
+     {
+      "id": "720D-5",
+      "name": "Mocha Accent",
+      "hex": "8D8171",
+      "alt": "B8-7"
+     },
+     {
+      "id": "PPU18-19",
+      "name": "Intellectual",
+      "hex": "605C59",
+      "alt": "B10-7"
+     },
+     {
+      "id": "MQ2-62",
+      "name": "Peppery",
+      "hex": "5B5752",
+      "alt": "B11-7"
+     },
+     {
+      "id": "PPU24-04",
+      "name": "Burnished Pewter",
+      "hex": "716B62",
+      "alt": "B12-7"
+     }
+    ]
+   },
+   {
+    "key": "cool",
+    "title": "Grays",
+    "cols": 12,
+    "rows": 7,
+    "tint": "#EEF0F1",
+    "ring": "#4A6670",
+    "colors": [
+     {
+      "id": "MQ3-28",
+      "name": "Rock Crystal",
+      "hex": "CECBCB",
+      "alt": "G11-1"
+     },
+     {
+      "id": "DC-014",
+      "name": "Gray View",
+      "hex": "D3D1C8",
+      "alt": "G5-1"
+     },
+     {
+      "id": "N320-2 / YN7-2",
+      "name": "Toasty Gray",
+      "hex": "D1CCC0",
+      "alt": "G2-1"
+     },
+     {
+      "id": "790C-3",
+      "name": "Dolphin Fin",
+      "hex": "CCCAC1",
+      "alt": "G3-1"
+     },
+     {
+      "id": "BWC-29",
+      "name": "Silver Feather",
+      "hex": "DBDCD3",
+      "alt": "G1-1"
+     },
+     {
+      "id": "PPU24-17",
+      "name": "Hailstorm Gray",
+      "hex": "BDBEB9",
+      "alt": "G4-1"
+     },
+     {
+      "id": "PPU26-17",
+      "name": "Fast as the Wind",
+      "hex": "C7CBC9",
+      "alt": "G6-1"
+     },
+     {
+      "id": "PPU26-12",
+      "name": "Solemn Silence",
+      "hex": "D3D8D8",
+      "alt": "G7-1"
+     },
+     {
+      "id": "MQ5-31",
+      "name": "Distant Star",
+      "hex": "BAC1C3",
+      "alt": "G8-1"
+     },
+     {
+      "id": "MQ3-27",
+      "name": "Etched Glass",
+      "hex": "DDE2E2",
+      "alt": "G9-1"
+     },
+     {
+      "id": "PPU26-11",
+      "name": "Platinum",
+      "hex": "D1D4D1",
+      "alt": "G10-1"
+     },
+     {
+      "id": "PPU26-15",
+      "name": "Halation",
+      "hex": "D1D1CE",
+      "alt": "G12-1"
+     },
+     {
+      "id": "PPU18-10",
+      "name": "Natural Gray",
+      "hex": "C4C0BB",
+      "alt": "G11-2"
+     },
+     {
+      "id": "MQ2-59",
+      "name": "Silver City",
+      "hex": "C8C8C2",
+      "alt": "G1-2"
+     },
+     {
+      "id": "DC-007",
+      "name": "Tranquil Gray",
+      "hex": "D0CBC0",
+      "alt": "DC-2-2"
+     },
+     {
+      "id": "DC-008",
+      "name": "Gratifying Gray",
+      "hex": "CBC9C0",
+      "alt": "DC-3-2"
+     },
+     {
+      "id": "PPU25-15",
+      "name": "Flipper",
+      "hex": "A7ABA4",
+      "alt": "G5-2"
+     },
+     {
+      "id": "PPU24-18",
+      "name": "Great Graphite",
+      "hex": "A5A6A1",
+      "alt": "G4-2"
+     },
+     {
+      "id": "HDC-NT-27",
+      "name": "Millennium Silver",
+      "hex": "8C9595",
+      "alt": "G6-2"
+     },
+     {
+      "id": "780-01",
+      "name": "Sterling",
+      "hex": "D1D4D1",
+      "alt": "G7-2"
+     },
+     {
+      "id": "PPU26-19",
+      "name": "Chance of Rain",
+      "hex": "A0A6A9",
+      "alt": "G8-2"
+     },
+     {
+      "id": "PPU26-14",
+      "name": "Drizzle",
+      "hex": "D9DCDB",
+      "alt": "G9-2"
+     },
+     {
+      "id": "PPU18-11",
+      "name": "Classic Silver",
+      "hex": "B9B9B4",
+      "alt": "G10-2"
+     },
+     {
+      "id": "PPU26-09",
+      "name": "Graycloth",
+      "hex": "CCC9C5",
+      "alt": "G12-2"
+     },
+     {
+      "id": "780F-4",
+      "name": "Sparrow",
+      "hex": "B0B0AF",
+      "alt": "G11-3"
+     },
+     {
+      "id": "HDC-MD-26",
+      "name": "Sonic Silver",
+      "hex": "B7B7B1",
+      "alt": "G1-3"
+     },
+     {
+      "id": "PPU24-12",
+      "name": "Whitewash Oak",
+      "hex": "CAC9C0",
+      "alt": "G2-2"
+     },
+     {
+      "id": "PPU25-08",
+      "name": "Heirloom Silver",
+      "hex": "B5B6AD",
+      "alt": "G3-2"
+     },
+     {
+      "id": "710F-4",
+      "name": "Sage Gray",
+      "hex": "9EA49D",
+      "alt": "G5-3"
+     },
+     {
+      "id": "PPU25-17",
+      "name": "Euro Gray",
+      "hex": "858885",
+      "alt": "G4-3"
+     },
+     {
+      "id": "740F-4",
+      "name": "Dark Storm Cloud",
+      "hex": "819094",
+      "alt": "G6-3"
+     },
+     {
+      "id": "PPU26-16",
+      "name": "Hush",
+      "hex": "CBCECE",
+      "alt": "G7-3"
+     },
+     {
+      "id": "MQ5-22",
+      "name": "Rainmaster",
+      "hex": "9CA4A9",
+      "alt": "G8-3"
+     },
+     {
+      "id": "PPU18-05",
+      "name": "French Silver",
+      "hex": "B8BCBC",
+      "alt": "G9-3"
+     },
+     {
+      "id": "PPU26-06",
+      "name": "Elemental Gray",
+      "hex": "A0A09F",
+      "alt": "G10-3"
+     },
+     {
+      "id": "PPU26-08",
+      "name": "Silverstone",
+      "hex": "B1B3B3",
+      "alt": "G12-3"
+     },
+     {
+      "id": "PPU18-14",
+      "name": "Cathedral Gray",
+      "hex": "ACAAA7",
+      "alt": "G11-4"
+     },
+     {
+      "id": "PPU24-10",
+      "name": "Downtown Gray",
+      "hex": "ADAAA2",
+      "alt": "G1-4"
+     },
+     {
+      "id": "PPU25-09",
+      "name": "Foggy London",
+      "hex": "C3C2B8",
+      "alt": "G2-3"
+     },
+     {
+      "id": "PPU24-19",
+      "name": "Shark Fin",
+      "hex": "969795",
+      "alt": "G3-4"
+     },
+     {
+      "id": "PPU25-18",
+      "name": "Shutter Gray",
+      "hex": "797F7D",
+      "alt": "G5-4"
+     },
+     {
+      "id": "MQ6-20",
+      "name": "Coastal Storm",
+      "hex": "7C807B",
+      "alt": "G4-4"
+     },
+     {
+      "id": "PPU25-19",
+      "name": "Ocean Swell",
+      "hex": "727C7E",
+      "alt": "G6-4"
+     },
+     {
+      "id": "PPU26-18",
+      "name": "Silver Mine",
+      "hex": "BEC2C1",
+      "alt": "G7-4"
+     },
+     {
+      "id": "PPU26-21",
+      "name": "Overcast",
+      "hex": "858A8E",
+      "alt": "G8-4"
+     },
+     {
+      "id": "PPU26-05",
+      "name": "Flint Gray",
+      "hex": "8F9395",
+      "alt": "G9-4"
+     },
+     {
+      "id": "MQ6-22",
+      "name": "Gateway Gray",
+      "hex": "A0A09C",
+      "alt": "G10-4"
+     },
+     {
+      "id": "PPU26-07",
+      "name": "Smokey Wings",
+      "hex": "A7A5A3",
+      "alt": "G12-4"
+     },
+     {
+      "id": "PPU18-15",
+      "name": "Fashion Gray",
+      "hex": "A29C94",
+      "alt": "G11-5"
+     },
+     {
+      "id": "HDC-AC-19",
+      "name": "Grant Gray",
+      "hex": "918F8A",
+      "alt": "G1-5"
+     },
+     {
+      "id": "MQ6-23",
+      "name": "Pumice",
+      "hex": "BFBCB3",
+      "alt": "G2-4"
+     },
+     {
+      "id": "PPU24-20",
+      "name": "Letter Gray",
+      "hex": "8F8F8B",
+      "alt": "G3-5"
+     },
+     {
+      "id": "PPU25-20",
+      "name": "Le Luxe",
+      "hex": "5E6869",
+      "alt": "G5-5"
+     },
+     {
+      "id": "PPU25-03",
+      "name": "Shadows",
+      "hex": "6B6D6A",
+      "alt": "G4-5"
+     },
+     {
+      "id": "PPU25-21",
+      "name": "City Rain",
+      "hex": "525C61",
+      "alt": "G6-5"
+     },
+     {
+      "id": "PPU25-16",
+      "name": "Chain Reaction",
+      "hex": "A4A6A4",
+      "alt": "G7-5"
+     },
+     {
+      "id": "PPU26-22",
+      "name": "Summer Storm",
+      "hex": "656D74",
+      "alt": "G8-5"
+     },
+     {
+      "id": "PPU18-03",
+      "name": "Antique Tin",
+      "hex": "6E7173",
+      "alt": "G9-5"
+     },
+     {
+      "id": "PPU26-03",
+      "name": "Legendary Gray",
+      "hex": "7F8384",
+      "alt": "G10-5"
+     },
+     {
+      "id": "HDC-NT-10A",
+      "name": "Dolphin Gray",
+      "hex": "9A9997",
+      "alt": "G12-5"
+     },
+     {
+      "id": "PPU26-04",
+      "name": "Falcon Gray",
+      "hex": "898887",
+      "alt": "G11-6"
+     },
+     {
+      "id": "PPU24-07",
+      "name": "Barnwood Gray",
+      "hex": "87857E",
+      "alt": "G1-6"
+     },
+     {
+      "id": "PPU8-22",
+      "name": "Pier",
+      "hex": "88857E",
+      "alt": "G2-6"
+     },
+     {
+      "id": "PPU24-05",
+      "name": "Ancestral",
+      "hex": "71706C",
+      "alt": "G3-6"
+     },
+     {
+      "id": "HDC-AC-25",
+      "name": "Blue Metal",
+      "hex": "5A6365",
+      "alt": "G5-6"
+     },
+     {
+      "id": "PPU25-02",
+      "name": "Black Locust",
+      "hex": "646763",
+      "alt": "G4-6"
+     },
+     {
+      "id": "PPU25-23",
+      "name": "Winter Way",
+      "hex": "3E474C",
+      "alt": "G6-7"
+     },
+     {
+      "id": "MQ5-28",
+      "name": "Dawn Gray",
+      "hex": "6D7273",
+      "alt": "G7-6"
+     },
+     {
+      "id": "PPU18-02",
+      "name": "Pencil Point",
+      "hex": "595D61",
+      "alt": "G8-6"
+     },
+     {
+      "id": "PPU26-02",
+      "name": "Imperial Gray",
+      "hex": "676A6A",
+      "alt": "G9-6"
+     },
+     {
+      "id": "770F-5",
+      "name": "Dark Ash",
+      "hex": "6A6D6D",
+      "alt": "G10-6"
+     },
+     {
+      "id": "PPU24-22",
+      "name": "Shadow Mountain",
+      "hex": "585858",
+      "alt": "G12-6"
+     },
+     {
+      "id": "PPU18-01",
+      "name": "Cracked Pepper",
+      "hex": "4F5152",
+      "alt": "G11-7"
+     },
+     {
+      "id": "PPU24-21",
+      "name": "Greyhound",
+      "hex": "7C7974",
+      "alt": "G1-7"
+     },
+     {
+      "id": "HDC-AC-17A",
+      "name": "Welded Iron",
+      "hex": "6F6F6D",
+      "alt": "G2-7"
+     },
+     {
+      "id": "PPU18-18",
+      "name": "Mined Coal",
+      "hex": "6C6B65",
+      "alt": "G3-7"
+     },
+     {
+      "id": "PPU26-01",
+      "name": "Satin Black",
+      "hex": "4E5152",
+      "alt": "G5-7"
+     },
+     {
+      "id": "PPU25-01",
+      "name": "Carbon Copy",
+      "hex": "545554",
+      "alt": "G4-7"
+     },
+     {
+      "id": "PPU25-22",
+      "name": "Chimney",
+      "hex": "4A5257",
+      "alt": "G6-6"
+     },
+     {
+      "id": "PPU24-23",
+      "name": "Little Black Dress",
+      "hex": "43484B",
+      "alt": "G7-7"
+     },
+     {
+      "id": "PPU15-20",
+      "name": "Poppy Seed",
+      "hex": "4A4E54",
+      "alt": "G8-7"
+     },
+     {
+      "id": "BLACK",
+      "name": "BLACK",
+      "hex": "3F3F3F",
+      "alt": "G9-7"
+     },
+     {
+      "id": "PPU26-23",
+      "name": "Black Boudoir",
+      "hex": "454749",
+      "alt": "G10-7"
+     },
+     {
+      "id": "MQ5-05",
+      "name": "Limousine Leather",
+      "hex": "3B3C3B",
+      "alt": "G12-7"
+     }
+    ]
+   },
+   {
+    "key": "och",
+    "title": "One Coat Hide",
+    "cols": 8,
+    "rows": 25,
+    "tint": "#F0F4F1",
+    "ring": "#4E7A5C",
+    "colors": [
+     {
+      "id": "OH-2-7",
+      "name": "Translucent Silk",
+      "hex": "E1D8CC",
+      "alt": "MQ3-36"
+     },
+     {
+      "id": "W2-2",
+      "name": "Cameo White",
+      "hex": "EBE8E2",
+      "alt": "MQ3-32"
+     },
+     {
+      "id": "YN6-1",
+      "name": "Crisp Linen",
+      "hex": "E7E1D3",
+      "alt": "MQ3-13"
+     },
+     {
+      "id": "OH-4-11",
+      "name": "Moongaze",
+      "hex": "E9DBC4",
+      "alt": "MQ3-41"
+     },
+     {
+      "id": "OH-5-10",
+      "name": "Folly",
+      "hex": "E0E4D2",
+      "alt": "MQ3-46"
+     },
+     {
+      "id": "OH-6-9",
+      "name": "Looking Glass",
+      "hex": "DFE1D9",
+      "alt": "MQ3-45"
+     },
+     {
+      "id": "OH-7-8 / BN6-1",
+      "name": "Offshore Mist",
+      "hex": "CAD8D8",
+      "alt": "PPU13-16"
+     },
+     {
+      "id": "PN5-1",
+      "name": "Mainsail",
+      "hex": "D9DFE3",
+      "alt": "MQ3-26"
+     },
+     {
+      "id": "OH-1-8 / RS8-1",
+      "name": "Stolen Kiss",
+      "hex": "EFDCD3",
+      "alt": "MQ3-34"
+     },
+     {
+      "id": "OH-3-9 / B7-1",
+      "name": "Roman Plaster",
+      "hex": "DDD2BF",
+      "alt": "PPU7-10"
+     },
+     {
+      "id": "OH-3-10",
+      "name": "Varnished Ivory",
+      "hex": "E4DCCC",
+      "alt": "MQ3-40"
+     },
+     {
+      "id": "OH-4-13",
+      "name": "Limescent",
+      "hex": "E0D4B7",
+      "alt": "MQ3-16"
+     },
+     {
+      "id": "OH-5-11",
+      "name": "Chinese Jade",
+      "hex": "CBD1BA",
+      "alt": "PPU10-09"
+     },
+     {
+      "id": "GN7-1",
+      "name": "Breezeway",
+      "hex": "CCD8CF",
+      "alt": "MQ3-21"
+     },
+     {
+      "id": "OH-8-12 / PS1-2",
+      "name": "English Hollyhock",
+      "hex": "B5C9D3",
+      "alt": "HDC-CT-16A"
+     },
+     {
+      "id": "PN6-1",
+      "name": "Will O' the Wisp",
+      "hex": "D7D8DD",
+      "alt": "MQ3-59"
+     },
+     {
+      "id": "OH-1-9",
+      "name": "Cockleshell",
+      "hex": "E3C6AF",
+      "alt": "MQ1-31"
+     },
+     {
+      "id": "OH-4-8 / B4-1",
+      "name": "Dainty Lace",
+      "hex": "DECFBB",
+      "alt": "MQ3-11"
+     },
+     {
+      "id": "OH-3-8 / B6-2",
+      "name": "Wheat Bread",
+      "hex": "CDC4B7",
+      "alt": "720C-3"
+     },
+     {
+      "id": "OH-4-12 / YM6-3",
+      "name": "Honey Mist",
+      "hex": "E5D9B2",
+      "alt": "MQ3-42"
+     },
+     {
+      "id": "OH-5-12",
+      "name": "Minted Lemon",
+      "hex": "C1C6A8",
+      "alt": "PPU10-08"
+     },
+     {
+      "id": "OH-6-8 / GS8-2",
+      "name": "Frosted Jade",
+      "hex": "C2D1C4",
+      "alt": "PPU11-13"
+     },
+     {
+      "id": "OH-7-7",
+      "name": "Dayflower",
+      "hex": "B8CCCD",
+      "alt": "MQ3-54"
+     },
+     {
+      "id": "PN5-2",
+      "name": "Moonlit Snow",
+      "hex": "CED2D7",
+      "alt": "MQ3-61"
+     },
+     {
+      "id": "OH-1-7 / RM8-3",
+      "name": "Noble Blush",
+      "hex": "E8B9B2",
+      "alt": "MQ4-04"
+     },
+     {
+      "id": "OH-4-10",
+      "name": "Studio Clay",
+      "hex": "D9CCB8",
+      "alt": "MQ2-27"
+     },
+     {
+      "id": "OH-3-11 / B6-1",
+      "name": "Sculptor Clay",
+      "hex": "CCC3B4",
+      "alt": "PPU5-08"
+     },
+     {
+      "id": "OH-4-7 / YS4-2",
+      "name": "Ceramic Beige",
+      "hex": "EDD1AC",
+      "alt": "MQ3-43"
+     },
+     {
+      "id": "OH-5-8 / GS4-3",
+      "name": "Sage Brush",
+      "hex": "BFC1A2",
+      "alt": "S370-3"
+     },
+     {
+      "id": "OH-6-11 / GN5-3",
+      "name": "Weathered Moss",
+      "hex": "BABBB3",
+      "alt": "N380-3"
+     },
+     {
+      "id": "BN3-3",
+      "name": "Watery",
+      "hex": "AEBDBB",
+      "alt": "HDC-CT-26"
+     },
+     {
+      "id": "PS7-2",
+      "name": "Sweet Juliet",
+      "hex": "B8BFD2",
+      "alt": "PPU15-15"
+     },
+     {
+      "id": "OH-1-6 / RS8-4",
+      "name": "Retro Pink",
+      "hex": "C49D93",
+      "alt": "S170-4"
+     },
+     {
+      "id": "OH-2-6 / B4-2",
+      "name": "Loft Light",
+      "hex": "DCCAB7",
+      "alt": "MQ3-09"
+     },
+     {
+      "id": "B3-2",
+      "name": "Creamy Mushroom",
+      "hex": "CABDAE",
+      "alt": "PPU5-13"
+     },
+     {
+      "id": "OH-4-5",
+      "name": "Craft Juggler",
+      "hex": "E3C8AA",
+      "alt": "MQ2-45"
+     },
+     {
+      "id": "GS5-3",
+      "name": "Urban Nature",
+      "hex": "BCBFA8",
+      "alt": "S380-3"
+     },
+     {
+      "id": "OH-6-7",
+      "name": "Recycled Glass",
+      "hex": "B7C3B7",
+      "alt": "MQ6-18"
+     },
+     {
+      "id": "OH-7-9 / BN6-3",
+      "name": "Half Sea Fog",
+      "hex": "A9B8BB",
+      "alt": "N470-3"
+     },
+     {
+      "id": "OH-9-12 / PN5-3",
+      "name": "Vanity",
+      "hex": "B1B3BB",
+      "alt": "N540-3"
+     },
+     {
+      "id": "OH-1-12",
+      "name": "Balcony Sunset",
+      "hex": "D78E6B",
+      "alt": "MQ4-38"
+     },
+     {
+      "id": "B5-1",
+      "name": "Plateau",
+      "hex": "DBC4AA",
+      "alt": "PPU4-08"
+     },
+     {
+      "id": "OH-3-7 / ON6-3",
+      "name": "Armadillo",
+      "hex": "C8B9AB",
+      "alt": "N230-3"
+     },
+     {
+      "id": "OH-4-9 / B7-2",
+      "name": "Baja",
+      "hex": "D2C1A8",
+      "alt": "PPU7-08"
+     },
+     {
+      "id": "OH-5-6",
+      "name": "Seedling",
+      "hex": "B8B395",
+      "alt": "PPU9-09"
+     },
+     {
+      "id": "OH-5-9 / GS6-3",
+      "name": "Whitewater Bay",
+      "hex": "BAC4AD",
+      "alt": "PPU11-10"
+     },
+     {
+      "id": "OH-8-11 / BN8-3",
+      "name": "Intercoastal Gray",
+      "hex": "A8B5BC",
+      "alt": "MQ5-23"
+     },
+     {
+      "id": "OH-9-13",
+      "name": "Classy",
+      "hex": "AEACAD",
+      "alt": "MQ5-04"
+     },
+     {
+      "id": "OH-1-10 / OS4-4",
+      "name": "Canyon Dusk",
+      "hex": "C39C83",
+      "alt": "S210-4"
+     },
+     {
+      "id": "OH-2-8",
+      "name": "Irish Cream",
+      "hex": "E1C8AB",
+      "alt": "MQ2-08"
+     },
+     {
+      "id": "OH-9-9 / ON5-3",
+      "name": "Smokestack",
+      "hex": "BEB2A5",
+      "alt": "N220-3"
+     },
+     {
+      "id": "OH-4-16",
+      "name": "Hayloft",
+      "hex": "CDBA96",
+      "alt": "MQ2-22"
+     },
+     {
+      "id": "OH-5-7 / GS1-4",
+      "name": "Back to Nature",
+      "hex": "BDB98F",
+      "alt": "S340-4"
+     },
+     {
+      "id": "GN6-3",
+      "name": "Jojoba",
+      "hex": "B0B9A6",
+      "alt": "N390-3"
+     },
+     {
+      "id": "OH-7-6 / BS3-3",
+      "name": "Ocean Boulevard",
+      "hex": "A4C8C8",
+      "alt": "PPU13-10"
+     },
+     {
+      "id": "OH-9-14",
+      "name": "Masterpiece",
+      "hex": "A1A2AB",
+      "alt": "MQ5-08"
+     },
+     {
+      "id": "OH-1-11",
+      "name": "Stone Brown",
+      "hex": "B79983",
+      "alt": "250F-4"
+     },
+     {
+      "id": "OH-4-6 / YN3-3",
+      "name": "Almond Butter",
+      "hex": "D8C6A8",
+      "alt": "MQ2-23"
+     },
+     {
+      "id": "OH-3-13 / B4-4",
+      "name": "Mesa Taupe",
+      "hex": "B8A899",
+      "alt": "PPU5-14"
+     },
+     {
+      "id": "YN4-4",
+      "name": "Raffia Ribbon",
+      "hex": "CBB08C",
+      "alt": "PPU7-20"
+     },
+     {
+      "id": "OH-5-5 / GN2-4",
+      "name": "Jungle Camouflage",
+      "hex": "AAA794",
+      "alt": "N350-4"
+     },
+     {
+      "id": "BS2-3",
+      "name": "Opal Silk",
+      "hex": "9DB9B2",
+      "alt": "PPU12-08"
+     },
+     {
+      "id": "OH-7-11 / BS4-4",
+      "name": "Tahoe Blue",
+      "hex": "94B8C1",
+      "alt": "PPU13-09"
+     },
+     {
+      "id": "PN5-4",
+      "name": "Silhouette",
+      "hex": "9698A2",
+      "alt": "N540-4"
+     },
+     {
+      "id": "RS7-5",
+      "name": "Terra Cotta Urn",
+      "hex": "B06F60",
+      "alt": "PPU2-12"
+     },
+     {
+      "id": "OH-2-5 / ON7-3",
+      "name": "Sonoran Desert",
+      "hex": "CFB8A1",
+      "alt": "N240-3"
+     },
+     {
+      "id": "OH-3-14 / ON2-4",
+      "name": "Rugged Tan",
+      "hex": "B8A292",
+      "alt": "N190-4"
+     },
+     {
+      "id": "OH-4-15 / YS5-3",
+      "name": "Honey Tea",
+      "hex": "D8BE89",
+      "alt": "MQ2-18"
+     },
+     {
+      "id": "GM1-5",
+      "name": "Fresh Artichoke",
+      "hex": "B2B17C",
+      "alt": "M340-5"
+     },
+     {
+      "id": "OH-6-5 / BN1-3",
+      "name": "Green Balsam",
+      "hex": "A0AC9E",
+      "alt": "PPU11-15"
+     },
+     {
+      "id": "OH-7-10 / BS6-3",
+      "name": "Peaceful Blue",
+      "hex": "9AB6C0",
+      "alt": "S470-3"
+     },
+     {
+      "id": "OH-8-13 / PP3-1",
+      "name": "Bluebird",
+      "hex": "89B1D6",
+      "alt": "PPU15-12"
+     },
+     {
+      "id": "OH-1-13",
+      "name": "Orange Flambe",
+      "hex": "A96F55",
+      "alt": "MQ1-28"
+     },
+     {
+      "id": "OH-2-11 / YN2-3",
+      "name": "Mushroom Bisque",
+      "hex": "CAB49B",
+      "alt": "PPU4-07"
+     },
+     {
+      "id": "ON4-4",
+      "name": "Espresso Martini",
+      "hex": "AA9C8E",
+      "alt": "N210-4"
+     },
+     {
+      "id": "OH-4-14",
+      "name": "Celebration",
+      "hex": "E8C47A",
+      "alt": "MQ4-13A"
+     },
+     {
+      "id": "OH-5-3",
+      "name": "Everglade",
+      "hex": "BDB078",
+      "alt": "MQ6-60"
+     },
+     {
+      "id": "OH-6-12 / GN8-4",
+      "name": "Nature's Gift",
+      "hex": "99A399",
+      "alt": "N410-4"
+     },
+     {
+      "id": "OH-7-5 / BM5-4",
+      "name": "Pure Turquoise",
+      "hex": "7ABEC2",
+      "alt": "M460-4"
+     },
+     {
+      "id": "PM2-4",
+      "name": "Brittany Blue",
+      "hex": "6A92B1",
+      "alt": "M510-4"
+     },
+     {
+      "id": "OH-1-5",
+      "name": "Drama Queen",
+      "hex": "BB6967",
+      "alt": "MQ1-11"
+     },
+     {
+      "id": "OH-2-10 / B4-3",
+      "name": "Basswood",
+      "hex": "C9B196",
+      "alt": "MQ2-46"
+     },
+     {
+      "id": "ON6-4",
+      "name": "Chic Taupe",
+      "hex": "AA9788",
+      "alt": "N230-4"
+     },
+     {
+      "id": "OH-4-3 / YM3-5",
+      "name": "Cellini Gold",
+      "hex": "DDB582",
+      "alt": "HDC-CL-18"
+     },
+     {
+      "id": "OH-5-1",
+      "name": "Pistachio",
+      "hex": "BCAF65",
+      "alt": "MQ4-42"
+     },
+     {
+      "id": "OH-6-13",
+      "name": "In the Moment",
+      "hex": "859893",
+      "alt": "T18-15"
+     },
+     {
+      "id": "OH-7-12",
+      "name": "Adonis",
+      "hex": "64B5BF",
+      "alt": "MQ4-51"
+     },
+     {
+      "id": "OH-8-8 / PS1-5",
+      "name": "Treasure Map",
+      "hex": "658FAA",
+      "alt": "S500-5"
+     },
+     {
+      "id": "OH-9-16 / RN2-5",
+      "name": "Royal Raisin",
+      "hex": "806F72",
+      "alt": "N110-5"
+     },
+     {
+      "id": "OH-3-6",
+      "name": "Mink Haze",
+      "hex": "C5B29F",
+      "alt": "MQ2-32"
+     },
+     {
+      "id": "OH-9-2 / G11-5",
+      "name": "Fashion Gray",
+      "hex": "A29C94",
+      "alt": "PPU18-15"
+     },
+     {
+      "id": "OH-2-9 / YS2-4",
+      "name": "Cr\u00e8me de Caramel",
+      "hex": "D4B38F",
+      "alt": "HDC-NT-04"
+     },
+     {
+      "id": "OH-5-2 / GS2-4",
+      "name": "Dried Rosemary",
+      "hex": "A7A07E",
+      "alt": "S350-4A"
+     },
+     {
+      "id": "OH-6-3",
+      "name": "Mossy Bench",
+      "hex": "83A28F",
+      "alt": "MQ6-11"
+     },
+     {
+      "id": "OH-7-4 / BP5-2",
+      "name": "Caicos Turquoise",
+      "hex": "27B7B5",
+      "alt": "MQ4-21"
+     },
+     {
+      "id": "OH-8-7 / PS3-5",
+      "name": "Thundercloud",
+      "hex": "70869D",
+      "alt": "S520-5"
+     },
+     {
+      "id": "OH-1-15",
+      "name": "Torch Red",
+      "hex": "AD4E3C",
+      "alt": "MQ4-35"
+     },
+     {
+      "id": "OH-2-12 / YN5-4",
+      "name": "Riviera Beach",
+      "hex": "C0AE96",
+      "alt": "PPU7-07"
+     },
+     {
+      "id": "ON3-4",
+      "name": "Rustic Taupe",
+      "hex": "A69C91",
+      "alt": "N200-4"
+     },
+     {
+      "id": "OH-4-4",
+      "name": "Butter Nut",
+      "hex": "CBA578",
+      "alt": "HDC-AC-13"
+     },
+     {
+      "id": "OH-5-4",
+      "name": "Rejuvenation",
+      "hex": "A4A783",
+      "alt": "S370-4"
+     },
+     {
+      "id": "OH-6-4",
+      "name": "Patina",
+      "hex": "78A696",
+      "alt": "MQ6-38"
+     },
+     {
+      "id": "OH-7-13 / BS4-5",
+      "name": "Voyage",
+      "hex": "719CA4",
+      "alt": "PPU13-07"
+     },
+     {
+      "id": "PM1-4",
+      "name": "Hemisphere",
+      "hex": "5285A4",
+      "alt": "M500-4"
+     },
+     {
+      "id": "OH-1-14",
+      "name": "Kalahari Sunset",
+      "hex": "9F5440",
+      "alt": "MQ1-25"
+     },
+     {
+      "id": "OH-3-5 / YN1-4",
+      "name": "Basketry",
+      "hex": "BDA286",
+      "alt": "PPU4-05"
+     },
+     {
+      "id": "ON5-4",
+      "name": "Shiitake",
+      "hex": "A5988A",
+      "alt": "N220-4"
+     },
+     {
+      "id": "YN4-5",
+      "name": "Pocket Watch",
+      "hex": "C2A781",
+      "alt": "N290-5"
+     },
+     {
+      "id": "OH-5-13",
+      "name": "Nurturing",
+      "hex": "A1A97B",
+      "alt": "T18-16"
+     },
+     {
+      "id": "OH-6-14 / BS3-5",
+      "name": "Dragonfly",
+      "hex": "72908D",
+      "alt": "PPU12-03"
+     },
+     {
+      "id": "BS6-4",
+      "name": "Dolphin Blue",
+      "hex": "7C9DA9",
+      "alt": "S470-4"
+     },
+     {
+      "id": "PM5-6",
+      "name": "Neon Blue",
+      "hex": "5D83B3",
+      "alt": "PPU15-06"
+     },
+     {
+      "id": "OS1-7",
+      "name": "True Copper",
+      "hex": "8B5643",
+      "alt": "S180-7"
+     },
+     {
+      "id": "OH-2-14 / ON7-4",
+      "name": "Sierra",
+      "hex": "BBA088",
+      "alt": "N240-4"
+     },
+     {
+      "id": "B3-3",
+      "name": "Pure Earth",
+      "hex": "A79480",
+      "alt": "PPU7-05"
+     },
+     {
+      "id": "YS3-4",
+      "name": "Real Cork",
+      "hex": "C1A17F",
+      "alt": "S280-4"
+     },
+     {
+      "id": "OH-5-14",
+      "name": "Pesto Green",
+      "hex": "98A98B",
+      "alt": "PPU11-05"
+     },
+     {
+      "id": "BN3-5",
+      "name": "Juniper Ash",
+      "hex": "798884",
+      "alt": "PPU12-16"
+     },
+     {
+      "id": "OH-8-10 / BN8-4",
+      "name": "Teton Blue",
+      "hex": "8D99A1",
+      "alt": "N490-4"
+     },
+     {
+      "id": "OH-8-6",
+      "name": "Skinny Jeans",
+      "hex": "667B8E",
+      "alt": "S510-5"
+     },
+     {
+      "id": "OH-1-16",
+      "name": "Red My Mind",
+      "hex": "994341",
+      "alt": "MQ1-10"
+     },
+     {
+      "id": "B5-2",
+      "name": "Midtown",
+      "hex": "B5A18A",
+      "alt": "MQ2-47"
+     },
+     {
+      "id": "B5-4",
+      "name": "Toffee Crunch",
+      "hex": "9F8870",
+      "alt": "700D-5"
+     },
+     {
+      "id": "OH-2-13 / YN2-4",
+      "name": "Oxford Street",
+      "hex": "BDA07F",
+      "alt": "N270-4"
+     },
+     {
+      "id": "GN6-4",
+      "name": "Bitter Sage",
+      "hex": "97A18D",
+      "alt": "N390-4"
+     },
+     {
+      "id": "OH-7-14 / BN6-5",
+      "name": "Norwegian Blue",
+      "hex": "78888E",
+      "alt": "N470-5"
+     },
+     {
+      "id": "OH-8-9 / BN7-5",
+      "name": "Adirondack Blue",
+      "hex": "74858F",
+      "alt": "N480-5"
+     },
+     {
+      "id": "OH-8-14 / PM3-5",
+      "name": "Glass Sapphire",
+      "hex": "587B9B",
+      "alt": "PPU14-02"
+     },
+     {
+      "id": "OH-1-4",
+      "name": "Haute Couture",
+      "hex": "8E4547",
+      "alt": "MQ1-09"
+     },
+     {
+      "id": "OH-2-2",
+      "name": "Key to the City",
+      "hex": "BB9B7C",
+      "alt": "MQ2-03"
+     },
+     {
+      "id": "OH-3-15 / ON5-5",
+      "name": "Ottertail",
+      "hex": "938577",
+      "alt": "N220-5"
+     },
+     {
+      "id": "YS1-4",
+      "name": "Teatime",
+      "hex": "BE9B79",
+      "alt": "PPU4-06"
+     },
+     {
+      "id": "OH-5-15 / GN2-5",
+      "name": "Muted Sage",
+      "hex": "93907E",
+      "alt": "N350-5"
+     },
+     {
+      "id": "OH-6-15",
+      "name": "Coney Island",
+      "hex": "6D7E7D",
+      "alt": "N440-5"
+     },
+     {
+      "id": "OH-7-15 / BN8-5",
+      "name": "Charcoal Blue",
+      "hex": "6F7B84",
+      "alt": "N490-5"
+     },
+     {
+      "id": "OH-8-5 / PS2-5",
+      "name": "Arrowhead Lake",
+      "hex": "58728A",
+      "alt": "PPU14-01"
+     },
+     {
+      "id": "OH-1-3",
+      "name": "Wine Not",
+      "hex": "864C58",
+      "alt": "MQ1-02"
+     },
+     {
+      "id": "OH-3-4",
+      "name": "Soft Chamois",
+      "hex": "AD927B",
+      "alt": "PPU4-04"
+     },
+     {
+      "id": "OH-3-2 / ON6-5",
+      "name": "Dry Brown",
+      "hex": "968374",
+      "alt": "N230-5"
+     },
+     {
+      "id": "YN3-5",
+      "name": "Antique Treasure",
+      "hex": "BB9973",
+      "alt": "N280-5"
+     },
+     {
+      "id": "GN7-5",
+      "name": "Thai Basil",
+      "hex": "7F8B79",
+      "alt": "N400-5"
+     },
+     {
+      "id": "BN1-5",
+      "name": "Boreal",
+      "hex": "717E73",
+      "alt": "N420-5"
+     },
+     {
+      "id": "BS6-5",
+      "name": "Blueprint",
+      "hex": "60818E",
+      "alt": "S470-5"
+     },
+     {
+      "id": "OH-8-4 / PS1-6",
+      "name": "Shipyard",
+      "hex": "4F6F85",
+      "alt": "S500-6"
+     },
+     {
+      "id": "RS7-7",
+      "name": "Red Chipotle",
+      "hex": "834C3E",
+      "alt": "S160-7"
+     },
+     {
+      "id": "OH-3-3 / ON7-5",
+      "name": "Rodeo Tan",
+      "hex": "A78B74",
+      "alt": "N240-5"
+     },
+     {
+      "id": "ON3-6",
+      "name": "Kindling",
+      "hex": "7A7068",
+      "alt": "N200-6"
+     },
+     {
+      "id": "OH-2-4 / OS8-4",
+      "name": "Fresh Croissant",
+      "hex": "CC9F76",
+      "alt": "S250-4"
+     },
+     {
+      "id": "GS4-5",
+      "name": "Pesto Paste",
+      "hex": "898C66",
+      "alt": "S370-5"
+     },
+     {
+      "id": "BN2-6",
+      "name": "Hidden Gem",
+      "hex": "596D69",
+      "alt": "N430-6A"
+     },
+     {
+      "id": "BS5-5",
+      "name": "Blue Square",
+      "hex": "508A9A",
+      "alt": "S460-5"
+     },
+     {
+      "id": "OH-8-16 / PP4-4",
+      "name": "New Age Blue",
+      "hex": "496EAD",
+      "alt": "PPU15-05"
+     },
+     {
+      "id": "OH-1-17 / RS6-7",
+      "name": "Tuscan Terra",
+      "hex": "784D40",
+      "alt": "T27-02"
+     },
+     {
+      "id": "OS6-6",
+      "name": "Burnt Toffee",
+      "hex": "AB7E5E",
+      "alt": "S230-6"
+     },
+     {
+      "id": "B4-7",
+      "name": "Museum",
+      "hex": "685951",
+      "alt": "MQ2-44"
+     },
+     {
+      "id": "OH-4-2",
+      "name": "Lamplit",
+      "hex": "E4AF65",
+      "alt": "MQ4-11"
+     },
+     {
+      "id": "GS5-6",
+      "name": "Ecological",
+      "hex": "808367",
+      "alt": "S380-6"
+     },
+     {
+      "id": "OH-6-16",
+      "name": "Juniper Berries",
+      "hex": "547174",
+      "alt": "PPU13-02"
+     },
+     {
+      "id": "BN7-6",
+      "name": "Nypd",
+      "hex": "5F6E77",
+      "alt": "N480-6"
+     },
+     {
+      "id": "OH-8-15 / PP3-4",
+      "name": "Mega Blue",
+      "hex": "366FA6",
+      "alt": "P520-6"
+     },
+     {
+      "id": "OH-1-2",
+      "name": "Rumors",
+      "hex": "744245",
+      "alt": "MQ1-15"
+     },
+     {
+      "id": "OH-2-15",
+      "name": "Outdoor Land",
+      "hex": "A07D5E",
+      "alt": "MQ2-11"
+     },
+     {
+      "id": "ON6-7",
+      "name": "Rustic Tobacco",
+      "hex": "6E5949",
+      "alt": "N230-7"
+     },
+     {
+      "id": "OH-4-1",
+      "name": "Amber Brew",
+      "hex": "D7A361",
+      "alt": "MQ4-10"
+     },
+     {
+      "id": "GS8-6",
+      "name": "Greener Pastures",
+      "hex": "637C65",
+      "alt": "S410-6"
+     },
+     {
+      "id": "OH-7-3",
+      "name": "Cabana Blue",
+      "hex": "5B9099",
+      "alt": "HDC-AC-23A"
+     },
+     {
+      "id": "OH-7-16 / BN8-6",
+      "name": "Calligraphy",
+      "hex": "59636A",
+      "alt": "N490-6"
+     },
+     {
+      "id": "PP2-5",
+      "name": "Beacon Blue",
+      "hex": "265C98",
+      "alt": "P510-7"
+     },
+     {
+      "id": "RS5-7",
+      "name": "Red Pepper",
+      "hex": "7A3F38",
+      "alt": "PPU2-02"
+     },
+     {
+      "id": "OH-2-1 / OS5-6",
+      "name": "Baked Sienna",
+      "hex": "9B775E",
+      "alt": "S220-6"
+     },
+     {
+      "id": "ON3-7",
+      "name": "Underground",
+      "hex": "665A51",
+      "alt": "N200-7"
+     },
+     {
+      "id": "OH-4-17",
+      "name": "Radiance",
+      "hex": "BB9157",
+      "alt": "MQ4-07"
+     },
+     {
+      "id": "OH-5-16",
+      "name": "Herb Cornucopia",
+      "hex": "6E7357",
+      "alt": "MQ6-53"
+     },
+     {
+      "id": "OH-7-2 / BM6-7",
+      "name": "Caribe",
+      "hex": "147D87",
+      "alt": "PPU13-01"
+     },
+     {
+      "id": "OH-7-17 / BN7-7",
+      "name": "Midnight Blue",
+      "hex": "4C565E",
+      "alt": "N480-7"
+     },
+     {
+      "id": "OH-8-3 / PM2-6",
+      "name": "Tidal",
+      "hex": "40607C",
+      "alt": "M510-6"
+     },
+     {
+      "id": "OH-1-1",
+      "name": "Twinberry",
+      "hex": "684344",
+      "alt": "MQ1-14"
+     },
+     {
+      "id": "OH-2-16",
+      "name": "Gilded Glamour",
+      "hex": "956841",
+      "alt": "MQ2-06"
+     },
+     {
+      "id": "OH-3-1 / B4-6",
+      "name": "Chocolate Swirl",
+      "hex": "68574B",
+      "alt": "PPU5-18"
+     },
+     {
+      "id": "OH-2-3 / OM7-6",
+      "name": "Golden Aura",
+      "hex": "D29E68",
+      "alt": "MQ4-08"
+     },
+     {
+      "id": "GS8-7",
+      "name": "Equestrian Green",
+      "hex": "54654F",
+      "alt": "S410-7"
+     },
+     {
+      "id": "OH-7-1",
+      "name": "Teal Motif",
+      "hex": "006D73",
+      "alt": "MQ6-35"
+     },
+     {
+      "id": "OH-8-2 / PS2-6",
+      "name": "English Channel",
+      "hex": "4E6173",
+      "alt": "PPU14-19"
+     },
+     {
+      "id": "OH-8-17 / PM3-7",
+      "name": "Admiral Blue",
+      "hex": "3E5B7D",
+      "alt": "M520-7"
+     },
+     {
+      "id": "RN4-7",
+      "name": "Death by Chocolate",
+      "hex": "60443F",
+      "alt": "MQ1-54"
+     },
+     {
+      "id": "OS3-7",
+      "name": "Earth Fired Red",
+      "hex": "785240",
+      "alt": "S200-7"
+     },
+     {
+      "id": "OH-3-16 / B3-6",
+      "name": "Dark Truffle",
+      "hex": "594D46",
+      "alt": "PPU5-19"
+     },
+     {
+      "id": "YS3-7",
+      "name": "Roasted Squash",
+      "hex": "96724F",
+      "alt": "S280-7"
+     },
+     {
+      "id": "OH-5-17 / GN7-7",
+      "name": "Vine Leaf",
+      "hex": "4D5F4F",
+      "alt": "N400-7"
+     },
+     {
+      "id": "OH-6-17",
+      "name": "Ocean Abyss",
+      "hex": "2A565B",
+      "alt": "MQ6-01"
+     },
+     {
+      "id": "PS1-7",
+      "name": "Infinite Deep Sea",
+      "hex": "435A6F",
+      "alt": "S500-7"
+     },
+     {
+      "id": "PM5-7",
+      "name": "Mozart",
+      "hex": "485480",
+      "alt": "PPU15-02"
+     },
+     {
+      "id": "OH-9-17 / RS1-7",
+      "name": "Medieval Wine",
+      "hex": "62515B",
+      "alt": "S100-7"
+     },
+     {
+      "id": "OH-2-17 / RN7-7",
+      "name": "Brown Velvet",
+      "hex": "704E40",
+      "alt": "N160-7"
+     },
+     {
+      "id": "OH-3-17 / B6-7",
+      "name": "Espresso Beans",
+      "hex": "4C443E",
+      "alt": "PPU5-01"
+     },
+     {
+      "id": "ON8-6",
+      "name": "Split Rail",
+      "hex": "8E6C51",
+      "alt": "N250-6"
+     },
+     {
+      "id": "OH-6-1",
+      "name": "Equilibrium",
+      "hex": "486159",
+      "alt": "T18-20"
+     },
+     {
+      "id": "BN2-7",
+      "name": "Black Evergreen",
+      "hex": "45524F",
+      "alt": "MQ6-44"
+     },
+     {
+      "id": "OH-8-1 / PS4-7",
+      "name": "Compass Blue",
+      "hex": "35475B",
+      "alt": "MQ5-54"
+     },
+     {
+      "id": "PS6-7",
+      "name": "Black Sapphire",
+      "hex": "434555",
+      "alt": "PPU15-19"
+     }
+    ]
+   }
+  ],
+  "core": [
+   {
+    "id": "RP1-1",
+    "name": "Epiphany",
+    "hex": "DBC1DE",
+    "alt": "P100-3"
+   },
+   {
+    "id": "RP2-1",
+    "name": "BFF",
+    "hex": "DAB0D3",
+    "alt": "P110-3"
+   },
+   {
+    "id": "RP3-1",
+    "name": "High Maintenance",
+    "hex": "D88CB5",
+    "alt": "P120-3"
+   },
+   {
+    "id": "RP4-1",
+    "name": "Little Princess",
+    "hex": "E6AAC1",
+    "alt": "P130-3"
+   },
+   {
+    "id": "RP5-1",
+    "name": "Love at First Sight",
+    "hex": "E5A5B1",
+    "alt": "P140-3"
+   },
+   {
+    "id": "RP6-1",
+    "name": "Pinque",
+    "hex": "ECA2AD",
+    "alt": "P150-3"
+   },
+   {
+    "id": "RP7-1",
+    "name": "All Dressed Up",
+    "hex": "E6999D",
+    "alt": "P160-3"
+   },
+   {
+    "id": "RP8-1",
+    "name": "Infatuation",
+    "hex": "EDA3A2",
+    "alt": "P170-3"
+   },
+   {
+    "id": "RP1-2",
+    "name": "Lover's Knot",
+    "hex": "C4A1CB",
+    "alt": "P100-4"
+   },
+   {
+    "id": "RP2-2",
+    "name": "Joie de Vivre",
+    "hex": "BC86AF",
+    "alt": "MQ4-60"
+   },
+   {
+    "id": "RP3-2",
+    "name": "Heart Breaker",
+    "hex": "CC76A3",
+    "alt": "P120-4"
+   },
+   {
+    "id": "RP4-2",
+    "name": "Sweet Chrysanthemum",
+    "hex": "DD84A3",
+    "alt": "HDC-MD-10A"
+   },
+   {
+    "id": "RP5-2",
+    "name": "I Pink I Can",
+    "hex": "D47F8D",
+    "alt": "P140-4"
+   },
+   {
+    "id": "RP6-2",
+    "name": "Hot Gossip",
+    "hex": "E07C89",
+    "alt": "P150-4"
+   },
+   {
+    "id": "RP7-2",
+    "name": "Juicy Details",
+    "hex": "D9787C",
+    "alt": "P160-4"
+   },
+   {
+    "id": "RP8-2",
+    "name": "Sugar Poppy",
+    "hex": "E58281",
+    "alt": "P170-4"
+   },
+   {
+    "id": "RP1-3",
+    "name": "I Heart Potion",
+    "hex": "A97FB1",
+    "alt": "P100-5"
+   },
+   {
+    "id": "RP2-3",
+    "name": "Eccentric Magenta",
+    "hex": "B576A7",
+    "alt": "P110-5A"
+   },
+   {
+    "id": "RP3-3",
+    "name": "Beauty Queen",
+    "hex": "BE5C87",
+    "alt": "P120-5"
+   },
+   {
+    "id": "RP4-3",
+    "name": "Little Bow Pink",
+    "hex": "D37C99",
+    "alt": "P130-5"
+   },
+   {
+    "id": "RP5-3",
+    "name": "Lovebirds",
+    "hex": "C76A77",
+    "alt": "P140-5"
+   },
+   {
+    "id": "RP6-3",
+    "name": "Strawberry Taffy",
+    "hex": "D86773",
+    "alt": "P150-5A"
+   },
+   {
+    "id": "RP7-3",
+    "name": "Pinkadelic",
+    "hex": "CB5C5B",
+    "alt": "P160-5"
+   },
+   {
+    "id": "RP8-3",
+    "name": "Roulette",
+    "hex": "DB615E",
+    "alt": "P170-5"
+   },
+   {
+    "id": "RP1-4",
+    "name": "Chakra",
+    "hex": "8B5E8F",
+    "alt": "P100-6"
+   },
+   {
+    "id": "RP2-4",
+    "name": "Wild Berry",
+    "hex": "A15D8C",
+    "alt": "P110-6"
+   },
+   {
+    "id": "RP3-4",
+    "name": "Diva Glam",
+    "hex": "B24E76",
+    "alt": "P120-6"
+   },
+   {
+    "id": "RP4-4",
+    "name": "Ballerina Tutu",
+    "hex": "C8647F",
+    "alt": "P130-6"
+   },
+   {
+    "id": "RP5-4",
+    "name": "Hibiscus Flower",
+    "hex": "BC555E",
+    "alt": "P140-6"
+   },
+   {
+    "id": "RP6-4",
+    "name": "Whip Lash",
+    "hex": "C74547",
+    "alt": "P150-6"
+   },
+   {
+    "id": "RP7-4",
+    "name": "Intrigue",
+    "hex": "BE4B47",
+    "alt": "P160-6"
+   },
+   {
+    "id": "RP8-4",
+    "name": "Race Car Stripe",
+    "hex": "CF4944",
+    "alt": "P170-6"
+   },
+   {
+    "id": "RP1-5",
+    "name": "Sultana",
+    "hex": "674668",
+    "alt": "P100-7"
+   },
+   {
+    "id": "RP2-5",
+    "name": "XOXO",
+    "hex": "91507B",
+    "alt": "P110-7"
+   },
+   {
+    "id": "RP3-5",
+    "name": "Glitterati",
+    "hex": "944A63",
+    "alt": "P120-7"
+   },
+   {
+    "id": "RP4-5",
+    "name": "Glamorous",
+    "hex": "B74E64",
+    "alt": "P130-7"
+   },
+   {
+    "id": "RP5-5",
+    "name": "No More Drama",
+    "hex": "A33F40",
+    "alt": "P140-7"
+   },
+   {
+    "id": "RP6-5",
+    "name": "Flirt Alert",
+    "hex": "BE3C37",
+    "alt": "P150-7"
+   },
+   {
+    "id": "RP7-5",
+    "name": "Stiletto Love",
+    "hex": "B6453E",
+    "alt": "P160-7"
+   },
+   {
+    "id": "RP8-5",
+    "name": "100 Mph",
+    "hex": "C93F38",
+    "alt": "P170-7"
+   },
+   {
+    "id": "RM1-1",
+    "name": "Not Quite Purple",
+    "hex": "E6DCE4",
+    "alt": "M100-1A"
+   },
+   {
+    "id": "RM2-1",
+    "name": "Twinkled Pink",
+    "hex": "E9DBE4",
+    "alt": "M110-1"
+   },
+   {
+    "id": "RM3-1",
+    "name": "Pink Proposal",
+    "hex": "F1E0E8",
+    "alt": "M120-1"
+   },
+   {
+    "id": "RM4-1",
+    "name": "Pink Posies",
+    "hex": "EFDBE2",
+    "alt": "M130-1"
+   },
+   {
+    "id": "RM5-1",
+    "name": "Funhouse",
+    "hex": "F3D9DC",
+    "alt": "M140-1"
+   },
+   {
+    "id": "RM6-1",
+    "name": "Lotus Petal",
+    "hex": "F3D6D7",
+    "alt": "M150-1"
+   },
+   {
+    "id": "RM7-1",
+    "name": "Cupcake Pink",
+    "hex": "F6D8D2",
+    "alt": "M160-1"
+   },
+   {
+    "id": "RM8-1",
+    "name": "Pink Elephant",
+    "hex": "F5D5CC",
+    "alt": "M170-1"
+   },
+   {
+    "id": "RM1-2",
+    "name": "Seedless Grape",
+    "hex": "D3C3D4",
+    "alt": "M100-2"
+   },
+   {
+    "id": "RM2-2",
+    "name": "Cassia Buds",
+    "hex": "E0CDDA",
+    "alt": "M110-2"
+   },
+   {
+    "id": "RM3-2",
+    "name": "Kiss Good Night",
+    "hex": "E5C8D9",
+    "alt": "M120-2"
+   },
+   {
+    "id": "RM4-2",
+    "name": "Creamy Freesia",
+    "hex": "EBD0DB",
+    "alt": "M130-2"
+   },
+   {
+    "id": "RM5-2",
+    "name": "Funny Face",
+    "hex": "EDC8CE",
+    "alt": "M140-2"
+   },
+   {
+    "id": "RM6-2",
+    "name": "Peppermint Stick",
+    "hex": "E8B9BE",
+    "alt": "M150-2"
+   },
+   {
+    "id": "RM7-2",
+    "name": "Taffy Twist",
+    "hex": "F1C3BE",
+    "alt": "M160-2"
+   },
+   {
+    "id": "RM8-2",
+    "name": "Prairie Rose",
+    "hex": "F2C8BE",
+    "alt": "M170-2"
+   },
+   {
+    "id": "RM1-3",
+    "name": "Svelte",
+    "hex": "B8A3BB",
+    "alt": "M100-3"
+   },
+   {
+    "id": "RM2-3",
+    "name": "Bedazzled",
+    "hex": "D3B9CC",
+    "alt": "M110-3"
+   },
+   {
+    "id": "RM3-3",
+    "name": "Pink Wink",
+    "hex": "DDB8CE",
+    "alt": "M120-3"
+   },
+   {
+    "id": "RM4-3",
+    "name": "Wild Geranium",
+    "hex": "DFBBCA",
+    "alt": "M130-3"
+   },
+   {
+    "id": "RM5-3",
+    "name": "Premium Pink",
+    "hex": "E6B6BE",
+    "alt": "M140-3"
+   },
+   {
+    "id": "RM6-3",
+    "name": "Apple Blossom",
+    "hex": "E0A7AD",
+    "alt": "M150-3"
+   },
+   {
+    "id": "RM7-3",
+    "name": "Coral Fountain",
+    "hex": "E3A9A2",
+    "alt": "MQ4-03"
+   },
+   {
+    "id": "RM8-3",
+    "name": "Noble Blush",
+    "hex": "E8B9B2",
+    "alt": "MQ4-04"
+   },
+   {
+    "id": "RM1-4",
+    "name": "Aged to Perfection",
+    "hex": "A58EA9",
+    "alt": "M100-4"
+   },
+   {
+    "id": "RM2-4",
+    "name": "Cherished",
+    "hex": "BA97B1",
+    "alt": "M110-4"
+   },
+   {
+    "id": "RM3-4",
+    "name": "Heart to Heart",
+    "hex": "D4A9C3",
+    "alt": "M120-4"
+   },
+   {
+    "id": "RM4-4",
+    "name": "Raspberry Smoothie",
+    "hex": "D0A1B4",
+    "alt": "M130-4"
+   },
+   {
+    "id": "RM5-4",
+    "name": "Fruit Cocktail",
+    "hex": "D08995",
+    "alt": "M140-4"
+   },
+   {
+    "id": "RM6-4",
+    "name": "Glow Pink",
+    "hex": "D8979E",
+    "alt": "M150-4"
+   },
+   {
+    "id": "RM7-4",
+    "name": "Sunset Pink",
+    "hex": "E39B96",
+    "alt": "M160-4A"
+   },
+   {
+    "id": "RM8-4",
+    "name": "Passion Fruit Punch",
+    "hex": "E8AA9D",
+    "alt": "M170-4"
+   },
+   {
+    "id": "RM1-5",
+    "name": "Passion Fruit",
+    "hex": "907895",
+    "alt": "M100-5"
+   },
+   {
+    "id": "RM2-5",
+    "name": "Amazonian Orchid",
+    "hex": "A7819D",
+    "alt": "M110-5"
+   },
+   {
+    "id": "RM3-5",
+    "name": "Rosy",
+    "hex": "BD89A8",
+    "alt": "M120-5"
+   },
+   {
+    "id": "RM4-5",
+    "name": "Cabaret",
+    "hex": "B88096",
+    "alt": "M130-5"
+   },
+   {
+    "id": "RM5-5",
+    "name": "Cherry Fizz",
+    "hex": "BD6973",
+    "alt": "M140-5"
+   },
+   {
+    "id": "RM6-5",
+    "name": "Enamored",
+    "hex": "C67D84",
+    "alt": "M150-5"
+   },
+   {
+    "id": "RM7-5",
+    "name": "Watermelon Punch",
+    "hex": "E1887F",
+    "alt": "PPU1-04A"
+   },
+   {
+    "id": "RM8-5",
+    "name": "Indian Sunset",
+    "hex": "D98A7D",
+    "alt": "M170-5"
+   },
+   {
+    "id": "RM1-6",
+    "name": "Vintner",
+    "hex": "68546A",
+    "alt": "M100-6"
+   },
+   {
+    "id": "RM2-6",
+    "name": "Sophisticated Lilac",
+    "hex": "956C87",
+    "alt": "M110-6"
+   },
+   {
+    "id": "RM3-6",
+    "name": "Love Poem",
+    "hex": "A06582",
+    "alt": "M120-6"
+   },
+   {
+    "id": "RM4-6",
+    "name": "Tropical Hibiscus",
+    "hex": "9C6071",
+    "alt": "M130-6"
+   },
+   {
+    "id": "RM5-6",
+    "name": "Timeless Ruby",
+    "hex": "9A4149",
+    "alt": "HDC-CL-01"
+   },
+   {
+    "id": "RM6-6",
+    "name": "Lingonberry Punch",
+    "hex": "A95657",
+    "alt": "M150-6"
+   },
+   {
+    "id": "RM7-6",
+    "name": "Desert Coral",
+    "hex": "D16459",
+    "alt": "HDC-MD-05"
+   },
+   {
+    "id": "RM8-6",
+    "name": "Dash of Curry",
+    "hex": "CA6E5F",
+    "alt": "M170-6"
+   },
+   {
+    "id": "RM1-7",
+    "name": "Deep Merlot",
+    "hex": "574958",
+    "alt": "M100-7"
+   },
+   {
+    "id": "RM2-7",
+    "name": "Euphoric Magenta",
+    "hex": "7F576D",
+    "alt": "M110-7"
+   },
+   {
+    "id": "RM3-7",
+    "name": "Raspberry Crush",
+    "hex": "875269",
+    "alt": "M120-7"
+   },
+   {
+    "id": "RM4-7",
+    "name": "Sugar Beet",
+    "hex": "834253",
+    "alt": "M130-7"
+   },
+   {
+    "id": "RM5-7",
+    "name": "Dark Crimson",
+    "hex": "843C41",
+    "alt": "M140-7"
+   },
+   {
+    "id": "RM6-7",
+    "name": "Forbidden Red",
+    "hex": "8A4646",
+    "alt": "PPU1-10"
+   },
+   {
+    "id": "RM7-7",
+    "name": "Fire Cracker",
+    "hex": "A04039",
+    "alt": "PPU2-16"
+   },
+   {
+    "id": "RM8-7",
+    "name": "Morocco Red",
+    "hex": "96453B",
+    "alt": "PPU2-17"
+   },
+   {
+    "id": "RS1-1",
+    "name": "Spring Bouquet",
+    "hex": "D9D2DC",
+    "alt": "S100-1"
+   },
+   {
+    "id": "RS2-1",
+    "name": "Secret Scent",
+    "hex": "E3D7DC",
+    "alt": "S110-1"
+   },
+   {
+    "id": "RS3-1",
+    "name": "Wine Pairing",
+    "hex": "E9DBDF",
+    "alt": "S120-1"
+   },
+   {
+    "id": "RS4-1",
+    "name": "Beloved Pink",
+    "hex": "E9D3D4",
+    "alt": "S130-1"
+   },
+   {
+    "id": "RS5-1",
+    "name": "Radiant Rose",
+    "hex": "EED5D4",
+    "alt": "S140-1"
+   },
+   {
+    "id": "RS6-1",
+    "name": "Cherubic",
+    "hex": "E7C8C5",
+    "alt": "S150-1"
+   },
+   {
+    "id": "RS7-1",
+    "name": "Iced Cherry",
+    "hex": "E8C7BF",
+    "alt": "S160-1"
+   },
+   {
+    "id": "RS8-1",
+    "name": "Stolen Kiss",
+    "hex": "EFDCD3",
+    "alt": "MQ3-34"
+   },
+   {
+    "id": "RS1-2",
+    "name": "Romantic Poetry",
+    "hex": "CAC0CE",
+    "alt": "S100-2"
+   },
+   {
+    "id": "RS2-2",
+    "name": "Orchid Haze",
+    "hex": "D8C8D1",
+    "alt": "S110-2"
+   },
+   {
+    "id": "RS3-2",
+    "name": "Etiquette",
+    "hex": "E2D0D6",
+    "alt": "S120-2"
+   },
+   {
+    "id": "RS4-2",
+    "name": "Shy Smile",
+    "hex": "DCBBBE",
+    "alt": "S130-2"
+   },
+   {
+    "id": "RS5-2",
+    "name": "Cranapple Cream",
+    "hex": "E6C4C5",
+    "alt": "S140-2"
+   },
+   {
+    "id": "RS6-2",
+    "name": "Tea Room",
+    "hex": "DCB5B0",
+    "alt": "S150-2"
+   },
+   {
+    "id": "RS7-2",
+    "name": "Pink Quartz",
+    "hex": "DFB7AE",
+    "alt": "S160-2"
+   },
+   {
+    "id": "RS8-2",
+    "name": "Rosewater",
+    "hex": "E2C8BF",
+    "alt": "S170-2"
+   },
+   {
+    "id": "RS1-3",
+    "name": "Courtly Purple",
+    "hex": "BBAFC1",
+    "alt": "S100-3"
+   },
+   {
+    "id": "RS2-3",
+    "name": "Queen's Violet",
+    "hex": "CDB9C4",
+    "alt": "S110-3"
+   },
+   {
+    "id": "RS3-3",
+    "name": "Candlelight Dinner",
+    "hex": "CEB3BE",
+    "alt": "S120-3"
+   },
+   {
+    "id": "RS4-3",
+    "name": "Ballet Rose",
+    "hex": "D3ADB1",
+    "alt": "S130-3"
+   },
+   {
+    "id": "RS5-3",
+    "name": "Berry Crush",
+    "hex": "D6A9AB",
+    "alt": "S140-3"
+   },
+   {
+    "id": "RS6-3",
+    "name": "Rose Pottery",
+    "hex": "D0A29E",
+    "alt": "S150-3"
+   },
+   {
+    "id": "RS7-3",
+    "name": "Bubble Shell",
+    "hex": "D3A49A",
+    "alt": "S160-3"
+   },
+   {
+    "id": "RS8-3",
+    "name": "Castilian Pink",
+    "hex": "D4B3AA",
+    "alt": "S170-3"
+   },
+   {
+    "id": "RS1-4",
+    "name": "Ancestry Violet",
+    "hex": "9E90A7",
+    "alt": "S100-4"
+   },
+   {
+    "id": "RS2-4",
+    "name": "Highland Thistle",
+    "hex": "B9A1AE",
+    "alt": "S110-4"
+   },
+   {
+    "id": "RS3-4",
+    "name": "Decanting",
+    "hex": "BFA1AD",
+    "alt": "S120-4"
+   },
+   {
+    "id": "RS4-4",
+    "name": "Cherry Juice",
+    "hex": "BD9095",
+    "alt": "S130-4"
+   },
+   {
+    "id": "RS5-4",
+    "name": "Dusty Rose",
+    "hex": "C89697",
+    "alt": "S140-4A"
+   },
+   {
+    "id": "RS6-4",
+    "name": "Red Clover",
+    "hex": "BB8580",
+    "alt": "S150-4"
+   },
+   {
+    "id": "RS7-4",
+    "name": "Portuguese Dawn",
+    "hex": "C48F85",
+    "alt": "S160-4"
+   },
+   {
+    "id": "RS8-4",
+    "name": "Retro Pink",
+    "hex": "C49D93",
+    "alt": "S170-4"
+   },
+   {
+    "id": "RS1-5",
+    "name": "Purple Potion",
+    "hex": "84758C",
+    "alt": "S100-5"
+   },
+   {
+    "id": "RS2-5",
+    "name": "Garden Plum",
+    "hex": "9D8292",
+    "alt": "S110-5"
+   },
+   {
+    "id": "RS3-5",
+    "name": "Reserve",
+    "hex": "AC8A98",
+    "alt": "S120-5"
+   },
+   {
+    "id": "RS4-5",
+    "name": "Heirloom Rose",
+    "hex": "A67577",
+    "alt": "S130-5"
+   },
+   {
+    "id": "RS5-5",
+    "name": "Red Gerbera",
+    "hex": "B07573",
+    "alt": "S140-5"
+   },
+   {
+    "id": "RS6-5",
+    "name": "Vermilion",
+    "hex": "A26B66",
+    "alt": "S150-5"
+   },
+   {
+    "id": "RS7-5",
+    "name": "Terra Cotta Urn",
+    "hex": "B06F60",
+    "alt": "PPU2-12"
+   },
+   {
+    "id": "RS8-5",
+    "name": "Smoke Bush Rose",
+    "hex": "AD8177",
+    "alt": "S170-5"
+   },
+   {
+    "id": "RS1-6",
+    "name": "Blackberry Jam",
+    "hex": "6F5F70",
+    "alt": "S100-6"
+   },
+   {
+    "id": "RS2-6",
+    "name": "Plum Royale",
+    "hex": "876C7A",
+    "alt": "S110-6"
+   },
+   {
+    "id": "RS3-6",
+    "name": "Full Glass",
+    "hex": "916B77",
+    "alt": "S120-6"
+   },
+   {
+    "id": "RS4-6",
+    "name": "Spiced Potpourri",
+    "hex": "905D5F",
+    "alt": "S130-6"
+   },
+   {
+    "id": "RS5-6",
+    "name": "Moroccan Ruby",
+    "hex": "8D504B",
+    "alt": "S140-6"
+   },
+   {
+    "id": "RS6-6",
+    "name": "Spice",
+    "hex": "885247",
+    "alt": "PPU2-18"
+   },
+   {
+    "id": "RS7-6",
+    "name": "Red Potato",
+    "hex": "995D50",
+    "alt": "S160-6"
+   },
+   {
+    "id": "RS8-6",
+    "name": "Red Curry",
+    "hex": "8B5E52",
+    "alt": "S170-6"
+   },
+   {
+    "id": "RS1-7",
+    "name": "Medieval Wine",
+    "hex": "62515B",
+    "alt": "S100-7"
+   },
+   {
+    "id": "RS2-7",
+    "name": "Exotic Eggplant",
+    "hex": "705660",
+    "alt": "S110-7"
+   },
+   {
+    "id": "RS3-7",
+    "name": "Fine Wine",
+    "hex": "744E5B",
+    "alt": "S120-7"
+   },
+   {
+    "id": "RS4-7",
+    "name": "Cherry Cola",
+    "hex": "744543",
+    "alt": "S130-7"
+   },
+   {
+    "id": "RS5-7",
+    "name": "Red Pepper",
+    "hex": "7A3F38",
+    "alt": "PPU2-02"
+   },
+   {
+    "id": "RS6-7",
+    "name": "Tuscan Terra",
+    "hex": "784D40",
+    "alt": "T27-02"
+   },
+   {
+    "id": "RS7-7",
+    "name": "Red Chipotle",
+    "hex": "834C3E",
+    "alt": "S160-7"
+   },
+   {
+    "id": "RS8-7",
+    "name": "Dark Cherry Mocha",
+    "hex": "774D41",
+    "alt": "S170-7"
+   },
+   {
+    "id": "RN1-1",
+    "name": "Dutch White",
+    "hex": "E4E5E7",
+    "alt": "MQ3-31"
+   },
+   {
+    "id": "RN2-1",
+    "name": "Dusty Lilac",
+    "hex": "D3CACD",
+    "alt": "N110-1"
+   },
+   {
+    "id": "RN3-1",
+    "name": "Parasol",
+    "hex": "E9DFDE",
+    "alt": "N120-1"
+   },
+   {
+    "id": "RN4-1",
+    "name": "Pearls and Lace",
+    "hex": "DCD0CB",
+    "alt": "N130-1"
+   },
+   {
+    "id": "RN5-1",
+    "name": "Soft Lilac",
+    "hex": "D6D0CC",
+    "alt": "N140-1A"
+   },
+   {
+    "id": "RN6-1",
+    "name": "Mocha Ice",
+    "hex": "DFD2CA",
+    "alt": "N150-1"
+   },
+   {
+    "id": "RN7-1",
+    "name": "Cameo Stone",
+    "hex": "EBDFD8",
+    "alt": "N160-1"
+   },
+   {
+    "id": "RN8-1",
+    "name": "Tailor's Chalk",
+    "hex": "EDE7E0",
+    "alt": "N170-1"
+   },
+   {
+    "id": "RN1-2",
+    "name": "Petal Tip",
+    "hex": "D9D9DF",
+    "alt": "MQ3-30"
+   },
+   {
+    "id": "RN2-2",
+    "name": "Mulberry Stain",
+    "hex": "C5BABE",
+    "alt": "N110-2"
+   },
+   {
+    "id": "RN3-2",
+    "name": "Moxie",
+    "hex": "E5DAD8",
+    "alt": "MQ3-35"
+   },
+   {
+    "id": "RN4-2",
+    "name": "Ash Rose",
+    "hex": "D1C2BC",
+    "alt": "N130-2"
+   },
+   {
+    "id": "RN5-2",
+    "name": "Chicago Fog",
+    "hex": "CAC2BD",
+    "alt": "N140-2"
+   },
+   {
+    "id": "RN6-2",
+    "name": "Smokey Pink",
+    "hex": "CEBDB4",
+    "alt": "N150-2"
+   },
+   {
+    "id": "RN7-2",
+    "name": "Malted",
+    "hex": "DBC8C0",
+    "alt": "N160-2"
+   },
+   {
+    "id": "RN8-2",
+    "name": "Rose Pearl",
+    "hex": "DFD4CC",
+    "alt": "N170-2"
+   },
+   {
+    "id": "RN1-3",
+    "name": "Audition",
+    "hex": "B5ACB7",
+    "alt": "MQ5-36"
+   },
+   {
+    "id": "RN2-3",
+    "name": "Fig Preserves",
+    "hex": "A7989E",
+    "alt": "N110-3"
+   },
+   {
+    "id": "RN3-3",
+    "name": "Mauve It",
+    "hex": "CDBBBC",
+    "alt": "N120-3"
+   },
+   {
+    "id": "RN4-3",
+    "name": "Vintage Tea Rose",
+    "hex": "CBB0A8",
+    "alt": "HDC-CT-07A"
+   },
+   {
+    "id": "RN5-3",
+    "name": "Metropolis",
+    "hex": "B3A9A5",
+    "alt": "N140-3"
+   },
+   {
+    "id": "RN6-3",
+    "name": "Cocoa Craving",
+    "hex": "B9A39A",
+    "alt": "N150-3"
+   },
+   {
+    "id": "RN7-3",
+    "name": "Vintage Charm",
+    "hex": "C7B0A7",
+    "alt": "N160-3"
+   },
+   {
+    "id": "RN8-3",
+    "name": "Gray Ashlar",
+    "hex": "CABAB1",
+    "alt": "N170-3"
+   },
+   {
+    "id": "RN1-4",
+    "name": "Fortune",
+    "hex": "9F97A3",
+    "alt": "N100-4"
+   },
+   {
+    "id": "RN2-4",
+    "name": "Gothic Purple",
+    "hex": "92838A",
+    "alt": "N110-4"
+   },
+   {
+    "id": "RN3-4",
+    "name": "Roaring Twenties",
+    "hex": "B39C9F",
+    "alt": "N120-4"
+   },
+   {
+    "id": "RN4-4",
+    "name": "Plum Taupe",
+    "hex": "B6A19B",
+    "alt": "N130-4"
+   },
+   {
+    "id": "RN5-4",
+    "name": "Tavern Taupe",
+    "hex": "9E938F",
+    "alt": "N140-4"
+   },
+   {
+    "id": "RN6-4",
+    "name": "Modern Mocha",
+    "hex": "9D8376",
+    "alt": "N150-4"
+   },
+   {
+    "id": "RN7-4",
+    "name": "Sonora Rose",
+    "hex": "B4978D",
+    "alt": "N160-4"
+   },
+   {
+    "id": "RN8-4",
+    "name": "Coffee With Cream",
+    "hex": "AF9B91",
+    "alt": "N170-4"
+   },
+   {
+    "id": "RN1-5",
+    "name": "Plush Velvet",
+    "hex": "7E737D",
+    "alt": "N100-5"
+   },
+   {
+    "id": "RN2-5",
+    "name": "Royal Raisin",
+    "hex": "806F72",
+    "alt": "N110-5"
+   },
+   {
+    "id": "RN3-5",
+    "name": "Plumville",
+    "hex": "917778",
+    "alt": "N120-5"
+   },
+   {
+    "id": "RN4-5",
+    "name": "Mystere",
+    "hex": "98817C",
+    "alt": "N130-5"
+   },
+   {
+    "id": "RN5-5",
+    "name": "Complex Gray",
+    "hex": "847975",
+    "alt": "N140-5"
+   },
+   {
+    "id": "RN6-5",
+    "name": "French Truffle",
+    "hex": "896D61",
+    "alt": "N150-5"
+   },
+   {
+    "id": "RN7-5",
+    "name": "Chocolate Delight",
+    "hex": "96786D",
+    "alt": "N160-5"
+   },
+   {
+    "id": "RN8-5",
+    "name": "Chocolate Heart",
+    "hex": "8F786C",
+    "alt": "N170-5"
+   },
+   {
+    "id": "RN1-6",
+    "name": "Urban Legend",
+    "hex": "67585F",
+    "alt": "N100-6"
+   },
+   {
+    "id": "RN2-6",
+    "name": "Dignified Purple",
+    "hex": "716264",
+    "alt": "N110-6"
+   },
+   {
+    "id": "RN3-6",
+    "name": "Raisin in the Sun",
+    "hex": "82696A",
+    "alt": "N120-6"
+   },
+   {
+    "id": "RN4-6",
+    "name": "Oxblood",
+    "hex": "75554E",
+    "alt": "PPU2-20"
+   },
+   {
+    "id": "RN5-6",
+    "name": "Wright Brown",
+    "hex": "71635E",
+    "alt": "N140-6"
+   },
+   {
+    "id": "RN6-6",
+    "name": "Coffee Beans",
+    "hex": "6E544B",
+    "alt": "N150-6"
+   },
+   {
+    "id": "RN7-6",
+    "name": "Spanish Chestnut",
+    "hex": "7F5F52",
+    "alt": "N160-6"
+   },
+   {
+    "id": "RN8-6",
+    "name": "Natural Bark",
+    "hex": "6D574D",
+    "alt": "N170-6"
+   },
+   {
+    "id": "RN1-7",
+    "name": "Aubergine",
+    "hex": "584B4D",
+    "alt": "N100-7"
+   },
+   {
+    "id": "RN2-7",
+    "name": "Sweet Molasses",
+    "hex": "4B423F",
+    "alt": "PPU5-20"
+   },
+   {
+    "id": "RN3-7",
+    "name": "Divine Wine",
+    "hex": "583E3E",
+    "alt": "PPU1-02"
+   },
+   {
+    "id": "RN4-7",
+    "name": "Death By Chocolate",
+    "hex": "60443F",
+    "alt": "MQ1-54"
+   },
+   {
+    "id": "RN5-7",
+    "name": "Timber Brown",
+    "hex": "605652",
+    "alt": "N140-7"
+   },
+   {
+    "id": "RN6-7",
+    "name": "Chocolate Therapy",
+    "hex": "5F4940",
+    "alt": "N150-7"
+   },
+   {
+    "id": "RN7-7",
+    "name": "Brown Velvet",
+    "hex": "704E40",
+    "alt": "N160-7"
+   },
+   {
+    "id": "RN8-7",
+    "name": "Baronial Brown",
+    "hex": "5A4840",
+    "alt": "N170-7"
+   },
+   {
+    "id": "OP1-1",
+    "name": "Peach Mimosa",
+    "hex": "F4A28C",
+    "alt": "HDC-MD-18"
+   },
+   {
+    "id": "OP2-1",
+    "name": "Melon Sorbet",
+    "hex": "F8B797",
+    "alt": "P190-3"
+   },
+   {
+    "id": "OP3-1",
+    "name": "Tomorrow's Coral",
+    "hex": "FFC5A3",
+    "alt": "P200-3"
+   },
+   {
+    "id": "OP4-1",
+    "name": "Gumdrops",
+    "hex": "FFC69D",
+    "alt": "P210-3"
+   },
+   {
+    "id": "OP5-1",
+    "name": "Tropical Fruit",
+    "hex": "FDD3A7",
+    "alt": "P220-3"
+   },
+   {
+    "id": "OP6-1",
+    "name": "Vitamin C",
+    "hex": "FFD3A7",
+    "alt": "P230-3"
+   },
+   {
+    "id": "OP7-1",
+    "name": "Mango Nectar",
+    "hex": "FFD49D",
+    "alt": "P240-3"
+   },
+   {
+    "id": "OP8-1",
+    "name": "Marsh Marigold",
+    "hex": "FFD89A",
+    "alt": "P250-3"
+   },
+   {
+    "id": "OP1-2",
+    "name": "Guava Jelly",
+    "hex": "EE9685",
+    "alt": "P180-4"
+   },
+   {
+    "id": "OP2-2",
+    "name": "Siren",
+    "hex": "F5A482",
+    "alt": "P190-4"
+   },
+   {
+    "id": "OP3-2",
+    "name": "Carotene",
+    "hex": "FDB793",
+    "alt": "P200-4"
+   },
+   {
+    "id": "OP4-2",
+    "name": "Lollipop",
+    "hex": "FFB587",
+    "alt": "P210-4"
+   },
+   {
+    "id": "OP5-2",
+    "name": "Dainty Apricot",
+    "hex": "FDC592",
+    "alt": "P220-4"
+   },
+   {
+    "id": "OP6-2",
+    "name": "Citrus Punch",
+    "hex": "FDC797",
+    "alt": "P230-4"
+   },
+   {
+    "id": "OP7-2",
+    "name": "Mango Tango",
+    "hex": "FFC785",
+    "alt": "P240-4"
+   },
+   {
+    "id": "OP8-2",
+    "name": "Equatorial",
+    "hex": "FFCE84",
+    "alt": "P250-4"
+   },
+   {
+    "id": "OP1-3",
+    "name": "Watermelon Slice",
+    "hex": "E77B68",
+    "alt": "P180-5"
+   },
+   {
+    "id": "OP2-3",
+    "name": "Orioles",
+    "hex": "EE8962",
+    "alt": "P190-5"
+   },
+   {
+    "id": "OP3-3",
+    "name": "Burning Coals",
+    "hex": "F79D72",
+    "alt": "P200-5"
+   },
+   {
+    "id": "OP4-3",
+    "name": "Cheerful Tangerine",
+    "hex": "FDA471",
+    "alt": "P210-5"
+   },
+   {
+    "id": "OP5-3",
+    "name": "Fuzzy Peach",
+    "hex": "FAB47B",
+    "alt": "P220-5"
+   },
+   {
+    "id": "OP6-3",
+    "name": "Florida Sunrise",
+    "hex": "F7AA6F",
+    "alt": "P230-5"
+   },
+   {
+    "id": "OP7-3",
+    "name": "Cheese Puff",
+    "hex": "FFB96F",
+    "alt": "P240-5"
+   },
+   {
+    "id": "OP8-3",
+    "name": "Solar Storm",
+    "hex": "FFC16D",
+    "alt": "P250-5"
+   },
+   {
+    "id": "OP1-4",
+    "name": "Pimento",
+    "hex": "DC5D47",
+    "alt": "P180-6"
+   },
+   {
+    "id": "OP2-4",
+    "name": "Emergency Zone",
+    "hex": "E36940",
+    "alt": "P190-6"
+   },
+   {
+    "id": "OP3-4",
+    "name": "Sizzling Sunset",
+    "hex": "EB7E4D",
+    "alt": "P200-6"
+   },
+   {
+    "id": "OP4-4",
+    "name": "Mandarin",
+    "hex": "E88951",
+    "alt": "P210-6"
+   },
+   {
+    "id": "OP5-4",
+    "name": "Bergamot Orange",
+    "hex": "F59D59",
+    "alt": "P220-6"
+   },
+   {
+    "id": "OP6-4",
+    "name": "Toucan",
+    "hex": "F09650",
+    "alt": "P230-6"
+   },
+   {
+    "id": "OP7-4",
+    "name": "Exotic Blossom",
+    "hex": "FD9D43",
+    "alt": "P240-6"
+   },
+   {
+    "id": "OP8-4",
+    "name": "Splendor Gold",
+    "hex": "FFB14E",
+    "alt": "P250-6"
+   },
+   {
+    "id": "OP1-5",
+    "name": "Top Tomato",
+    "hex": "D04938",
+    "alt": "P180-7"
+   },
+   {
+    "id": "OP2-5",
+    "name": "Inferno",
+    "hex": "DA5736",
+    "alt": "P190-7"
+   },
+   {
+    "id": "OP3-5",
+    "name": "Bonfire Night",
+    "hex": "DE6A41",
+    "alt": "P200-7"
+   },
+   {
+    "id": "OP4-5",
+    "name": "Japanese Koi",
+    "hex": "DB7842",
+    "alt": "P210-7"
+   },
+   {
+    "id": "OP5-5",
+    "name": "Tart Orange",
+    "hex": "EA7739",
+    "alt": "HDC-MD-27"
+   },
+   {
+    "id": "OP6-5",
+    "name": "Acapulco Sun",
+    "hex": "EB8A44",
+    "alt": "P230-7"
+   },
+   {
+    "id": "OP7-5",
+    "name": "Joyful Orange",
+    "hex": "FA9335",
+    "alt": "P240-7"
+   },
+   {
+    "id": "OP8-5",
+    "name": "Blazing Bonfire",
+    "hex": "FFA035",
+    "alt": "P250-7"
+   },
+   {
+    "id": "OM1-1",
+    "name": "Island Hopping",
+    "hex": "F6E3D6",
+    "alt": "M180-1"
+   },
+   {
+    "id": "OM2-1",
+    "name": "Pink Sea Salt",
+    "hex": "F5DACB",
+    "alt": "M190-1"
+   },
+   {
+    "id": "OM3-1",
+    "name": "Peach Sachet",
+    "hex": "F6D9C9",
+    "alt": "M200-1"
+   },
+   {
+    "id": "OM4-1",
+    "name": "Seed Pearl",
+    "hex": "FAEFE4",
+    "alt": "M210-1"
+   },
+   {
+    "id": "OM5-1",
+    "name": "Marshmallow Whip",
+    "hex": "F9EFE0",
+    "alt": "M220-1"
+   },
+   {
+    "id": "OM6-1",
+    "name": "Sweet Coconut Milk",
+    "hex": "FBF1DF",
+    "alt": "M230-1"
+   },
+   {
+    "id": "OM7-1",
+    "name": "Bay Scallop",
+    "hex": "FBE6CD",
+    "alt": "M240-1"
+   },
+   {
+    "id": "OM8-1",
+    "name": "Frosting Cream",
+    "hex": "F7E2C7",
+    "alt": "M250-1"
+   },
+   {
+    "id": "OM1-2",
+    "name": "Resort Sunrise",
+    "hex": "F4D7C5",
+    "alt": "M180-2"
+   },
+   {
+    "id": "OM2-2",
+    "name": "Everblooming",
+    "hex": "F0C8B6",
+    "alt": "M190-2"
+   },
+   {
+    "id": "OM3-2",
+    "name": "Fruit Salad",
+    "hex": "F0CAB5",
+    "alt": "M200-2"
+   },
+   {
+    "id": "OM4-2",
+    "name": "Paper Heart",
+    "hex": "F7DBC7",
+    "alt": "M210-2"
+   },
+   {
+    "id": "OM5-2",
+    "name": "Pumpkin Essence",
+    "hex": "F7DAC0",
+    "alt": "M220-2"
+   },
+   {
+    "id": "OM6-2",
+    "name": "Caf\u00e9 Cream",
+    "hex": "F9E8D3",
+    "alt": "PPU4-09"
+   },
+   {
+    "id": "OM7-2",
+    "name": "Pinch of Pearl",
+    "hex": "F9DEBE",
+    "alt": "M240-2"
+   },
+   {
+    "id": "OM8-2",
+    "name": "Golden Pastel",
+    "hex": "F4D9B9",
+    "alt": "M250-2"
+   },
+   {
+    "id": "OM1-3",
+    "name": "Flamingo Feather",
+    "hex": "EEC2AD",
+    "alt": "M180-3"
+   },
+   {
+    "id": "OM2-3",
+    "name": "Pink Abalone",
+    "hex": "E9B8A4",
+    "alt": "M190-3"
+   },
+   {
+    "id": "OM3-3",
+    "name": "Sunset Drive",
+    "hex": "EABBA2",
+    "alt": "M200-3"
+   },
+   {
+    "id": "OM4-3",
+    "name": "Sweet Pastel",
+    "hex": "EDC8B1",
+    "alt": "MQ3-39"
+   },
+   {
+    "id": "OM5-3",
+    "name": "Carving Party",
+    "hex": "F0C39F",
+    "alt": "M220-3"
+   },
+   {
+    "id": "OM6-3",
+    "name": "Porcelain Peach",
+    "hex": "F5D8BA",
+    "alt": "PPU4-11"
+   },
+   {
+    "id": "OM7-3",
+    "name": "Ice Cream Parlour",
+    "hex": "F7D3AD",
+    "alt": "M240-3"
+   },
+   {
+    "id": "OM8-3",
+    "name": "Apple Turnover",
+    "hex": "E8C194",
+    "alt": "M250-3"
+   },
+   {
+    "id": "OM1-4",
+    "name": "Priceless Coral",
+    "hex": "E5A68D",
+    "alt": "M180-4"
+   },
+   {
+    "id": "OM2-4",
+    "name": "California Coral",
+    "hex": "E3AA94",
+    "alt": "M190-4"
+   },
+   {
+    "id": "OM3-4",
+    "name": "Coral Cloud",
+    "hex": "E3AC92",
+    "alt": "M200-4"
+   },
+   {
+    "id": "OM4-4",
+    "name": "Nairobi Dusk",
+    "hex": "D9A787",
+    "alt": "PPU3-10"
+   },
+   {
+    "id": "OM5-4",
+    "name": "Trick Or Treat",
+    "hex": "EAB38A",
+    "alt": "M220-4"
+   },
+   {
+    "id": "OM6-4",
+    "name": "Cactus Blooms",
+    "hex": "F6C79D",
+    "alt": "M230-4"
+   },
+   {
+    "id": "OM7-4",
+    "name": "Sheer Apricot",
+    "hex": "F3C99D",
+    "alt": "M240-4"
+   },
+   {
+    "id": "OM8-4",
+    "name": "Cork",
+    "hex": "D9AD7A",
+    "alt": "PPU6-05"
+   },
+   {
+    "id": "OM1-5",
+    "name": "King Salmon",
+    "hex": "D88668",
+    "alt": "M180-5"
+   },
+   {
+    "id": "OM2-5",
+    "name": "Fireplace Glow",
+    "hex": "D08B73",
+    "alt": "M190-5"
+   },
+   {
+    "id": "OM3-5",
+    "name": "Terra Cotta Clay",
+    "hex": "D08F73",
+    "alt": "M200-5"
+   },
+   {
+    "id": "OM4-5",
+    "name": "Candied Yams",
+    "hex": "D69875",
+    "alt": "M210-5"
+   },
+   {
+    "id": "OM5-5",
+    "name": "Roasted Seeds",
+    "hex": "E1A175",
+    "alt": "M220-5"
+   },
+   {
+    "id": "OM6-5",
+    "name": "Sweet Curry",
+    "hex": "E8A773",
+    "alt": "M230-5"
+   },
+   {
+    "id": "OM7-5",
+    "name": "Squash Bisque",
+    "hex": "E7B17C",
+    "alt": "M240-5"
+   },
+   {
+    "id": "OM8-5",
+    "name": "Burnt Pumpkin",
+    "hex": "CA955C",
+    "alt": "M250-5"
+   },
+   {
+    "id": "OM1-6",
+    "name": "Tiki Torch",
+    "hex": "CC6F50",
+    "alt": "M180-6"
+   },
+   {
+    "id": "OM2-6",
+    "name": "Before Winter",
+    "hex": "BD6F56",
+    "alt": "M190-6"
+   },
+   {
+    "id": "OM3-6",
+    "name": "Moroccan Sky",
+    "hex": "BF7756",
+    "alt": "PPU3-01"
+   },
+   {
+    "id": "OM4-6",
+    "name": "Orange Liqueur",
+    "hex": "C57E59",
+    "alt": "M210-6"
+   },
+   {
+    "id": "OM5-6",
+    "name": "Blazing Autumn",
+    "hex": "D78D5E",
+    "alt": "M220-6A"
+   },
+   {
+    "id": "OM6-6",
+    "name": "Flaming Torch",
+    "hex": "D2864E",
+    "alt": "PPU3-03"
+   },
+   {
+    "id": "OM7-6",
+    "name": "Golden Aura",
+    "hex": "D29E68",
+    "alt": "MQ4-08"
+   },
+   {
+    "id": "OM8-6",
+    "name": "Toffee Tart",
+    "hex": "C08950",
+    "alt": "M250-6"
+   },
+   {
+    "id": "OM1-7",
+    "name": "Deep Fire",
+    "hex": "BF5C42",
+    "alt": "M180-7"
+   },
+   {
+    "id": "OM2-7",
+    "name": "Colorful Leaves",
+    "hex": "AA5C43",
+    "alt": "M190-7"
+   },
+   {
+    "id": "OM3-7",
+    "name": "Rusty Gate",
+    "hex": "AF6649",
+    "alt": "M200-7"
+   },
+   {
+    "id": "OM4-7",
+    "name": "Glazed Pot",
+    "hex": "AD7356",
+    "alt": "PPU3-15"
+   },
+   {
+    "id": "OM5-7",
+    "name": "Maple Glaze",
+    "hex": "A76945",
+    "alt": "PPU3-16"
+   },
+   {
+    "id": "OM6-7",
+    "name": "Rumba Orange",
+    "hex": "C77B42",
+    "alt": "M230-7"
+   },
+   {
+    "id": "OM7-7",
+    "name": "Butter Rum",
+    "hex": "C38650",
+    "alt": "PPU4-03"
+   },
+   {
+    "id": "OM8-7",
+    "name": "Blonde Wood",
+    "hex": "AB7741",
+    "alt": "M250-7"
+   },
+   {
+    "id": "OS1-1",
+    "name": "Angelico",
+    "hex": "EACFC2",
+    "alt": "S180-1"
+   },
+   {
+    "id": "OS2-1",
+    "name": "Seaside Villa",
+    "hex": "E9D5C9",
+    "alt": "S190-1"
+   },
+   {
+    "id": "OS3-1",
+    "name": "Conch Shell",
+    "hex": "E8D2C1",
+    "alt": "S200-1"
+   },
+   {
+    "id": "OS4-1",
+    "name": "Nutmeg Frost",
+    "hex": "ECD9CA",
+    "alt": "S210-1"
+   },
+   {
+    "id": "OS5-1",
+    "name": "Autumn Blush",
+    "hex": "E4D1C0",
+    "alt": "S220-1"
+   },
+   {
+    "id": "OS6-1",
+    "name": "Buff Tone",
+    "hex": "E8D0B9",
+    "alt": "S230-1"
+   },
+   {
+    "id": "OS7-1",
+    "name": "Cr\u00e8me Fra\u00eeche",
+    "hex": "EADBC9",
+    "alt": "S240-1"
+   },
+   {
+    "id": "OS8-1",
+    "name": "Macaroon Cream",
+    "hex": "F3DFC9",
+    "alt": "S250-1"
+   },
+   {
+    "id": "OS1-2",
+    "name": "Sunwashed Brick",
+    "hex": "E3C1B3",
+    "alt": "S180-2"
+   },
+   {
+    "id": "OS2-2",
+    "name": "Sand Dance",
+    "hex": "E0C8B9",
+    "alt": "S190-2"
+   },
+   {
+    "id": "OS3-2",
+    "name": "Cinnamon Tea",
+    "hex": "DEC0AD",
+    "alt": "S200-2"
+   },
+   {
+    "id": "OS4-2",
+    "name": "Tapestry Beige",
+    "hex": "E2C7B3",
+    "alt": "S210-2"
+   },
+   {
+    "id": "OS5-2",
+    "name": "Artisan Tea",
+    "hex": "DAC2AF",
+    "alt": "S220-2"
+   },
+   {
+    "id": "OS6-2",
+    "name": "Mesquite Powder",
+    "hex": "E3C8B1",
+    "alt": "S230-2"
+   },
+   {
+    "id": "OS7-2",
+    "name": "Rice Crackers",
+    "hex": "E0CCB6",
+    "alt": "S240-2"
+   },
+   {
+    "id": "OS8-2",
+    "name": "Jasper Cane",
+    "hex": "E7C89F",
+    "alt": "PPU4-15"
+   },
+   {
+    "id": "OS1-3",
+    "name": "Flowerpot",
+    "hex": "D8B0A0",
+    "alt": "S180-3"
+   },
+   {
+    "id": "OS2-3",
+    "name": "Sedona Pink",
+    "hex": "D6B8A7",
+    "alt": "S190-3"
+   },
+   {
+    "id": "OS3-3",
+    "name": "Iced Copper",
+    "hex": "D0AE9A",
+    "alt": "S200-3"
+   },
+   {
+    "id": "OS4-3",
+    "name": "Sweet Tea",
+    "hex": "D3B29A",
+    "alt": "S210-3"
+   },
+   {
+    "id": "OS5-3",
+    "name": "Sanderling",
+    "hex": "C8AB96",
+    "alt": "S220-3"
+   },
+   {
+    "id": "OS6-3",
+    "name": "Pumpkin Cream",
+    "hex": "DBBA9D",
+    "alt": "PPU3-09"
+   },
+   {
+    "id": "OS7-3",
+    "name": "Ash Blonde",
+    "hex": "D7BEA5",
+    "alt": "S240-3"
+   },
+   {
+    "id": "OS8-3",
+    "name": "Honey Nougat",
+    "hex": "E0BB96",
+    "alt": "S250-3"
+   },
+   {
+    "id": "OS1-4",
+    "name": "Shiny Kettle",
+    "hex": "CEA190",
+    "alt": "S180-4"
+   },
+   {
+    "id": "OS2-4",
+    "name": "Spiced Brandy",
+    "hex": "BB9683",
+    "alt": "S190-4"
+   },
+   {
+    "id": "OS3-4",
+    "name": "Chestnut Bisque",
+    "hex": "C19C86",
+    "alt": "S200-4"
+   },
+   {
+    "id": "OS4-4",
+    "name": "Canyon Dusk",
+    "hex": "C39C83",
+    "alt": "S210-4"
+   },
+   {
+    "id": "OS5-4",
+    "name": "Potter's Clay",
+    "hex": "B7967F",
+    "alt": "S220-4"
+   },
+   {
+    "id": "OS6-4",
+    "name": "Egyptian Pyramid",
+    "hex": "C19A7D",
+    "alt": "PPU3-12"
+   },
+   {
+    "id": "OS7-4",
+    "name": "Pacific Bluffs",
+    "hex": "C3A285",
+    "alt": "S240-4"
+   },
+   {
+    "id": "OS8-4",
+    "name": "Fresh Croissant",
+    "hex": "CC9F76",
+    "alt": "S250-4"
+   },
+   {
+    "id": "OS1-5",
+    "name": "Auburn Glaze",
+    "hex": "B58271",
+    "alt": "S180-5"
+   },
+   {
+    "id": "OS2-5",
+    "name": "Cocoa Nutmeg",
+    "hex": "A8816F",
+    "alt": "S190-5"
+   },
+   {
+    "id": "OS3-5",
+    "name": "Minestrone",
+    "hex": "B08872",
+    "alt": "S200-5"
+   },
+   {
+    "id": "OS4-5",
+    "name": "Cider Spice",
+    "hex": "AE8167",
+    "alt": "S210-5"
+   },
+   {
+    "id": "OS5-5",
+    "name": "Nutshell",
+    "hex": "A9856B",
+    "alt": "S220-5"
+   },
+   {
+    "id": "OS6-5",
+    "name": "Sugar Maple",
+    "hex": "B99072",
+    "alt": "S230-5"
+   },
+   {
+    "id": "OS7-5",
+    "name": "Poncho",
+    "hex": "B49073",
+    "alt": "S240-5"
+   },
+   {
+    "id": "OS8-5",
+    "name": "Glazed Ginger",
+    "hex": "C28C5F",
+    "alt": "PPU3-13"
+   },
+   {
+    "id": "OS1-6",
+    "name": "Perfect Penny",
+    "hex": "A06A56",
+    "alt": "S180-6"
+   },
+   {
+    "id": "OS2-6",
+    "name": "Rio Rust",
+    "hex": "926956",
+    "alt": "S190-6"
+   },
+   {
+    "id": "OS3-6",
+    "name": "Timeless Copper",
+    "hex": "976D59",
+    "alt": "S200-6"
+   },
+   {
+    "id": "OS4-6",
+    "name": "Cinnamon Crunch",
+    "hex": "9B6E57",
+    "alt": "S210-6"
+   },
+   {
+    "id": "OS5-6",
+    "name": "Baked Sienna",
+    "hex": "9B775E",
+    "alt": "S220-6"
+   },
+   {
+    "id": "OS6-6",
+    "name": "Burnt Toffee",
+    "hex": "AB7E5E",
+    "alt": "S230-6"
+   },
+   {
+    "id": "OS7-6",
+    "name": "Ranch Brown",
+    "hex": "9E7454",
+    "alt": "S240-6"
+   },
+   {
+    "id": "OS8-6",
+    "name": "Desert Clay",
+    "hex": "9E6E43",
+    "alt": "S250-6"
+   },
+   {
+    "id": "OS1-7",
+    "name": "True Copper",
+    "hex": "8B5643",
+    "alt": "S180-7"
+   },
+   {
+    "id": "OS2-7",
+    "name": "Moroccan Henna",
+    "hex": "6E5043",
+    "alt": "PPU3-19"
+   },
+   {
+    "id": "OS3-7",
+    "name": "Earth Fired Red",
+    "hex": "785240",
+    "alt": "S200-7"
+   },
+   {
+    "id": "OS4-7",
+    "name": "October Leaves",
+    "hex": "855743",
+    "alt": "S210-7"
+   },
+   {
+    "id": "OS5-7",
+    "name": "Clay Pot",
+    "hex": "896754",
+    "alt": "PPU3-17"
+   },
+   {
+    "id": "OS6-7",
+    "name": "Toasted Bagel",
+    "hex": "986B4D",
+    "alt": "S230-7"
+   },
+   {
+    "id": "OS7-7",
+    "name": "Leather Work",
+    "hex": "8A6347",
+    "alt": "S240-7"
+   },
+   {
+    "id": "OS8-7",
+    "name": "Moroccan Spice",
+    "hex": "8F623B",
+    "alt": "S250-7"
+   },
+   {
+    "id": "ON1-1",
+    "name": "Barely Brown",
+    "hex": "E8E2DA",
+    "alt": "N180-1"
+   },
+   {
+    "id": "ON2-1",
+    "name": "Smokey Cream",
+    "hex": "E9DFD5",
+    "alt": "N190-1"
+   },
+   {
+    "id": "ON3-1",
+    "name": "Burnished Clay",
+    "hex": "D2CCC4",
+    "alt": "PPU18-09"
+   },
+   {
+    "id": "ON4-1",
+    "name": "Taupe Tease",
+    "hex": "E0D9CF",
+    "alt": "N210-1"
+   },
+   {
+    "id": "ON5-1",
+    "name": "Spun Wool",
+    "hex": "E3DED4",
+    "alt": "N220-1"
+   },
+   {
+    "id": "ON6-1",
+    "name": "Castle Beige",
+    "hex": "E0D5CA",
+    "alt": "N230-1"
+   },
+   {
+    "id": "ON7-1",
+    "name": "Cascade Beige",
+    "hex": "E7DBCA",
+    "alt": "N240-1"
+   },
+   {
+    "id": "ON8-1",
+    "name": "Heavy Cream",
+    "hex": "F5EBDC",
+    "alt": "PPU5-10"
+   },
+   {
+    "id": "ON1-2",
+    "name": "Jodhpur Tan",
+    "hex": "DAD1C8",
+    "alt": "N180-2"
+   },
+   {
+    "id": "ON2-2",
+    "name": "Stonewashed Brown",
+    "hex": "DCCDC0",
+    "alt": "N190-2"
+   },
+   {
+    "id": "ON3-2",
+    "name": "Doeskin Gray",
+    "hex": "CCC3BA",
+    "alt": "N200-2"
+   },
+   {
+    "id": "ON4-2",
+    "name": "Cappuccino Froth",
+    "hex": "D1C7BB",
+    "alt": "N210-2"
+   },
+   {
+    "id": "ON5-2",
+    "name": "Ashen Tan",
+    "hex": "D3CABF",
+    "alt": "N220-2"
+   },
+   {
+    "id": "ON6-2",
+    "name": "Old Map",
+    "hex": "D5C9BC",
+    "alt": "N230-2"
+   },
+   {
+    "id": "ON7-2",
+    "name": "Adobe Sand",
+    "hex": "E1D0BE",
+    "alt": "N240-2"
+   },
+   {
+    "id": "ON8-2",
+    "name": "Bali Sand",
+    "hex": "DDC5AF",
+    "alt": "N250-2A"
+   },
+   {
+    "id": "ON1-3",
+    "name": "Race Track",
+    "hex": "CBBEB5",
+    "alt": "N180-3"
+   },
+   {
+    "id": "ON2-3",
+    "name": "Windrift Beige",
+    "hex": "CEBCAE",
+    "alt": "N190-3"
+   },
+   {
+    "id": "ON3-3",
+    "name": "Nightingale Gray",
+    "hex": "BAAEA3",
+    "alt": "N200-3"
+   },
+   {
+    "id": "ON4-3",
+    "name": "Graceful Gray",
+    "hex": "BEB6AC",
+    "alt": "PPU18-12"
+   },
+   {
+    "id": "ON5-3",
+    "name": "Smokestack",
+    "hex": "BEB2A5",
+    "alt": "N220-3"
+   },
+   {
+    "id": "ON6-3",
+    "name": "Armadillo",
+    "hex": "C8B9AB",
+    "alt": "N230-3"
+   },
+   {
+    "id": "ON7-3",
+    "name": "Sonoran Desert",
+    "hex": "CFB8A1",
+    "alt": "N240-3"
+   },
+   {
+    "id": "ON8-3",
+    "name": "Pottery Wheel",
+    "hex": "CAAC91",
+    "alt": "N250-3"
+   },
+   {
+    "id": "ON1-4",
+    "name": "Moleskin",
+    "hex": "B0A196",
+    "alt": "N180-4"
+   },
+   {
+    "id": "ON2-4",
+    "name": "Rugged Tan",
+    "hex": "B8A292",
+    "alt": "N190-4"
+   },
+   {
+    "id": "ON3-4",
+    "name": "Rustic Taupe",
+    "hex": "A69C91",
+    "alt": "N200-4"
+   },
+   {
+    "id": "ON4-4",
+    "name": "Espresso Martini",
+    "hex": "AA9C8E",
+    "alt": "N210-4"
+   },
+   {
+    "id": "ON5-4",
+    "name": "Shiitake",
+    "hex": "A5988A",
+    "alt": "N220-4"
+   },
+   {
+    "id": "ON6-4",
+    "name": "Chic Taupe",
+    "hex": "AA9788",
+    "alt": "N230-4"
+   },
+   {
+    "id": "ON7-4",
+    "name": "Sierra",
+    "hex": "BBA088",
+    "alt": "N240-4"
+   },
+   {
+    "id": "ON8-4",
+    "name": "Artisan Crafts",
+    "hex": "B99779",
+    "alt": "N250-4"
+   },
+   {
+    "id": "ON1-5",
+    "name": "Bridle Leather",
+    "hex": "8F7D70",
+    "alt": "N180-5"
+   },
+   {
+    "id": "ON2-5",
+    "name": "Frontier Brown",
+    "hex": "9A8172",
+    "alt": "N190-5"
+   },
+   {
+    "id": "ON3-5",
+    "name": "Suede Gray",
+    "hex": "857F7A",
+    "alt": "PPU18-17"
+   },
+   {
+    "id": "ON4-5",
+    "name": "Caffeine",
+    "hex": "8A796A",
+    "alt": "N210-5"
+   },
+   {
+    "id": "ON5-5",
+    "name": "Ottertail",
+    "hex": "938577",
+    "alt": "N220-5"
+   },
+   {
+    "id": "ON6-5",
+    "name": "Dry Brown",
+    "hex": "968374",
+    "alt": "N230-5"
+   },
+   {
+    "id": "ON7-5",
+    "name": "Rodeo Tan",
+    "hex": "A78B74",
+    "alt": "N240-5"
+   },
+   {
+    "id": "ON8-5",
+    "name": "Coco Rum",
+    "hex": "9B7757",
+    "alt": "PPU4-02"
+   },
+   {
+    "id": "ON1-6",
+    "name": "Derby",
+    "hex": "7E6B60",
+    "alt": "N180-6"
+   },
+   {
+    "id": "ON2-6",
+    "name": "Nut Brown",
+    "hex": "896E5D",
+    "alt": "N190-6"
+   },
+   {
+    "id": "ON3-6",
+    "name": "Kindling",
+    "hex": "7A7068",
+    "alt": "N200-6"
+   },
+   {
+    "id": "ON4-6",
+    "name": "Swiss Brown",
+    "hex": "6E5F53",
+    "alt": "N210-6"
+   },
+   {
+    "id": "ON5-6",
+    "name": "Landmark Brown",
+    "hex": "756657",
+    "alt": "N220-6"
+   },
+   {
+    "id": "ON6-6",
+    "name": "Whiskey Barrel",
+    "hex": "85705F",
+    "alt": "N230-6"
+   },
+   {
+    "id": "ON7-6",
+    "name": "Wild Mustang",
+    "hex": "8F715C",
+    "alt": "N240-6"
+   },
+   {
+    "id": "ON8-6",
+    "name": "Split Rail",
+    "hex": "8E6C51",
+    "alt": "N250-6"
+   },
+   {
+    "id": "ON1-7",
+    "name": "Oiled Teak",
+    "hex": "6C5A51",
+    "alt": "N180-7"
+   },
+   {
+    "id": "ON2-7",
+    "name": "Moose Trail",
+    "hex": "6B5445",
+    "alt": "N190-7"
+   },
+   {
+    "id": "ON3-7",
+    "name": "Underground",
+    "hex": "665A51",
+    "alt": "N200-7"
+   },
+   {
+    "id": "ON4-7",
+    "name": "Havana Coffee",
+    "hex": "554941",
+    "alt": "N210-7"
+   },
+   {
+    "id": "ON5-7",
+    "name": "Cavalry Brown",
+    "hex": "655649",
+    "alt": "N220-7"
+   },
+   {
+    "id": "ON6-7",
+    "name": "Rustic Tobacco",
+    "hex": "6E5949",
+    "alt": "N230-7"
+   },
+   {
+    "id": "ON7-7",
+    "name": "Joshua Tree",
+    "hex": "7F6551",
+    "alt": "N240-7"
+   },
+   {
+    "id": "ON8-7",
+    "name": "Mission Brown",
+    "hex": "775C47",
+    "alt": "N250-7"
+   },
+   {
+    "id": "YP1-1",
+    "name": "Vanilla Ice Cream",
+    "hex": "FFE6B3",
+    "alt": "P260-3"
+   },
+   {
+    "id": "YP2-1",
+    "name": "Sunflower Seed",
+    "hex": "FFE3A9",
+    "alt": "P270-3"
+   },
+   {
+    "id": "YP3-1",
+    "name": "Polka Dot Skirt",
+    "hex": "FDE2A0",
+    "alt": "P280-3"
+   },
+   {
+    "id": "YP4-1",
+    "name": "Roasted Corn",
+    "hex": "FFE39B",
+    "alt": "P290-3"
+   },
+   {
+    "id": "YP5-1",
+    "name": "Rite of Spring",
+    "hex": "FFEBA9",
+    "alt": "P300-3"
+   },
+   {
+    "id": "YP6-1",
+    "name": "Firefly",
+    "hex": "FFF1B4",
+    "alt": "P310-3"
+   },
+   {
+    "id": "YP7-1",
+    "name": "Lily Bulb",
+    "hex": "F3E4A7",
+    "alt": "P320-3"
+   },
+   {
+    "id": "YP8-1",
+    "name": "Flourish",
+    "hex": "EBDC9C",
+    "alt": "P330-3A"
+   },
+   {
+    "id": "YP1-2",
+    "name": "Banana Mania",
+    "hex": "FFD98C",
+    "alt": "P260-4"
+   },
+   {
+    "id": "YP2-2",
+    "name": "Egg Cream",
+    "hex": "FFD98C",
+    "alt": "P270-4"
+   },
+   {
+    "id": "YP3-2",
+    "name": "Surfboard Yellow",
+    "hex": "FCDA89",
+    "alt": "P280-4"
+   },
+   {
+    "id": "YP4-2",
+    "name": "Spirited Yellow",
+    "hex": "FFDC83",
+    "alt": "P290-4"
+   },
+   {
+    "id": "YP5-2",
+    "name": "Rise and Shine",
+    "hex": "FFE99E",
+    "alt": "P300-4"
+   },
+   {
+    "id": "YP6-2",
+    "name": "Storm Lightning",
+    "hex": "F9E69C",
+    "alt": "P310-4"
+   },
+   {
+    "id": "YP7-2",
+    "name": "Pineapple Crush",
+    "hex": "EDDA8F",
+    "alt": "P320-4"
+   },
+   {
+    "id": "YP8-2",
+    "name": "Starfruit",
+    "hex": "E4D183",
+    "alt": "P330-4"
+   },
+   {
+    "id": "YP1-3",
+    "name": "Yellow Jubilee",
+    "hex": "FFD379",
+    "alt": "P260-5"
+   },
+   {
+    "id": "YP2-3",
+    "name": "Honey Locust",
+    "hex": "FFC367",
+    "alt": "PPU6-06"
+   },
+   {
+    "id": "YP3-3",
+    "name": "Little Sun Dress",
+    "hex": "F7C85F",
+    "alt": "P280-5"
+   },
+   {
+    "id": "YP4-3",
+    "name": "Squash Blossom",
+    "hex": "FFD467",
+    "alt": "P290-5"
+   },
+   {
+    "id": "YP5-3",
+    "name": "Upbeat",
+    "hex": "FFE487",
+    "alt": "P300-5"
+   },
+   {
+    "id": "YP6-3",
+    "name": "Solar Energy",
+    "hex": "F7DA74",
+    "alt": "P310-5"
+   },
+   {
+    "id": "YP7-3",
+    "name": "Green Papaya",
+    "hex": "E5CE77",
+    "alt": "P320-5"
+   },
+   {
+    "id": "YP8-3",
+    "name": "Midori",
+    "hex": "DCC772",
+    "alt": "P330-5"
+   },
+   {
+    "id": "YP1-4",
+    "name": "Smiley Face",
+    "hex": "FFCA62",
+    "alt": "P260-6"
+   },
+   {
+    "id": "YP2-4",
+    "name": "Soft Boiled",
+    "hex": "FFB737",
+    "alt": "P270-6"
+   },
+   {
+    "id": "YP3-4",
+    "name": "Bling Bling",
+    "hex": "F2BC48",
+    "alt": "P280-6"
+   },
+   {
+    "id": "YP4-4",
+    "name": "English Daisy",
+    "hex": "FFCA46",
+    "alt": "P290-6"
+   },
+   {
+    "id": "YP5-4",
+    "name": "Buzz-In",
+    "hex": "FFD756",
+    "alt": "P300-6"
+   },
+   {
+    "id": "YP6-4",
+    "name": "Radiant Sun",
+    "hex": "F0CC50",
+    "alt": "P310-6"
+   },
+   {
+    "id": "YP7-4",
+    "name": "Flustered Mustard",
+    "hex": "DBC058",
+    "alt": "P320-6A"
+   },
+   {
+    "id": "YP8-4",
+    "name": "Citronette",
+    "hex": "C4AA27",
+    "alt": "HDC-MD-03"
+   },
+   {
+    "id": "YP1-5",
+    "name": "Extreme Yellow",
+    "hex": "FFB729",
+    "alt": "P260-7"
+   },
+   {
+    "id": "YP2-5",
+    "name": "Sunny Side Up",
+    "hex": "F9AB1D",
+    "alt": "P270-7"
+   },
+   {
+    "id": "YP3-5",
+    "name": "Midsummer Gold",
+    "hex": "EAB035",
+    "alt": "P280-7"
+   },
+   {
+    "id": "YP4-5",
+    "name": "Laser Lemon",
+    "hex": "FFBD1B",
+    "alt": "P290-7"
+   },
+   {
+    "id": "YP5-5",
+    "name": "Unmellow Yellow",
+    "hex": "FFC819",
+    "alt": "P300-7"
+   },
+   {
+    "id": "YP6-5",
+    "name": "Solarium",
+    "hex": "E1BA36",
+    "alt": "P310-7"
+   },
+   {
+    "id": "YP7-5",
+    "name": "Sweet and Sour",
+    "hex": "C9AA37",
+    "alt": "P320-7"
+   },
+   {
+    "id": "YP8-5",
+    "name": "Luscious Lime",
+    "hex": "AE9B33",
+    "alt": "P330-7"
+   },
+   {
+    "id": "YM1-1",
+    "name": "String Cheese",
+    "hex": "FBF1DD",
+    "alt": "M260-1"
+   },
+   {
+    "id": "YM2-1",
+    "name": "Pearly White",
+    "hex": "FEEFD3",
+    "alt": "M270-1"
+   },
+   {
+    "id": "YM3-1",
+    "name": "Twinkling Lights",
+    "hex": "F9F4E7",
+    "alt": "M280-1"
+   },
+   {
+    "id": "YM4-1",
+    "name": "Thickened Cream",
+    "hex": "FCF3DD",
+    "alt": "M290-1"
+   },
+   {
+    "id": "YM5-1",
+    "name": "Cream Puff",
+    "hex": "F4E4C6",
+    "alt": "PPU6-10"
+   },
+   {
+    "id": "YM6-1",
+    "name": "Tibetan Jasmine",
+    "hex": "F6F3E1",
+    "alt": "M310-1"
+   },
+   {
+    "id": "YM7-1",
+    "name": "Painter's Canvas",
+    "hex": "F9F2DE",
+    "alt": "M320-1"
+   },
+   {
+    "id": "YM8-1",
+    "name": "Chanoyu",
+    "hex": "EEE8D2",
+    "alt": "M330-1"
+   },
+   {
+    "id": "YM1-2",
+    "name": "Light Nougat",
+    "hex": "FBE6C7",
+    "alt": "M260-2"
+   },
+   {
+    "id": "YM2-2",
+    "name": "Candlewick",
+    "hex": "F7E4BF",
+    "alt": "HDC-CT-03"
+   },
+   {
+    "id": "YM3-2",
+    "name": "Lunaria",
+    "hex": "F7E7CD",
+    "alt": "M280-2"
+   },
+   {
+    "id": "YM4-2",
+    "name": "Frittata",
+    "hex": "FEEBC8",
+    "alt": "M290-2"
+   },
+   {
+    "id": "YM5-2",
+    "name": "Taj Mahal",
+    "hex": "F2DEBB",
+    "alt": "M300-2"
+   },
+   {
+    "id": "YM6-2",
+    "name": "Proper Temperature",
+    "hex": "EDE5C7",
+    "alt": "M310-2"
+   },
+   {
+    "id": "YM7-2",
+    "name": "Rice Wine",
+    "hex": "F5E7C8",
+    "alt": "M320-2"
+   },
+   {
+    "id": "YM8-2",
+    "name": "Flowery",
+    "hex": "E4DCBF",
+    "alt": "M330-2"
+   },
+   {
+    "id": "YM1-3",
+    "name": "Time Out",
+    "hex": "FADEB8",
+    "alt": "M260-3"
+   },
+   {
+    "id": "YM2-3",
+    "name": "Pale Honey",
+    "hex": "F5D6AA",
+    "alt": "PPU6-08"
+   },
+   {
+    "id": "YM3-3",
+    "name": "Amber Moon",
+    "hex": "EED1A5",
+    "alt": "HDC-CT-01"
+   },
+   {
+    "id": "YM4-3",
+    "name": "Corn Stalk",
+    "hex": "FCDBA6",
+    "alt": "M290-3"
+   },
+   {
+    "id": "YM5-3",
+    "name": "Harmonious Gold",
+    "hex": "EACFA3",
+    "alt": "M300-3"
+   },
+   {
+    "id": "YM6-3",
+    "name": "Honey Mist",
+    "hex": "E5D9B2",
+    "alt": "MQ3-42"
+   },
+   {
+    "id": "YM7-3",
+    "name": "Calla",
+    "hex": "F2DFB5",
+    "alt": "PPU6-12"
+   },
+   {
+    "id": "YM8-3",
+    "name": "Sweet Jasmine",
+    "hex": "DAD0AD",
+    "alt": "M330-3"
+   },
+   {
+    "id": "YM1-4",
+    "name": "Jackfruit",
+    "hex": "F7C680",
+    "alt": "PPU6-07"
+   },
+   {
+    "id": "YM2-4",
+    "name": "Filtered Moon",
+    "hex": "ECCA9A",
+    "alt": "M270-4"
+   },
+   {
+    "id": "YM3-4",
+    "name": "Royal Gold",
+    "hex": "E1BC8A",
+    "alt": "M280-4"
+   },
+   {
+    "id": "YM4-4",
+    "name": "Charismatic",
+    "hex": "E7C180",
+    "alt": "PPU6-14"
+   },
+   {
+    "id": "YM5-4",
+    "name": "Gilded",
+    "hex": "D7B57C",
+    "alt": "M300-4"
+   },
+   {
+    "id": "YM6-4",
+    "name": "Almondine",
+    "hex": "D3C494",
+    "alt": "M310-4"
+   },
+   {
+    "id": "YM7-4",
+    "name": "Abstract",
+    "hex": "E4CB97",
+    "alt": "M320-4"
+   },
+   {
+    "id": "YM8-4",
+    "name": "Morning Tea",
+    "hex": "CABD94",
+    "alt": "M330-4"
+   },
+   {
+    "id": "YM1-5",
+    "name": "Sunburst",
+    "hex": "EDB36F",
+    "alt": "PPU6-03"
+   },
+   {
+    "id": "YM2-5",
+    "name": "Beehive",
+    "hex": "E1B781",
+    "alt": "M270-5"
+   },
+   {
+    "id": "YM3-5",
+    "name": "Cellini Gold",
+    "hex": "DDB582",
+    "alt": "HDC-CL-18"
+   },
+   {
+    "id": "YM4-5",
+    "name": "Dandelion Wish",
+    "hex": "E3BB65",
+    "alt": "MQ4-12"
+   },
+   {
+    "id": "YM5-5",
+    "name": "Ginger Jar",
+    "hex": "C6A05E",
+    "alt": "M300-5"
+   },
+   {
+    "id": "YM6-5",
+    "name": "Chilled Wine",
+    "hex": "C0AB6E",
+    "alt": "M310-5"
+   },
+   {
+    "id": "YM7-5",
+    "name": "Dried Chamomile",
+    "hex": "D1B375",
+    "alt": "M320-5"
+   },
+   {
+    "id": "YM8-5",
+    "name": "Fresh Brew",
+    "hex": "B8AA7D",
+    "alt": "M330-5"
+   },
+   {
+    "id": "YM1-6",
+    "name": "Saffron Strands",
+    "hex": "D29952",
+    "alt": "PPU6-02"
+   },
+   {
+    "id": "YM2-6",
+    "name": "Glazed Pears",
+    "hex": "CD9956",
+    "alt": "M270-6"
+   },
+   {
+    "id": "YM3-6",
+    "name": "Solid Gold",
+    "hex": "C99B5F",
+    "alt": "M280-6"
+   },
+   {
+    "id": "YM4-6",
+    "name": "Plantain Chips",
+    "hex": "D5A550",
+    "alt": "M290-6"
+   },
+   {
+    "id": "YM5-6",
+    "name": "Indian Spice",
+    "hex": "AE8845",
+    "alt": "M300-6"
+   },
+   {
+    "id": "YM6-6",
+    "name": "Bitter Lemon",
+    "hex": "AA9357",
+    "alt": "M310-6"
+   },
+   {
+    "id": "YM7-6",
+    "name": "Tangy Green",
+    "hex": "BB9B52",
+    "alt": "M320-6"
+   },
+   {
+    "id": "YM8-6",
+    "name": "Keemun",
+    "hex": "A49463",
+    "alt": "M330-6"
+   },
+   {
+    "id": "YM1-7",
+    "name": "Back to School",
+    "hex": "C1853B",
+    "alt": "M260-7"
+   },
+   {
+    "id": "YM2-7",
+    "name": "Wild Ginger",
+    "hex": "B78545",
+    "alt": "M270-7"
+   },
+   {
+    "id": "YM3-7",
+    "name": "24 Karat",
+    "hex": "AB7F46",
+    "alt": "M280-7"
+   },
+   {
+    "id": "YM4-7",
+    "name": "Turmeric",
+    "hex": "C08F34",
+    "alt": "M290-7"
+   },
+   {
+    "id": "YM5-7",
+    "name": "Retro Gold",
+    "hex": "9B7939",
+    "alt": "M300-7A"
+   },
+   {
+    "id": "YM6-7",
+    "name": "Valley Vineyards",
+    "hex": "8A763D",
+    "alt": "M310-7"
+   },
+   {
+    "id": "YM7-7",
+    "name": "Thai Curry",
+    "hex": "957C35",
+    "alt": "M320-7"
+   },
+   {
+    "id": "YM8-7",
+    "name": "Green Tea Leaf",
+    "hex": "87784B",
+    "alt": "M330-7"
+   },
+   {
+    "id": "YS1-1",
+    "name": "Sandy Beige",
+    "hex": "ECD7BF",
+    "alt": "PPU4-10A"
+   },
+   {
+    "id": "YS2-1",
+    "name": "Frosted Toffee",
+    "hex": "F1DBBF",
+    "alt": "S270-1"
+   },
+   {
+    "id": "YS3-1",
+    "name": "Buckwheat Flour",
+    "hex": "EFE2CF",
+    "alt": "S280-1"
+   },
+   {
+    "id": "YS4-1",
+    "name": "Vanilla Paste",
+    "hex": "F3E7D4",
+    "alt": "S290-1"
+   },
+   {
+    "id": "YS5-1",
+    "name": "Ceylon Cream",
+    "hex": "F3E9D6",
+    "alt": "HDC-CL-17"
+   },
+   {
+    "id": "YS6-1",
+    "name": "Polished Pearl",
+    "hex": "F8EDD7",
+    "alt": "PPU6-09"
+   },
+   {
+    "id": "YS7-1",
+    "name": "Apple Core",
+    "hex": "F4EED8",
+    "alt": "PPU7-14"
+   },
+   {
+    "id": "YS8-1",
+    "name": "Baby Artichoke",
+    "hex": "E9E3CE",
+    "alt": "S330-1"
+   },
+   {
+    "id": "YS1-2",
+    "name": "Pumpkin Seed",
+    "hex": "E0C7AA",
+    "alt": "S260-2"
+   },
+   {
+    "id": "YS2-2",
+    "name": "Chai",
+    "hex": "EBCFAE",
+    "alt": "S270-2"
+   },
+   {
+    "id": "YS3-2",
+    "name": "Beach Grass",
+    "hex": "E5D2B9",
+    "alt": "S280-2"
+   },
+   {
+    "id": "YS4-2",
+    "name": "Ceramic Beige",
+    "hex": "EDD1AC",
+    "alt": "MQ3-43"
+   },
+   {
+    "id": "YS5-2",
+    "name": "Hummus",
+    "hex": "EED8B2",
+    "alt": "PPU6-11"
+   },
+   {
+    "id": "YS6-2",
+    "name": "Journal White",
+    "hex": "E5D3B2",
+    "alt": "S310-2"
+   },
+   {
+    "id": "YS7-2",
+    "name": "Silky Bamboo",
+    "hex": "EAE1CB",
+    "alt": "PPU8-14"
+   },
+   {
+    "id": "YS8-2",
+    "name": "Caraway Seeds",
+    "hex": "DFD5BB",
+    "alt": "S330-2"
+   },
+   {
+    "id": "YS1-3",
+    "name": "Renoir Bisque",
+    "hex": "DABE9F",
+    "alt": "PPU4-14"
+   },
+   {
+    "id": "YS2-3",
+    "name": "Tostada",
+    "hex": "E3C19C",
+    "alt": "S270-3"
+   },
+   {
+    "id": "YS3-3",
+    "name": "Practical Tan",
+    "hex": "D2BA9D",
+    "alt": "S280-3"
+   },
+   {
+    "id": "YS4-3",
+    "name": "Crepe",
+    "hex": "E0C9A1",
+    "alt": "PPU7-19"
+   },
+   {
+    "id": "YS5-3",
+    "name": "Honey Tea",
+    "hex": "D8BE89",
+    "alt": "MQ2-18"
+   },
+   {
+    "id": "YS6-3",
+    "name": "Natural Twine",
+    "hex": "DBC39B",
+    "alt": "S310-3"
+   },
+   {
+    "id": "YS7-3",
+    "name": "Final Straw",
+    "hex": "D0BF9E",
+    "alt": "S320-3"
+   },
+   {
+    "id": "YS8-3",
+    "name": "Seasoned Salt",
+    "hex": "CEC2A1",
+    "alt": "S330-3"
+   },
+   {
+    "id": "YS1-4",
+    "name": "Teatime",
+    "hex": "BE9B79",
+    "alt": "PPU4-06"
+   },
+   {
+    "id": "YS2-4",
+    "name": "Cr\u00e8me de Caramel",
+    "hex": "D4B38F",
+    "alt": "HDC-NT-04"
+   },
+   {
+    "id": "YS3-4",
+    "name": "Real Cork",
+    "hex": "C1A17F",
+    "alt": "S280-4"
+   },
+   {
+    "id": "YS4-4",
+    "name": "Summerwood",
+    "hex": "D4B28B",
+    "alt": "S290-4"
+   },
+   {
+    "id": "YS5-4",
+    "name": "Flax Straw",
+    "hex": "CBAA7D",
+    "alt": "S300-4"
+   },
+   {
+    "id": "YS6-4",
+    "name": "Perennial Gold",
+    "hex": "CAAF81",
+    "alt": "S310-4"
+   },
+   {
+    "id": "YS7-4",
+    "name": "Bamboo Shoot",
+    "hex": "BDB593",
+    "alt": "MQ6-30"
+   },
+   {
+    "id": "YS8-4",
+    "name": "Fennel Seed",
+    "hex": "B9AC87",
+    "alt": "S330-4"
+   },
+   {
+    "id": "YS1-5",
+    "name": "Almond Roca",
+    "hex": "B89068",
+    "alt": "S260-5"
+   },
+   {
+    "id": "YS2-5",
+    "name": "Gingersnap",
+    "hex": "C79E73",
+    "alt": "S270-5"
+   },
+   {
+    "id": "YS3-5",
+    "name": "Windswept Leaves",
+    "hex": "B7926B",
+    "alt": "S280-5"
+   },
+   {
+    "id": "YS4-5",
+    "name": "Amber Autumn",
+    "hex": "C69C6A",
+    "alt": "S290-5"
+   },
+   {
+    "id": "YS5-5",
+    "name": "Spiced Mustard",
+    "hex": "B99563",
+    "alt": "S300-5"
+   },
+   {
+    "id": "YS6-5",
+    "name": "Brazilian Citrine",
+    "hex": "AF915D",
+    "alt": "S310-5"
+   },
+   {
+    "id": "YS7-5",
+    "name": "Ginger Tea",
+    "hex": "B19D77",
+    "alt": "S320-5"
+   },
+   {
+    "id": "YS8-5",
+    "name": "Dried Chive",
+    "hex": "A69872",
+    "alt": "S330-5"
+   },
+   {
+    "id": "YS1-6",
+    "name": "Circus Peanut",
+    "hex": "AD835C",
+    "alt": "S260-6"
+   },
+   {
+    "id": "YS2-6",
+    "name": "Almond Brittle",
+    "hex": "B5865A",
+    "alt": "S270-6"
+   },
+   {
+    "id": "YS3-6",
+    "name": "Hazel",
+    "hex": "A47F59",
+    "alt": "S280-6"
+   },
+   {
+    "id": "YS4-6",
+    "name": "Golden Rice",
+    "hex": "B18655",
+    "alt": "S290-6"
+   },
+   {
+    "id": "YS5-6",
+    "name": "Harvest Time",
+    "hex": "AB8452",
+    "alt": "S300-6"
+   },
+   {
+    "id": "YS6-6",
+    "name": "Gold Ink",
+    "hex": "9D7F4C",
+    "alt": "S310-6"
+   },
+   {
+    "id": "YS7-6",
+    "name": "Garden Salt Green",
+    "hex": "A18B62",
+    "alt": "S320-6"
+   },
+   {
+    "id": "YS8-6",
+    "name": "Dash of Oregano",
+    "hex": "928459",
+    "alt": "S330-6"
+   },
+   {
+    "id": "YS1-7",
+    "name": "Nugget Gold",
+    "hex": "936C48",
+    "alt": "S260-7"
+   },
+   {
+    "id": "YS2-7",
+    "name": "Antique Penny",
+    "hex": "A77C57",
+    "alt": "S270-7"
+   },
+   {
+    "id": "YS3-7",
+    "name": "Roasted Squash",
+    "hex": "96724F",
+    "alt": "S280-7"
+   },
+   {
+    "id": "YS4-7",
+    "name": "Wave of Grain",
+    "hex": "A0764A",
+    "alt": "S290-7"
+   },
+   {
+    "id": "YS5-7",
+    "name": "Rococo Gold",
+    "hex": "977447",
+    "alt": "S300-7"
+   },
+   {
+    "id": "YS6-7",
+    "name": "Vintage Brass",
+    "hex": "896F40",
+    "alt": "S310-7A"
+   },
+   {
+    "id": "YS7-7",
+    "name": "African Plain",
+    "hex": "86714A",
+    "alt": "S320-7"
+   },
+   {
+    "id": "YS8-7",
+    "name": "Olive Shade",
+    "hex": "7D7248",
+    "alt": "S330-7"
+   },
+   {
+    "id": "YN1-1",
+    "name": "Vanilla Mocha",
+    "hex": "EBDBC8",
+    "alt": "N260-1"
+   },
+   {
+    "id": "YN2-1",
+    "name": "High Style Beige",
+    "hex": "E4D7C3",
+    "alt": "N270-1"
+   },
+   {
+    "id": "YN3-1",
+    "name": "Scroll",
+    "hex": "EFE0CB",
+    "alt": "N280-1"
+   },
+   {
+    "id": "YN4-1",
+    "name": "Original White",
+    "hex": "F0E5D3",
+    "alt": "N290-1"
+   },
+   {
+    "id": "YN5-1",
+    "name": "Exclusive Ivory",
+    "hex": "EEE6D8",
+    "alt": "HDC-MD-11"
+   },
+   {
+    "id": "YN6-1",
+    "name": "Crisp Linen",
+    "hex": "E7E1D3",
+    "alt": "MQ3-13"
+   },
+   {
+    "id": "YN7-1",
+    "name": "Campfire Ash",
+    "hex": "DDD9CE",
+    "alt": "N320-1"
+   },
+   {
+    "id": "YN8-1",
+    "name": "Falling Snow",
+    "hex": "F0F1E7",
+    "alt": "PPU18-07"
+   },
+   {
+    "id": "YN1-2",
+    "name": "Almond Latte",
+    "hex": "DEC7AD",
+    "alt": "N260-2"
+   },
+   {
+    "id": "YN2-2",
+    "name": "Lentil",
+    "hex": "DCC8B0",
+    "alt": "N270-2"
+   },
+   {
+    "id": "YN3-2",
+    "name": "Writer's Parchment",
+    "hex": "E9D6BD",
+    "alt": "N280-2"
+   },
+   {
+    "id": "YN4-2",
+    "name": "Authentic Tan",
+    "hex": "EADDC6",
+    "alt": "N290-2"
+   },
+   {
+    "id": "YN5-2",
+    "name": "Natural Almond",
+    "hex": "DED2BB",
+    "alt": "PPU4-12"
+   },
+   {
+    "id": "YN6-2",
+    "name": "Almond Wisp",
+    "hex": "D6CABA",
+    "alt": "PPU5-12"
+   },
+   {
+    "id": "YN7-2",
+    "name": "Toasty Gray",
+    "hex": "D1CCC0",
+    "alt": "N320-2"
+   },
+   {
+    "id": "YN8-2",
+    "name": "Wax Sculpture",
+    "hex": "E2D5BD",
+    "alt": "PPU7-17"
+   },
+   {
+    "id": "YN1-3",
+    "name": "Polo Tan",
+    "hex": "C9B095",
+    "alt": "N260-3"
+   },
+   {
+    "id": "YN2-3",
+    "name": "Mushroom Bisque",
+    "hex": "CAB49B",
+    "alt": "PPU4-07"
+   },
+   {
+    "id": "YN3-3",
+    "name": "Almond Butter",
+    "hex": "D8C6A8",
+    "alt": "MQ2-23"
+   },
+   {
+    "id": "YN4-3",
+    "name": "Sand Pearl",
+    "hex": "E7D4B6",
+    "alt": "PPU7-18"
+   },
+   {
+    "id": "YN5-3",
+    "name": "Casual Khaki",
+    "hex": "D3C5AF",
+    "alt": "N300-3"
+   },
+   {
+    "id": "YN6-3",
+    "name": "Sandstorm",
+    "hex": "CFC7B5",
+    "alt": "N310-3"
+   },
+   {
+    "id": "YN7-3",
+    "name": "Perfect Taupe",
+    "hex": "B6ACA0",
+    "alt": "PPU18-13"
+   },
+   {
+    "id": "YN8-3",
+    "name": "Coliseum Marble",
+    "hex": "CEC8B6",
+    "alt": "PPU8-16"
+   },
+   {
+    "id": "YN1-4",
+    "name": "Basketry",
+    "hex": "BDA286",
+    "alt": "PPU4-05"
+   },
+   {
+    "id": "YN2-4",
+    "name": "Oxford Street",
+    "hex": "BDA07F",
+    "alt": "N270-4"
+   },
+   {
+    "id": "YN3-4",
+    "name": "Perfect Tan",
+    "hex": "CBAC88",
+    "alt": "N280-4"
+   },
+   {
+    "id": "YN4-4",
+    "name": "Raffia Ribbon",
+    "hex": "CBB08C",
+    "alt": "PPU7-20"
+   },
+   {
+    "id": "YN5-4",
+    "name": "Riviera Beach",
+    "hex": "C0AE96",
+    "alt": "PPU7-07"
+   },
+   {
+    "id": "YN6-4",
+    "name": "Desert Khaki",
+    "hex": "B7AC97",
+    "alt": "N310-4"
+   },
+   {
+    "id": "YN7-4",
+    "name": "Smoked Tan",
+    "hex": "AEA494",
+    "alt": "HDC-NT-14"
+   },
+   {
+    "id": "YN8-4",
+    "name": "Explorer Khaki",
+    "hex": "B6AC95",
+    "alt": "N330-4"
+   },
+   {
+    "id": "YN1-5",
+    "name": "Distant Land",
+    "hex": "A68A71",
+    "alt": "N260-5"
+   },
+   {
+    "id": "YN2-5",
+    "name": "River Road",
+    "hex": "AE8D6B",
+    "alt": "N270-5"
+   },
+   {
+    "id": "YN3-5",
+    "name": "Antique Treasure",
+    "hex": "BB9973",
+    "alt": "N280-5"
+   },
+   {
+    "id": "YN4-5",
+    "name": "Pocket Watch",
+    "hex": "C2A781",
+    "alt": "N290-5"
+   },
+   {
+    "id": "YN5-5",
+    "name": "Hidden Treasure",
+    "hex": "A59074",
+    "alt": "N300-5"
+   },
+   {
+    "id": "YN6-5",
+    "name": "Rolling Pebble",
+    "hex": "A09482",
+    "alt": "PPU7-23"
+   },
+   {
+    "id": "YN7-5",
+    "name": "Gray Squirrel",
+    "hex": "989081",
+    "alt": "N320-5"
+   },
+   {
+    "id": "YN8-5",
+    "name": "Livingston",
+    "hex": "A39880",
+    "alt": "N330-5"
+   },
+   {
+    "id": "YN1-6",
+    "name": "Outdoor Caf\u00e9",
+    "hex": "8D745E",
+    "alt": "N260-6"
+   },
+   {
+    "id": "YN2-6",
+    "name": "Westminster",
+    "hex": "9C7C5B",
+    "alt": "N270-6"
+   },
+   {
+    "id": "YN3-6",
+    "name": "Temple Tile",
+    "hex": "A9855D",
+    "alt": "N280-6"
+   },
+   {
+    "id": "YN4-6",
+    "name": "Trinket Gold",
+    "hex": "A7885F",
+    "alt": "N290-6"
+   },
+   {
+    "id": "YN5-6",
+    "name": "Archaeological Site",
+    "hex": "8E785C",
+    "alt": "N300-6"
+   },
+   {
+    "id": "YN6-6",
+    "name": "Palm Desert",
+    "hex": "85775F",
+    "alt": "N310-6"
+   },
+   {
+    "id": "YN7-6",
+    "name": "Ash Brown",
+    "hex": "7D7363",
+    "alt": "N320-6A"
+   },
+   {
+    "id": "YN8-6",
+    "name": "Lagoon Moss",
+    "hex": "8A7E64",
+    "alt": "N330-6"
+   },
+   {
+    "id": "YN1-7",
+    "name": "Ancient Root",
+    "hex": "70553D",
+    "alt": "PPU4-20"
+   },
+   {
+    "id": "YN2-7",
+    "name": "Library Oak",
+    "hex": "8F7459",
+    "alt": "N270-7"
+   },
+   {
+    "id": "YN3-7",
+    "name": "Brass Button",
+    "hex": "927149",
+    "alt": "N280-7"
+   },
+   {
+    "id": "YN4-7",
+    "name": "Marrakech Brown",
+    "hex": "91734C",
+    "alt": "N290-7"
+   },
+   {
+    "id": "YN5-7",
+    "name": "Mayan Ruins",
+    "hex": "7D6950",
+    "alt": "N300-7"
+   },
+   {
+    "id": "YN6-7",
+    "name": "Classic Bronze",
+    "hex": "6D624E",
+    "alt": "N310-7"
+   },
+   {
+    "id": "YN7-7",
+    "name": "Hiking Trail",
+    "hex": "887B69",
+    "alt": "PPU7-24A"
+   },
+   {
+    "id": "YN8-7",
+    "name": "Adventurer",
+    "hex": "72664F",
+    "alt": "N330-7"
+   },
+   {
+    "id": "GP1-1",
+    "name": "Reviving Green",
+    "hex": "E8E097",
+    "alt": "P340-3"
+   },
+   {
+    "id": "GP2-1",
+    "name": "Green Charm",
+    "hex": "E7DDA7",
+    "alt": "P350-3"
+   },
+   {
+    "id": "GP3-1",
+    "name": "Tonic",
+    "hex": "DEDDAA",
+    "alt": "P360-3"
+   },
+   {
+    "id": "GP4-1",
+    "name": "Spring Glow",
+    "hex": "D3E0B8",
+    "alt": "MQ4-45"
+   },
+   {
+    "id": "GP5-1",
+    "name": "Irish Folklore",
+    "hex": "D3E3BF",
+    "alt": "P380-3"
+   },
+   {
+    "id": "GP6-1",
+    "name": "Mint Parfait",
+    "hex": "BBE6BB",
+    "alt": "P390-3"
+   },
+   {
+    "id": "GP7-1",
+    "name": "Folk Tale",
+    "hex": "B2E1BC",
+    "alt": "P400-3"
+   },
+   {
+    "id": "GP8-1",
+    "name": "Shanghai Jade",
+    "hex": "AAD9BB",
+    "alt": "P410-3"
+   },
+   {
+    "id": "GP1-2",
+    "name": "Lime Tree",
+    "hex": "D8D06B",
+    "alt": "P340-4"
+   },
+   {
+    "id": "GP2-2",
+    "name": "Spring Grass",
+    "hex": "D5CB7F",
+    "alt": "P350-4"
+   },
+   {
+    "id": "GP3-2",
+    "name": "Soda Pop",
+    "hex": "C3C67E",
+    "alt": "P360-4"
+   },
+   {
+    "id": "GP4-2",
+    "name": "Early Spring",
+    "hex": "B2DD8E",
+    "alt": "MQ4-46"
+   },
+   {
+    "id": "GP5-2",
+    "name": "Four Leaf Clover",
+    "hex": "BAD19E",
+    "alt": "P380-4"
+   },
+   {
+    "id": "GP6-2",
+    "name": "Young Green",
+    "hex": "97D499",
+    "alt": "P390-4"
+   },
+   {
+    "id": "GP7-2",
+    "name": "Good Luck",
+    "hex": "86C994",
+    "alt": "P400-4"
+   },
+   {
+    "id": "GP8-2",
+    "name": "Willow Hedge",
+    "hex": "84C299",
+    "alt": "P410-4"
+   },
+   {
+    "id": "GP1-3",
+    "name": "Cilantro Lime",
+    "hex": "CCC14D",
+    "alt": "P340-5A"
+   },
+   {
+    "id": "GP2-3",
+    "name": "Fresh Sprout",
+    "hex": "C7C176",
+    "alt": "PPU9-07"
+   },
+   {
+    "id": "GP3-3",
+    "name": "Citrus Peel",
+    "hex": "B7BB6B",
+    "alt": "P360-5"
+   },
+   {
+    "id": "GP4-3",
+    "name": "Lazy Caterpillar",
+    "hex": "A6BC7B",
+    "alt": "P370-5"
+   },
+   {
+    "id": "GP5-3",
+    "name": "Gleeful",
+    "hex": "9DBB7D",
+    "alt": "P380-5"
+   },
+   {
+    "id": "GP6-3",
+    "name": "Garden Stroll",
+    "hex": "7DC683",
+    "alt": "P390-5"
+   },
+   {
+    "id": "GP7-3",
+    "name": "Winter Shamrock",
+    "hex": "73BD83",
+    "alt": "P400-5"
+   },
+   {
+    "id": "GP8-3",
+    "name": "Lily Pads",
+    "hex": "6DB083",
+    "alt": "P410-5"
+   },
+   {
+    "id": "GP1-4",
+    "name": "Green Neon",
+    "hex": "B2AC31",
+    "alt": "P340-6"
+   },
+   {
+    "id": "GP2-4",
+    "name": "Laser",
+    "hex": "B5B04F",
+    "alt": "P350-6"
+   },
+   {
+    "id": "GP3-4",
+    "name": "New Bamboo",
+    "hex": "92A461",
+    "alt": "PPU10-04"
+   },
+   {
+    "id": "GP4-4",
+    "name": "Salamander",
+    "hex": "89A457",
+    "alt": "P370-6"
+   },
+   {
+    "id": "GP5-4",
+    "name": "Springview Green",
+    "hex": "7EA15A",
+    "alt": "P380-6"
+   },
+   {
+    "id": "GP6-4",
+    "name": "Lawn Party",
+    "hex": "5EB56A",
+    "alt": "P390-6"
+   },
+   {
+    "id": "GP7-4",
+    "name": "Clover Patch",
+    "hex": "4A9C5B",
+    "alt": "P400-6"
+   },
+   {
+    "id": "GP8-4",
+    "name": "Solitary Tree",
+    "hex": "539B6A",
+    "alt": "P410-6"
+   },
+   {
+    "id": "GP1-5",
+    "name": "Venom",
+    "hex": "A9A52A",
+    "alt": "P340-7"
+   },
+   {
+    "id": "GP2-5",
+    "name": "Lazy Lizard",
+    "hex": "92942C",
+    "alt": "P350-7"
+   },
+   {
+    "id": "GP3-5",
+    "name": "Sassy Grass",
+    "hex": "7A8C31",
+    "alt": "P360-7"
+   },
+   {
+    "id": "GP4-5",
+    "name": "Sun Valley",
+    "hex": "698538",
+    "alt": "P370-7"
+   },
+   {
+    "id": "GP5-5",
+    "name": "Luck of the Irish",
+    "hex": "547839",
+    "alt": "P380-7"
+   },
+   {
+    "id": "GP6-5",
+    "name": "Park Picnic",
+    "hex": "428F46",
+    "alt": "P390-7"
+   },
+   {
+    "id": "GP7-5",
+    "name": "Paradise of Greenery",
+    "hex": "398749",
+    "alt": "P400-7"
+   },
+   {
+    "id": "GP8-5",
+    "name": "Grasslands",
+    "hex": "407548",
+    "alt": "P410-7"
+   },
+   {
+    "id": "GM1-1",
+    "name": "Cauliflower",
+    "hex": "F5F3E1",
+    "alt": "M340-1"
+   },
+   {
+    "id": "GM2-1",
+    "name": "Grass Root",
+    "hex": "EBEDDB",
+    "alt": "M350-1"
+   },
+   {
+    "id": "GM3-1",
+    "name": "Glisten Green",
+    "hex": "ECF0DF",
+    "alt": "M360-1"
+   },
+   {
+    "id": "GM4-1",
+    "name": "Fresh Dew",
+    "hex": "F0F4E5",
+    "alt": "M370-1"
+   },
+   {
+    "id": "GM5-1",
+    "name": "Cavan",
+    "hex": "DCE2CE",
+    "alt": "M380-1"
+   },
+   {
+    "id": "GM6-1",
+    "name": "Mayfair White",
+    "hex": "E6F0DE",
+    "alt": "M390-1"
+   },
+   {
+    "id": "GM7-1",
+    "name": "Establish Mint",
+    "hex": "E2EDDD",
+    "alt": "M400-1"
+   },
+   {
+    "id": "GM8-1",
+    "name": "Jade Mist",
+    "hex": "D6E9D7",
+    "alt": "M410-1"
+   },
+   {
+    "id": "GM1-2",
+    "name": "Floating Lily",
+    "hex": "EDEBCE",
+    "alt": "M340-2"
+   },
+   {
+    "id": "GM2-2",
+    "name": "Aloe Nectar",
+    "hex": "DFE2C9",
+    "alt": "M350-2"
+   },
+   {
+    "id": "GM3-2",
+    "name": "Airy Green",
+    "hex": "DBE0C4",
+    "alt": "MQ3-47"
+   },
+   {
+    "id": "GM4-2",
+    "name": "Cabbage Leaf",
+    "hex": "DFE8D0",
+    "alt": "M370-2"
+   },
+   {
+    "id": "GM5-2",
+    "name": "Glade Green",
+    "hex": "D0D9C1",
+    "alt": "M380-2"
+   },
+   {
+    "id": "GM6-2",
+    "name": "Misty Meadow",
+    "hex": "DDECD5",
+    "alt": "M390-2"
+   },
+   {
+    "id": "GM7-2",
+    "name": "Glass Tile",
+    "hex": "D9E7D4",
+    "alt": "M400-2"
+   },
+   {
+    "id": "GM8-2",
+    "name": "Wishful Green",
+    "hex": "C8E2CC",
+    "alt": "M410-2"
+   },
+   {
+    "id": "GM1-3",
+    "name": "Modern Zen",
+    "hex": "E0DEB2",
+    "alt": "M340-3A"
+   },
+   {
+    "id": "GM2-3",
+    "name": "Sap Green",
+    "hex": "C6CAA5",
+    "alt": "M350-3"
+   },
+   {
+    "id": "GM3-3",
+    "name": "Avocado Whip",
+    "hex": "CDD6B1",
+    "alt": "M360-3"
+   },
+   {
+    "id": "GM4-3",
+    "name": "Spice Garden",
+    "hex": "C9D6B4",
+    "alt": "M370-3"
+   },
+   {
+    "id": "GM5-3",
+    "name": "Growing Season",
+    "hex": "C3CDB0",
+    "alt": "M380-3"
+   },
+   {
+    "id": "GM6-3",
+    "name": "Galway",
+    "hex": "C4DDBB",
+    "alt": "M390-3"
+   },
+   {
+    "id": "GM7-3",
+    "name": "Bok Choy",
+    "hex": "BFD5B9",
+    "alt": "M400-3"
+   },
+   {
+    "id": "GM8-3",
+    "name": "Enchanted Meadow",
+    "hex": "B1D4B7",
+    "alt": "M410-3"
+   },
+   {
+    "id": "GM1-4",
+    "name": "Wheat Grass",
+    "hex": "C7C088",
+    "alt": "PPU9-11"
+   },
+   {
+    "id": "GM2-4",
+    "name": "Sweet Grass",
+    "hex": "B2B68A",
+    "alt": "M350-4"
+   },
+   {
+    "id": "GM3-4",
+    "name": "Marjoram",
+    "hex": "BFCBA2",
+    "alt": "M360-4"
+   },
+   {
+    "id": "GM4-4",
+    "name": "Chervil Leaves",
+    "hex": "ABBD90",
+    "alt": "M370-4"
+   },
+   {
+    "id": "GM5-4",
+    "name": "Chopped Dill",
+    "hex": "B6C2A1",
+    "alt": "M380-4"
+   },
+   {
+    "id": "GM6-4",
+    "name": "Ginkgo",
+    "hex": "A3C899",
+    "alt": "M390-4"
+   },
+   {
+    "id": "GM7-4",
+    "name": "Brookview",
+    "hex": "99B792",
+    "alt": "M400-4"
+   },
+   {
+    "id": "GM8-4",
+    "name": "Garden Swing",
+    "hex": "8CBD97",
+    "alt": "M410-4"
+   },
+   {
+    "id": "GM1-5",
+    "name": "Fresh Artichoke",
+    "hex": "B2B17C",
+    "alt": "M340-5"
+   },
+   {
+    "id": "GM2-5",
+    "name": "Mossy Cavern",
+    "hex": "A4A97B",
+    "alt": "M350-5"
+   },
+   {
+    "id": "GM3-5",
+    "name": "Fresh Guacamole",
+    "hex": "A2B07E",
+    "alt": "M360-5"
+   },
+   {
+    "id": "GM4-5",
+    "name": "Green Energy",
+    "hex": "80905F",
+    "alt": "PPU10-03"
+   },
+   {
+    "id": "GM5-5",
+    "name": "Hillside Grove",
+    "hex": "96A782",
+    "alt": "M380-5"
+   },
+   {
+    "id": "GM6-5",
+    "name": "Sage Garden",
+    "hex": "7FAB70",
+    "alt": "M390-5"
+   },
+   {
+    "id": "GM7-5",
+    "name": "Baby Spinach",
+    "hex": "89A882",
+    "alt": "M400-5"
+   },
+   {
+    "id": "GM8-5",
+    "name": "Green Bank",
+    "hex": "79B088",
+    "alt": "M410-5"
+   },
+   {
+    "id": "GM1-6",
+    "name": "Spinach Dip",
+    "hex": "949758",
+    "alt": "M340-6"
+   },
+   {
+    "id": "GM2-6",
+    "name": "Frog",
+    "hex": "889551",
+    "alt": "M350-6"
+   },
+   {
+    "id": "GM3-6",
+    "name": "Bold Avocado",
+    "hex": "879550",
+    "alt": "M360-6"
+   },
+   {
+    "id": "GM4-6",
+    "name": "Snip of Parsley",
+    "hex": "718854",
+    "alt": "M370-6"
+   },
+   {
+    "id": "GM5-6",
+    "name": "Fern Canopy",
+    "hex": "758A5F",
+    "alt": "M380-6"
+   },
+   {
+    "id": "GM6-6",
+    "name": "Belfast",
+    "hex": "558D4F",
+    "alt": "M390-6"
+   },
+   {
+    "id": "GM7-6",
+    "name": "Mossed Opportunity",
+    "hex": "719166",
+    "alt": "M400-6A"
+   },
+   {
+    "id": "GM8-6",
+    "name": "Turtle Creek",
+    "hex": "65926D",
+    "alt": "M410-6"
+   },
+   {
+    "id": "GM1-7",
+    "name": "Classic Avocado",
+    "hex": "6E7042",
+    "alt": "M340-7"
+   },
+   {
+    "id": "GM2-7",
+    "name": "Healing Plant",
+    "hex": "6C7D42",
+    "alt": "M350-7"
+   },
+   {
+    "id": "GM3-7",
+    "name": "Rockwall Vine",
+    "hex": "6D7E42",
+    "alt": "M360-7"
+   },
+   {
+    "id": "GM4-7",
+    "name": "Mown Grass",
+    "hex": "627948",
+    "alt": "M370-7"
+   },
+   {
+    "id": "GM5-7",
+    "name": "Alfalfa Extract",
+    "hex": "546940",
+    "alt": "M380-7"
+   },
+   {
+    "id": "GM6-7",
+    "name": "Hills of Ireland",
+    "hex": "417B42",
+    "alt": "M390-7"
+   },
+   {
+    "id": "GM7-7",
+    "name": "Garden Cucumber",
+    "hex": "506A48",
+    "alt": "M400-7"
+   },
+   {
+    "id": "GM8-7",
+    "name": "Perennial Green",
+    "hex": "47694F",
+    "alt": "M410-7"
+   },
+   {
+    "id": "GS1-1",
+    "name": "Lychee",
+    "hex": "EFEEDA",
+    "alt": "S340-1"
+   },
+   {
+    "id": "GS2-1",
+    "name": "Cool Honeydew",
+    "hex": "E5E1CD",
+    "alt": "S350-1A"
+   },
+   {
+    "id": "GS3-1",
+    "name": "Yoga Daze",
+    "hex": "E3E4D2",
+    "alt": "S360-1"
+   },
+   {
+    "id": "GS4-1",
+    "name": "Positive Energy",
+    "hex": "E1E2CF",
+    "alt": "S370-1"
+   },
+   {
+    "id": "GS5-1",
+    "name": "Moss Mist",
+    "hex": "DFE1D2",
+    "alt": "S380-1"
+   },
+   {
+    "id": "GS6-1",
+    "name": "Sounds of Nature",
+    "hex": "DFE5D7",
+    "alt": "S390-1"
+   },
+   {
+    "id": "GS7-1",
+    "name": "At Ease",
+    "hex": "E7EEE1",
+    "alt": "S400-1"
+   },
+   {
+    "id": "GS8-1",
+    "name": "River Mist",
+    "hex": "D6E1D4",
+    "alt": "S410-1"
+   },
+   {
+    "id": "GS1-2",
+    "name": "Green Power",
+    "hex": "E2E1C6",
+    "alt": "S340-2"
+   },
+   {
+    "id": "GS2-2",
+    "name": "Windmill",
+    "hex": "D5D0B4",
+    "alt": "S350-2"
+   },
+   {
+    "id": "GS3-2",
+    "name": "Breathe",
+    "hex": "D1D2B8",
+    "alt": "S360-2"
+   },
+   {
+    "id": "GS4-2",
+    "name": "Feng Shui",
+    "hex": "D7D9C2",
+    "alt": "S370-2"
+   },
+   {
+    "id": "GS5-2",
+    "name": "Morning Zen",
+    "hex": "CBCDB9",
+    "alt": "S380-2"
+   },
+   {
+    "id": "GS6-2",
+    "name": "Spring Valley",
+    "hex": "CED7C5",
+    "alt": "S390-2"
+   },
+   {
+    "id": "GS7-2",
+    "name": "Comforting Green",
+    "hex": "D5E0CF",
+    "alt": "S400-2"
+   },
+   {
+    "id": "GS8-2",
+    "name": "Frosted Jade",
+    "hex": "C2D1C4",
+    "alt": "PPU11-13"
+   },
+   {
+    "id": "GS1-3",
+    "name": "Hybrid",
+    "hex": "D0CDA9",
+    "alt": "S340-3"
+   },
+   {
+    "id": "GS2-3",
+    "name": "Washed Olive",
+    "hex": "C5C0A3",
+    "alt": "S350-3"
+   },
+   {
+    "id": "GS3-3",
+    "name": "Balance Green",
+    "hex": "C3C5A7",
+    "alt": "S360-3"
+   },
+   {
+    "id": "GS4-3",
+    "name": "Sage Brush",
+    "hex": "BFC1A2",
+    "alt": "S370-3"
+   },
+   {
+    "id": "GS5-3",
+    "name": "Urban Nature",
+    "hex": "BCBFA8",
+    "alt": "S380-3"
+   },
+   {
+    "id": "GS6-3",
+    "name": "Whitewater Bay",
+    "hex": "BAC4AD",
+    "alt": "PPU11-10"
+   },
+   {
+    "id": "GS7-3",
+    "name": "Healing Aloe",
+    "hex": "B9CAB3",
+    "alt": "S400-3"
+   },
+   {
+    "id": "GS8-3",
+    "name": "Jade Tinge",
+    "hex": "BBCCBC",
+    "alt": "MQ3-49"
+   },
+   {
+    "id": "GS1-4",
+    "name": "Back to Nature",
+    "hex": "BDB98F",
+    "alt": "S340-4"
+   },
+   {
+    "id": "GS2-4",
+    "name": "Dried Rosemary",
+    "hex": "A7A07E",
+    "alt": "S350-4A"
+   },
+   {
+    "id": "GS3-4",
+    "name": "Meditation Time",
+    "hex": "A7A987",
+    "alt": "S360-4"
+   },
+   {
+    "id": "GS4-4",
+    "name": "Cottage Hill",
+    "hex": "ACB397",
+    "alt": "HDC-CT-28"
+   },
+   {
+    "id": "GS5-4",
+    "name": "Environmental",
+    "hex": "B1B5A0",
+    "alt": "PPU11-09"
+   },
+   {
+    "id": "GS6-4",
+    "name": "Roof Top Garden",
+    "hex": "9EAD92",
+    "alt": "S390-4"
+   },
+   {
+    "id": "GS7-4",
+    "name": "Azalea Leaf",
+    "hex": "AABFA5",
+    "alt": "S400-4"
+   },
+   {
+    "id": "GS8-4",
+    "name": "Copper Patina",
+    "hex": "9DB4A0",
+    "alt": "S410-4"
+   },
+   {
+    "id": "GS1-5",
+    "name": "Farm Fresh",
+    "hex": "A39E6C",
+    "alt": "S340-5"
+   },
+   {
+    "id": "GS2-5",
+    "name": "Green Scene",
+    "hex": "8B8561",
+    "alt": "S350-5"
+   },
+   {
+    "id": "GS3-5",
+    "name": "Oregano Spice",
+    "hex": "8D8764",
+    "alt": "PPU9-23"
+   },
+   {
+    "id": "GS4-5",
+    "name": "Pesto Paste",
+    "hex": "898C66",
+    "alt": "S370-5"
+   },
+   {
+    "id": "GS5-5",
+    "name": "Milkweed Pod",
+    "hex": "95987E",
+    "alt": "S380-5"
+   },
+   {
+    "id": "GS6-5",
+    "name": "Laurel Tree",
+    "hex": "889779",
+    "alt": "S390-5"
+   },
+   {
+    "id": "GS7-5",
+    "name": "Gallery Green",
+    "hex": "88A385",
+    "alt": "S400-5"
+   },
+   {
+    "id": "GS8-5",
+    "name": "Track Green",
+    "hex": "849E88",
+    "alt": "S410-5"
+   },
+   {
+    "id": "GS1-6",
+    "name": "Fertile Green",
+    "hex": "8B8757",
+    "alt": "S340-6"
+   },
+   {
+    "id": "GS2-6",
+    "name": "Truly Olive",
+    "hex": "777250",
+    "alt": "S350-6"
+   },
+   {
+    "id": "GS3-6",
+    "name": "Secret Meadow",
+    "hex": "72754F",
+    "alt": "S360-6"
+   },
+   {
+    "id": "GS4-6",
+    "name": "Seaweed Salad",
+    "hex": "7D7B55",
+    "alt": "S370-6"
+   },
+   {
+    "id": "GS5-6",
+    "name": "Ecological",
+    "hex": "808367",
+    "alt": "S380-6"
+   },
+   {
+    "id": "GS6-6",
+    "name": "Scallion",
+    "hex": "677559",
+    "alt": "PPU10-01"
+   },
+   {
+    "id": "GS7-6",
+    "name": "Tuscan Herbs",
+    "hex": "658362",
+    "alt": "S400-6"
+   },
+   {
+    "id": "GS8-6",
+    "name": "Greener Pastures",
+    "hex": "637C65",
+    "alt": "S410-6"
+   },
+   {
+    "id": "GS1-7",
+    "name": "Garnish",
+    "hex": "79774A",
+    "alt": "S340-7A"
+   },
+   {
+    "id": "GS2-7",
+    "name": "Amazon Jungle",
+    "hex": "686747",
+    "alt": "PPU9-24"
+   },
+   {
+    "id": "GS3-7",
+    "name": "Eastern Bamboo",
+    "hex": "5E5D3D",
+    "alt": "PPU9-25"
+   },
+   {
+    "id": "GS4-7",
+    "name": "Outdoor Oasis",
+    "hex": "6E6F4D",
+    "alt": "S370-7"
+   },
+   {
+    "id": "GS5-7",
+    "name": "Global Green",
+    "hex": "696E51",
+    "alt": "S380-7"
+   },
+   {
+    "id": "GS6-7",
+    "name": "Trailing Vine",
+    "hex": "5A6952",
+    "alt": "S390-7"
+   },
+   {
+    "id": "GS7-7",
+    "name": "Deep Viridian",
+    "hex": "4B6443",
+    "alt": "S400-7"
+   },
+   {
+    "id": "GS8-7",
+    "name": "Equestrian Green",
+    "hex": "54654F",
+    "alt": "S410-7"
+   },
+   {
+    "id": "GN1-1",
+    "name": "Light Granite",
+    "hex": "E2DDCF",
+    "alt": "N340-1"
+   },
+   {
+    "id": "GN2-1",
+    "name": "Ginger Sugar",
+    "hex": "DDDACE",
+    "alt": "MQ3-18"
+   },
+   {
+    "id": "GN3-1",
+    "name": "Painter's White",
+    "hex": "E5E2DA",
+    "alt": "PPU18-08"
+   },
+   {
+    "id": "GN4-1",
+    "name": "Mission White",
+    "hex": "E1DFD4",
+    "alt": "PPU24-15"
+   },
+   {
+    "id": "GN5-1",
+    "name": "Misty Coast",
+    "hex": "D5D9D3",
+    "alt": "PPU25-13"
+   },
+   {
+    "id": "GN6-1",
+    "name": "Whitened Sage",
+    "hex": "DEE0D2",
+    "alt": "PPU10-12"
+   },
+   {
+    "id": "GN7-1",
+    "name": "Breezeway",
+    "hex": "CCD8CF",
+    "alt": "MQ3-21"
+   },
+   {
+    "id": "GN8-1",
+    "name": "Silence",
+    "hex": "EAEDE5",
+    "alt": "N410-1"
+   },
+   {
+    "id": "GN1-2",
+    "name": "Dune Grass",
+    "hex": "CBC5B1",
+    "alt": "N340-2"
+   },
+   {
+    "id": "GN2-2",
+    "name": "Sawgrass",
+    "hex": "D1CFC0",
+    "alt": "N350-2"
+   },
+   {
+    "id": "GN3-2",
+    "name": "Silver Marlin",
+    "hex": "C8C8C0",
+    "alt": "N360-2"
+   },
+   {
+    "id": "GN4-2",
+    "name": "Eon",
+    "hex": "D4D3C9",
+    "alt": "N370-2"
+   },
+   {
+    "id": "GN5-2",
+    "name": "Engagement Silver",
+    "hex": "C2C6C0",
+    "alt": "PPU25-14"
+   },
+   {
+    "id": "GN6-2",
+    "name": "Mild Mint",
+    "hex": "C9D1C2",
+    "alt": "PPU11-12"
+   },
+   {
+    "id": "GN7-2",
+    "name": "Frosted Sage",
+    "hex": "C6D1C4",
+    "alt": "N400-2"
+   },
+   {
+    "id": "GN8-2",
+    "name": "Brook Green",
+    "hex": "D3D9D0",
+    "alt": "N410-2"
+   },
+   {
+    "id": "GN1-3",
+    "name": "Bonsai Pot",
+    "hex": "B8B19A",
+    "alt": "N340-3"
+   },
+   {
+    "id": "GN2-3",
+    "name": "Biking Trail",
+    "hex": "C3C0B1",
+    "alt": "N350-3"
+   },
+   {
+    "id": "GN3-3",
+    "name": "Still Gray",
+    "hex": "ABA9A0",
+    "alt": "N360-3"
+   },
+   {
+    "id": "GN4-3",
+    "name": "Light Year",
+    "hex": "BFBFB4",
+    "alt": "N370-3"
+   },
+   {
+    "id": "GN5-3",
+    "name": "Weathered Moss",
+    "hex": "BABBB3",
+    "alt": "N380-3"
+   },
+   {
+    "id": "GN6-3",
+    "name": "Jojoba",
+    "hex": "B0B9A6",
+    "alt": "N390-3"
+   },
+   {
+    "id": "GN7-3",
+    "name": "Flagstaff Green",
+    "hex": "B3BFB0",
+    "alt": "N400-3"
+   },
+   {
+    "id": "GN8-3",
+    "name": "Riverdale",
+    "hex": "BEC5BA",
+    "alt": "N410-3"
+   },
+   {
+    "id": "GN1-4",
+    "name": "Stone Walls",
+    "hex": "AFA791",
+    "alt": "PPU8-19"
+   },
+   {
+    "id": "GN2-4",
+    "name": "Jungle Camouflage",
+    "hex": "AAA794",
+    "alt": "N350-4"
+   },
+   {
+    "id": "GN3-4",
+    "name": "Battleship Gray",
+    "hex": "98968D",
+    "alt": "N360-4"
+   },
+   {
+    "id": "GN4-4",
+    "name": "Historical Gray",
+    "hex": "A7A699",
+    "alt": "N370-4A"
+   },
+   {
+    "id": "GN5-4",
+    "name": "Sharkskin Suit",
+    "hex": "A4A6A3",
+    "alt": "PPU25-04"
+   },
+   {
+    "id": "GN6-4",
+    "name": "Bitter Sage",
+    "hex": "97A18D",
+    "alt": "N390-4"
+   },
+   {
+    "id": "GN7-4",
+    "name": "Forest Path",
+    "hex": "93A190",
+    "alt": "N400-4"
+   },
+   {
+    "id": "GN8-4",
+    "name": "Nature's Gift",
+    "hex": "99A399",
+    "alt": "N410-4"
+   },
+   {
+    "id": "GN1-5",
+    "name": "Dusty Olive",
+    "hex": "9D9885",
+    "alt": "PPU8-20"
+   },
+   {
+    "id": "GN2-5",
+    "name": "Muted Sage",
+    "hex": "93907E",
+    "alt": "N350-5"
+   },
+   {
+    "id": "GN3-5",
+    "name": "Wood Ash",
+    "hex": "848178",
+    "alt": "N360-5A"
+   },
+   {
+    "id": "GN4-5",
+    "name": "Incognito",
+    "hex": "8E8E82",
+    "alt": "N370-5"
+   },
+   {
+    "id": "GN5-5",
+    "name": "Naturalist Gray",
+    "hex": "8B8C83",
+    "alt": "N380-5"
+   },
+   {
+    "id": "GN6-5",
+    "name": "Eucalyptus Wreath",
+    "hex": "88927E",
+    "alt": "N390-5"
+   },
+   {
+    "id": "GN7-5",
+    "name": "Thai Basil",
+    "hex": "7F8B79",
+    "alt": "N400-5"
+   },
+   {
+    "id": "GN8-5",
+    "name": "Village Green",
+    "hex": "7E867C",
+    "alt": "N410-5"
+   },
+   {
+    "id": "GN1-6",
+    "name": "Sorrel Leaf",
+    "hex": "887E64",
+    "alt": "N340-6"
+   },
+   {
+    "id": "GN2-6",
+    "name": "Conifer Green",
+    "hex": "747767",
+    "alt": "PPU10-19"
+   },
+   {
+    "id": "GN3-6",
+    "name": "Patio Stone",
+    "hex": "6B655B",
+    "alt": "N360-6"
+   },
+   {
+    "id": "GN4-6",
+    "name": "Gladiator Gray",
+    "hex": "6E6C5E",
+    "alt": "N370-6"
+   },
+   {
+    "id": "GN5-6",
+    "name": "Bonsai Trunk",
+    "hex": "6C6D62",
+    "alt": "N380-6"
+   },
+   {
+    "id": "GN6-6",
+    "name": "Laurel Garland",
+    "hex": "68705C",
+    "alt": "N390-6"
+   },
+   {
+    "id": "GN7-6",
+    "name": "Royal Orchard",
+    "hex": "5F6D59",
+    "alt": "PPU11-01"
+   },
+   {
+    "id": "GN8-6",
+    "name": "Pinecone Hill",
+    "hex": "63695F",
+    "alt": "N410-6"
+   },
+   {
+    "id": "GN1-7",
+    "name": "Kilimanjaro",
+    "hex": "68604A",
+    "alt": "N340-7"
+   },
+   {
+    "id": "GN2-7",
+    "name": "Mountain Olive",
+    "hex": "64634F",
+    "alt": "N350-7A"
+   },
+   {
+    "id": "GN3-7",
+    "name": "Potting Soil",
+    "hex": "595147",
+    "alt": "N360-7"
+   },
+   {
+    "id": "GN4-7",
+    "name": "Grounded",
+    "hex": "565344",
+    "alt": "T27-01",
+    "tag": "COTY-27"
+   },
+   {
+    "id": "GN5-7",
+    "name": "Black Bamboo",
+    "hex": "5B5D53",
+    "alt": "N380-7"
+   },
+   {
+    "id": "GN6-7",
+    "name": "Cypress Vine",
+    "hex": "5E6552",
+    "alt": "N390-7"
+   },
+   {
+    "id": "GN7-7",
+    "name": "Vine Leaf",
+    "hex": "4D5F4F",
+    "alt": "N400-7"
+   },
+   {
+    "id": "GN8-7",
+    "name": "North Woods",
+    "hex": "555A51",
+    "alt": "N410-7"
+   },
+   {
+    "id": "BP1-1",
+    "name": "Tropical Trail",
+    "hex": "89D1B5",
+    "alt": "P420-3"
+   },
+   {
+    "id": "BP2-1",
+    "name": "Green Parakeet",
+    "hex": "7BD5BF",
+    "alt": "P430-3"
+   },
+   {
+    "id": "BP3-1",
+    "name": "Fish Pond",
+    "hex": "9DD9CC",
+    "alt": "P440-3"
+   },
+   {
+    "id": "BP4-1",
+    "name": "Rainwater",
+    "hex": "87D9D2",
+    "alt": "P450-3"
+   },
+   {
+    "id": "BP5-1",
+    "name": "Soft Turquoise",
+    "hex": "75CFD0",
+    "alt": "P460-3"
+   },
+   {
+    "id": "BP6-1",
+    "name": "Sea of Tranquility",
+    "hex": "81D1DA",
+    "alt": "P470-3"
+   },
+   {
+    "id": "BP7-1",
+    "name": "Cool Water Lake",
+    "hex": "9BD9E5",
+    "alt": "P480-3"
+   },
+   {
+    "id": "BP8-1",
+    "name": "Big Chill",
+    "hex": "7ECBE2",
+    "alt": "P490-3"
+   },
+   {
+    "id": "BP1-2",
+    "name": "Gem Silica",
+    "hex": "73C4A4",
+    "alt": "P420-4A"
+   },
+   {
+    "id": "BP2-2",
+    "name": "Kauai",
+    "hex": "5AC7AC",
+    "alt": "P430-4"
+   },
+   {
+    "id": "BP3-2",
+    "name": "March Aquamarine",
+    "hex": "6FC1AF",
+    "alt": "P440-4"
+   },
+   {
+    "id": "BP4-2",
+    "name": "Hidden Sea Glass",
+    "hex": "6FD0C9",
+    "alt": "P450-4"
+   },
+   {
+    "id": "BP5-2",
+    "name": "Caicos Turquoise",
+    "hex": "27B7B5",
+    "alt": "MQ4-21"
+   },
+   {
+    "id": "BP6-2",
+    "name": "Paradise Sky",
+    "hex": "66C6D0",
+    "alt": "P470-4"
+   },
+   {
+    "id": "BP7-2",
+    "name": "Rushing Stream",
+    "hex": "65C3D6",
+    "alt": "P480-4"
+   },
+   {
+    "id": "BP8-2",
+    "name": "Aztec Sky",
+    "hex": "4DB5D7",
+    "alt": "P490-4"
+   },
+   {
+    "id": "BP1-3",
+    "name": "Shamrock Green",
+    "hex": "4EA77D",
+    "alt": "P420-5"
+   },
+   {
+    "id": "BP2-3",
+    "name": "Enchanted Wells",
+    "hex": "25AD8D",
+    "alt": "P430-5"
+   },
+   {
+    "id": "BP3-3",
+    "name": "Water Park",
+    "hex": "54AF9C",
+    "alt": "P440-5"
+   },
+   {
+    "id": "BP4-3",
+    "name": "Tropical Sea",
+    "hex": "03A598",
+    "alt": "HDC-MD-22"
+   },
+   {
+    "id": "BP5-3",
+    "name": "Fiji",
+    "hex": "00AAAC",
+    "alt": "P460-5"
+   },
+   {
+    "id": "BP6-3",
+    "name": "Placid Sea",
+    "hex": "1CADBA",
+    "alt": "P470-5"
+   },
+   {
+    "id": "BP7-3",
+    "name": "High Dive",
+    "hex": "1AA9C1",
+    "alt": "P480-5"
+   },
+   {
+    "id": "BP8-3",
+    "name": "Yucatan",
+    "hex": "00A0C6",
+    "alt": "P490-5"
+   },
+   {
+    "id": "BP1-4",
+    "name": "Exquisite Emerald",
+    "hex": "338860",
+    "alt": "P420-6"
+   },
+   {
+    "id": "BP2-4",
+    "name": "Celtic Queen",
+    "hex": "00886B",
+    "alt": "P430-6A"
+   },
+   {
+    "id": "BP3-4",
+    "name": "Esmeralda",
+    "hex": "349581",
+    "alt": "P440-6"
+   },
+   {
+    "id": "BP4-4",
+    "name": "Tropics",
+    "hex": "009B8E",
+    "alt": "P450-6"
+   },
+   {
+    "id": "BP5-4",
+    "name": "Paradise Landscape",
+    "hex": "009494",
+    "alt": "P460-6"
+   },
+   {
+    "id": "BP6-4",
+    "name": "Bella Vista",
+    "hex": "008E9A",
+    "alt": "P470-6"
+   },
+   {
+    "id": "BP7-4",
+    "name": "Aruba Blue",
+    "hex": "0089A0",
+    "alt": "P480-6"
+   },
+   {
+    "id": "BP8-4",
+    "name": "Hacienda Blue",
+    "hex": "0087A8",
+    "alt": "P490-6"
+   },
+   {
+    "id": "BP1-5",
+    "name": "Crown Jewel",
+    "hex": "2E7451",
+    "alt": "P420-7"
+   },
+   {
+    "id": "BP2-5",
+    "name": "Sparkling Emerald",
+    "hex": "1F6C53",
+    "alt": "P430-7"
+   },
+   {
+    "id": "BP3-5",
+    "name": "Mermaid Sea",
+    "hex": "297F6D",
+    "alt": "P440-7"
+   },
+   {
+    "id": "BP4-5",
+    "name": "Mystic Turquoise",
+    "hex": "00867B",
+    "alt": "P450-7"
+   },
+   {
+    "id": "BP5-5",
+    "name": "Caribbean Current",
+    "hex": "006E6E",
+    "alt": "P460-7"
+   },
+   {
+    "id": "BP6-5",
+    "name": "The Real Teal",
+    "hex": "007883",
+    "alt": "P470-7"
+   },
+   {
+    "id": "BP7-5",
+    "name": "Striking",
+    "hex": "00667B",
+    "alt": "P480-7"
+   },
+   {
+    "id": "BP8-5",
+    "name": "Mayan Treasure",
+    "hex": "007597",
+    "alt": "P490-7"
+   },
+   {
+    "id": "BM1-1",
+    "name": "Sparkling Brook",
+    "hex": "DCEEE3",
+    "alt": "M420-1"
+   },
+   {
+    "id": "BM2-1",
+    "name": "Snowbound",
+    "hex": "DDEBE3",
+    "alt": "M430-1"
+   },
+   {
+    "id": "BM3-1",
+    "name": "Seaglass",
+    "hex": "D0E6DE",
+    "alt": "HDC-CT-26A"
+   },
+   {
+    "id": "BM4-1",
+    "name": "Dew Pointe",
+    "hex": "D7EDE8",
+    "alt": "M450-1"
+   },
+   {
+    "id": "BM5-1",
+    "name": "Tahitian Sky",
+    "hex": "C9E9E7",
+    "alt": "M460-1"
+   },
+   {
+    "id": "BM6-1",
+    "name": "Ethereal Mood",
+    "hex": "CCE7EB",
+    "alt": "MQ3-52"
+   },
+   {
+    "id": "BM7-1",
+    "name": "Helium",
+    "hex": "E0F0F0",
+    "alt": "M480-1"
+   },
+   {
+    "id": "BM8-1",
+    "name": "Breezy Blue",
+    "hex": "BAD9E5",
+    "alt": "M490-1"
+   },
+   {
+    "id": "BM1-2",
+    "name": "Green Aqua",
+    "hex": "D0E8DB",
+    "alt": "M420-2"
+   },
+   {
+    "id": "BM2-2",
+    "name": "Ice Rink",
+    "hex": "CBDFD6",
+    "alt": "M430-2"
+   },
+   {
+    "id": "BM3-2",
+    "name": "Misty Isle",
+    "hex": "C5E4DC",
+    "alt": "MQ3-19"
+   },
+   {
+    "id": "BM4-2",
+    "name": "Tidewater",
+    "hex": "C2E3DD",
+    "alt": "M450-2"
+   },
+   {
+    "id": "BM5-2",
+    "name": "Beachside Drive",
+    "hex": "ACDBDC",
+    "alt": "M460-2"
+   },
+   {
+    "id": "BM6-2",
+    "name": "Basin Blue",
+    "hex": "B9DEE4",
+    "alt": "M470-2"
+   },
+   {
+    "id": "BM7-2",
+    "name": "Winterscape",
+    "hex": "C9E5EB",
+    "alt": "M480-2A"
+   },
+   {
+    "id": "BM8-2",
+    "name": "Carefree Sky",
+    "hex": "A6CDDE",
+    "alt": "M490-2"
+   },
+   {
+    "id": "BM1-3",
+    "name": "Mirador",
+    "hex": "BCDCCD",
+    "alt": "M420-3"
+   },
+   {
+    "id": "BM2-3",
+    "name": "Wintergreen Dream",
+    "hex": "B1CDC2",
+    "alt": "M430-3"
+   },
+   {
+    "id": "BM3-3",
+    "name": "Baby Aqua",
+    "hex": "ABCCC3",
+    "alt": "M440-3"
+   },
+   {
+    "id": "BM4-3",
+    "name": "Wave Top",
+    "hex": "AFD9D3",
+    "alt": "M450-3"
+   },
+   {
+    "id": "BM5-3",
+    "name": "Big Surf",
+    "hex": "96D0D1",
+    "alt": "M460-3"
+   },
+   {
+    "id": "BM6-3",
+    "name": "Balboa",
+    "hex": "AFD3DA",
+    "alt": "MQ4-55"
+   },
+   {
+    "id": "BM7-3",
+    "name": "Bengal Blue",
+    "hex": "A3D1DF",
+    "alt": "M480-3"
+   },
+   {
+    "id": "BM8-3",
+    "name": "Speedboat",
+    "hex": "90BFD4",
+    "alt": "M490-3"
+   },
+   {
+    "id": "BM1-4",
+    "name": "Jade Mountain",
+    "hex": "97C3B0",
+    "alt": "M420-4"
+   },
+   {
+    "id": "BM2-4",
+    "name": "Spring Stream",
+    "hex": "98BEB2",
+    "alt": "PPU12-07"
+   },
+   {
+    "id": "BM3-4",
+    "name": "Summer Dragonfly",
+    "hex": "83ADA3",
+    "alt": "M440-4"
+   },
+   {
+    "id": "BM4-4",
+    "name": "Undine",
+    "hex": "89C1BA",
+    "alt": "M450-4"
+   },
+   {
+    "id": "BM5-4",
+    "name": "Pure Turquoise",
+    "hex": "7ABEC2",
+    "alt": "M460-4"
+   },
+   {
+    "id": "BM6-4",
+    "name": "Azure Lake",
+    "hex": "7BBBC8",
+    "alt": "M470-4"
+   },
+   {
+    "id": "BM7-4",
+    "name": "Below Zero",
+    "hex": "78B8CC",
+    "alt": "M480-4"
+   },
+   {
+    "id": "BM8-4",
+    "name": "Frisky Blue",
+    "hex": "7BB1C9",
+    "alt": "M490-4"
+   },
+   {
+    "id": "BM1-5",
+    "name": "Free Green",
+    "hex": "74A690",
+    "alt": "M420-5"
+   },
+   {
+    "id": "BM2-5",
+    "name": "Regal View",
+    "hex": "749E8F",
+    "alt": "M430-5"
+   },
+   {
+    "id": "BM3-5",
+    "name": "Lunar Tide",
+    "hex": "6F968B",
+    "alt": "M440-5"
+   },
+   {
+    "id": "BM4-5",
+    "name": "Aqua Rapids",
+    "hex": "63A39C",
+    "alt": "M450-5"
+   },
+   {
+    "id": "BM5-5",
+    "name": "Aqua Fresco",
+    "hex": "4A9FA3",
+    "alt": "M460-5"
+   },
+   {
+    "id": "BM6-5",
+    "name": "Explorer Blue",
+    "hex": "57A3B3",
+    "alt": "M470-5"
+   },
+   {
+    "id": "BM7-5",
+    "name": "North Pole Blue",
+    "hex": "55A0B7",
+    "alt": "M480-5A"
+   },
+   {
+    "id": "BM8-5",
+    "name": "Jet Ski",
+    "hex": "5492AF",
+    "alt": "M490-5"
+   },
+   {
+    "id": "BM1-6",
+    "name": "Tournament Field",
+    "hex": "54836B",
+    "alt": "M420-6"
+   },
+   {
+    "id": "BM2-6",
+    "name": "Park Bench",
+    "hex": "537F6C",
+    "alt": "M430-6"
+   },
+   {
+    "id": "BM3-6",
+    "name": "Trellis Vine",
+    "hex": "5D7F74",
+    "alt": "M440-6"
+   },
+   {
+    "id": "BM4-6",
+    "name": "Bubble Turquoise",
+    "hex": "43817A",
+    "alt": "M450-6"
+   },
+   {
+    "id": "BM5-6",
+    "name": "Thai Teal",
+    "hex": "2E8689",
+    "alt": "M460-6"
+   },
+   {
+    "id": "BM6-6",
+    "name": "Calypso Blue",
+    "hex": "347D8B",
+    "alt": "HDC-CL-27"
+   },
+   {
+    "id": "BM7-6",
+    "name": "Valley of Glaciers",
+    "hex": "2D7E96",
+    "alt": "M480-6"
+   },
+   {
+    "id": "BM8-6",
+    "name": "Living Stream",
+    "hex": "37708C",
+    "alt": "M490-6"
+   },
+   {
+    "id": "BM1-7",
+    "name": "Billiard Green",
+    "hex": "446755",
+    "alt": "M420-7"
+   },
+   {
+    "id": "BM2-7",
+    "name": "Green Agate",
+    "hex": "3F6253",
+    "alt": "M430-7"
+   },
+   {
+    "id": "BM3-7",
+    "name": "Rainforest",
+    "hex": "475F57",
+    "alt": "M440-7"
+   },
+   {
+    "id": "BM4-7",
+    "name": "Beta Fish",
+    "hex": "3A6B66",
+    "alt": "M450-7"
+   },
+   {
+    "id": "BM5-7",
+    "name": "Antigua",
+    "hex": "256D73",
+    "alt": "M460-7"
+   },
+   {
+    "id": "BM6-7",
+    "name": "Caribe",
+    "hex": "147D87",
+    "alt": "PPU13-01"
+   },
+   {
+    "id": "BM7-7",
+    "name": "Ice Cave",
+    "hex": "2B677D",
+    "alt": "M480-7"
+   },
+   {
+    "id": "BM8-7",
+    "name": "Shasta Lake",
+    "hex": "355C74",
+    "alt": "M490-7"
+   },
+   {
+    "id": "BS1-1",
+    "name": "New Day",
+    "hex": "D8E5DD",
+    "alt": "S420-1"
+   },
+   {
+    "id": "BS2-1",
+    "name": "Reflecting Moment",
+    "hex": "D2E0D9",
+    "alt": "S430-1A"
+   },
+   {
+    "id": "BS3-1",
+    "name": "Sunken Pool",
+    "hex": "C8DDDA",
+    "alt": "S440-1"
+   },
+   {
+    "id": "BS4-1",
+    "name": "Beach Foam",
+    "hex": "CDE0E1",
+    "alt": "S450-1"
+   },
+   {
+    "id": "BS5-1",
+    "name": "Air Blue",
+    "hex": "BCD9E0",
+    "alt": "S460-1"
+   },
+   {
+    "id": "BS6-1",
+    "name": "Waterfall",
+    "hex": "CFDFE2",
+    "alt": "HDC-CT-16B"
+   },
+   {
+    "id": "BS7-1",
+    "name": "Rain Dance",
+    "hex": "C3DAE0",
+    "alt": "S480-1"
+   },
+   {
+    "id": "BS8-1",
+    "name": "Permafrost",
+    "hex": "D7E8EC",
+    "alt": "S490-1"
+   },
+   {
+    "id": "BS1-2",
+    "name": "Moon Glass",
+    "hex": "BCD1C7",
+    "alt": "S420-2"
+   },
+   {
+    "id": "BS2-2",
+    "name": "Fresh Tone",
+    "hex": "B2C7C0",
+    "alt": "S430-2"
+   },
+   {
+    "id": "BS3-2",
+    "name": "Clear Pond",
+    "hex": "B4CCCB",
+    "alt": "PPU13-15"
+   },
+   {
+    "id": "BS4-2",
+    "name": "Wind Speed",
+    "hex": "BFD6D9",
+    "alt": "S450-2"
+   },
+   {
+    "id": "BS5-2",
+    "name": "Drip",
+    "hex": "A6CCD6",
+    "alt": "S460-2"
+   },
+   {
+    "id": "BS6-2",
+    "name": "Gentle Sea",
+    "hex": "B0C8D0",
+    "alt": "S470-2"
+   },
+   {
+    "id": "BS7-2",
+    "name": "Sea Wind",
+    "hex": "ACCAD5",
+    "alt": "S480-2"
+   },
+   {
+    "id": "BS8-2",
+    "name": "Glacial Stream",
+    "hex": "BCD8E2",
+    "alt": "S490-2"
+   },
+   {
+    "id": "BS1-3",
+    "name": "Nile River",
+    "hex": "9AB6A9",
+    "alt": "S420-3"
+   },
+   {
+    "id": "BS2-3",
+    "name": "Opal Silk",
+    "hex": "9DB9B2",
+    "alt": "PPU12-08"
+   },
+   {
+    "id": "BS3-3",
+    "name": "Ocean Boulevard",
+    "hex": "A4C8C8",
+    "alt": "PPU13-10"
+   },
+   {
+    "id": "BS4-3",
+    "name": "Clear Vista",
+    "hex": "A3BEC4",
+    "alt": "PPU13-11"
+   },
+   {
+    "id": "BS5-3",
+    "name": "Blue Echo",
+    "hex": "8DBBC9",
+    "alt": "S460-3"
+   },
+   {
+    "id": "BS6-3",
+    "name": "Peaceful Blue",
+    "hex": "9AB6C0",
+    "alt": "S470-3"
+   },
+   {
+    "id": "BS7-3",
+    "name": "Sydney Harbour",
+    "hex": "97BBC9",
+    "alt": "S480-3"
+   },
+   {
+    "id": "BS8-3",
+    "name": "Reef Blue",
+    "hex": "93BDCF",
+    "alt": "S490-3"
+   },
+   {
+    "id": "BS1-4",
+    "name": "Australian Jade",
+    "hex": "84A194",
+    "alt": "S420-4"
+   },
+   {
+    "id": "BS2-4",
+    "name": "Green Meets Blue",
+    "hex": "8EA8A0",
+    "alt": "S430-4"
+   },
+   {
+    "id": "BS3-4",
+    "name": "Venus Teal",
+    "hex": "85A4A2",
+    "alt": "PPU13-08"
+   },
+   {
+    "id": "BS4-4",
+    "name": "Tahoe Blue",
+    "hex": "94B8C1",
+    "alt": "PPU13-09"
+   },
+   {
+    "id": "BS5-4",
+    "name": "Snowboard",
+    "hex": "74A9B9",
+    "alt": "S460-4"
+   },
+   {
+    "id": "BS6-4",
+    "name": "Dolphin Blue",
+    "hex": "7C9DA9",
+    "alt": "S470-4"
+   },
+   {
+    "id": "BS7-4",
+    "name": "Saga Blue",
+    "hex": "75A0B1",
+    "alt": "S480-4"
+   },
+   {
+    "id": "BS8-4",
+    "name": "Yacht Blue",
+    "hex": "679BB3",
+    "alt": "S490-4"
+   },
+   {
+    "id": "BS1-5",
+    "name": "Sycamore Grove",
+    "hex": "6A8779",
+    "alt": "S420-5"
+   },
+   {
+    "id": "BS2-5",
+    "name": "Longmeadow",
+    "hex": "77928A",
+    "alt": "S430-5"
+   },
+   {
+    "id": "BS3-5",
+    "name": "Dragonfly",
+    "hex": "72908D",
+    "alt": "PPU12-03"
+   },
+   {
+    "id": "BS4-5",
+    "name": "Voyage",
+    "hex": "719CA4",
+    "alt": "PPU13-07"
+   },
+   {
+    "id": "BS5-5",
+    "name": "Blue Square",
+    "hex": "508A9A",
+    "alt": "S460-5"
+   },
+   {
+    "id": "BS6-5",
+    "name": "Blueprint",
+    "hex": "60818E",
+    "alt": "S470-5"
+   },
+   {
+    "id": "BS7-5",
+    "name": "Blue Moon Bay",
+    "hex": "588496",
+    "alt": "S480-5"
+   },
+   {
+    "id": "BS8-5",
+    "name": "Jay Bird",
+    "hex": "50859E",
+    "alt": "S490-5"
+   },
+   {
+    "id": "BS1-6",
+    "name": "Pine Brook",
+    "hex": "5C7669",
+    "alt": "S420-6"
+   },
+   {
+    "id": "BS2-6",
+    "name": "Forest Edge",
+    "hex": "627B72",
+    "alt": "S430-6"
+   },
+   {
+    "id": "BS3-6",
+    "name": "Sophisticated Teal",
+    "hex": "537175",
+    "alt": "HDC-CL-22"
+   },
+   {
+    "id": "BS4-6",
+    "name": "River Rapids",
+    "hex": "4D7179",
+    "alt": "S450-6A"
+   },
+   {
+    "id": "BS5-6",
+    "name": "Mammoth Mountain",
+    "hex": "3B6A7A",
+    "alt": "S460-6"
+   },
+   {
+    "id": "BS6-6",
+    "name": "Shipwreck",
+    "hex": "4E6975",
+    "alt": "S470-6"
+   },
+   {
+    "id": "BS7-6",
+    "name": "Poseidon",
+    "hex": "466C7C",
+    "alt": "S480-6"
+   },
+   {
+    "id": "BS8-6",
+    "name": "Bering Wave",
+    "hex": "3D6D84",
+    "alt": "S490-6"
+   },
+   {
+    "id": "BS1-7",
+    "name": "Secluded Woods",
+    "hex": "495A52",
+    "alt": "S420-7"
+   },
+   {
+    "id": "BS2-7",
+    "name": "Dark Everglade",
+    "hex": "3E554F",
+    "alt": "HDC-CL-21A"
+   },
+   {
+    "id": "BS3-7",
+    "name": "Thermal",
+    "hex": "3F5052",
+    "alt": "S440-7"
+   },
+   {
+    "id": "BS4-7",
+    "name": "Out to Sea",
+    "hex": "245B61",
+    "alt": "S450-7A"
+   },
+   {
+    "id": "BS5-7",
+    "name": "Deep Breath",
+    "hex": "395865",
+    "alt": "S460-7"
+   },
+   {
+    "id": "BS6-7",
+    "name": "Undersea",
+    "hex": "4A585F",
+    "alt": "S470-7"
+   },
+   {
+    "id": "BS7-7",
+    "name": "Nocturne Blue",
+    "hex": "344D58",
+    "alt": "HDC-CL-28"
+   },
+   {
+    "id": "BS8-7",
+    "name": "Superior Blue",
+    "hex": "3A5E73",
+    "alt": "S490-7"
+   },
+   {
+    "id": "BN1-1",
+    "name": "Juniper Breeze",
+    "hex": "D9E0D9",
+    "alt": "N420-1"
+   },
+   {
+    "id": "BN2-1",
+    "name": "Mountain Peak White",
+    "hex": "D9E4DE",
+    "alt": "N430-1"
+   },
+   {
+    "id": "BN3-1",
+    "name": "Streetwise",
+    "hex": "D8E2DF",
+    "alt": "N440-1"
+   },
+   {
+    "id": "BN4-1",
+    "name": "Evaporation",
+    "hex": "D1D5D3",
+    "alt": "N450-1"
+   },
+   {
+    "id": "BN5-1",
+    "name": "Evening White",
+    "hex": "D8DBD7",
+    "alt": "N460-1"
+   },
+   {
+    "id": "BN6-1",
+    "name": "Offshore Mist",
+    "hex": "CAD8D8",
+    "alt": "PPU13-16"
+   },
+   {
+    "id": "BN7-1",
+    "name": "Light Drizzle",
+    "hex": "C9D3D7",
+    "alt": "N480-1"
+   },
+   {
+    "id": "BN8-1",
+    "name": "Absolute Zero",
+    "hex": "CBD3D5",
+    "alt": "N490-1"
+   },
+   {
+    "id": "BN1-2",
+    "name": "Zen",
+    "hex": "AABAAF",
+    "alt": "PPU11-14"
+   },
+   {
+    "id": "BN2-2",
+    "name": "Nature's Reflection",
+    "hex": "C5D4CD",
+    "alt": "N430-2"
+   },
+   {
+    "id": "BN3-2",
+    "name": "Urban Raincoat",
+    "hex": "BDCBCA",
+    "alt": "N440-2"
+   },
+   {
+    "id": "BN4-2",
+    "name": "Zero Gravity",
+    "hex": "C3C8C7",
+    "alt": "N450-2"
+   },
+   {
+    "id": "BN5-2",
+    "name": "Planetary Silver",
+    "hex": "CCCFCB",
+    "alt": "N460-2"
+   },
+   {
+    "id": "BN6-2",
+    "name": "Dusted Blue",
+    "hex": "BBC8C9",
+    "alt": "N470-2A"
+   },
+   {
+    "id": "BN7-2",
+    "name": "Flowing Breeze",
+    "hex": "B9C6CB",
+    "alt": "N480-2"
+   },
+   {
+    "id": "BN8-2",
+    "name": "Icicles",
+    "hex": "BCC5C9",
+    "alt": "N490-2"
+   },
+   {
+    "id": "BN1-3",
+    "name": "Green Balsam",
+    "hex": "A0AC9E",
+    "alt": "PPU11-15"
+   },
+   {
+    "id": "BN2-3",
+    "name": "Garden Vista",
+    "hex": "9FB1AB",
+    "alt": "N430-3"
+   },
+   {
+    "id": "BN3-3",
+    "name": "Watery",
+    "hex": "AEBDBB",
+    "alt": "HDC-CT-26"
+   },
+   {
+    "id": "BN4-3",
+    "name": "Silent Film",
+    "hex": "9FA5A5",
+    "alt": "MQ5-30"
+   },
+   {
+    "id": "BN5-3",
+    "name": "Lunar Surface",
+    "hex": "B6B9B6",
+    "alt": "N460-3"
+   },
+   {
+    "id": "BN6-3",
+    "name": "Half Sea Fog",
+    "hex": "A9B8BB",
+    "alt": "N470-3"
+   },
+   {
+    "id": "BN7-3",
+    "name": "Shadow Blue",
+    "hex": "A6B5BD",
+    "alt": "N480-3"
+   },
+   {
+    "id": "BN8-3",
+    "name": "Intercoastal Gray",
+    "hex": "A8B5BC",
+    "alt": "MQ5-23"
+   },
+   {
+    "id": "BN1-4",
+    "name": "Underground Gardens",
+    "hex": "86968B",
+    "alt": "N420-4"
+   },
+   {
+    "id": "BN2-4",
+    "name": "Rainy Afternoon",
+    "hex": "889A95",
+    "alt": "N430-4"
+   },
+   {
+    "id": "BN3-4",
+    "name": "Provence Blue",
+    "hex": "8A9C99",
+    "alt": "HDC-AC-23"
+   },
+   {
+    "id": "BN4-4",
+    "name": "Dark Pewter",
+    "hex": "8D9396",
+    "alt": "PPU18-04"
+   },
+   {
+    "id": "BN5-4",
+    "name": "Cosmic Quest",
+    "hex": "9EA19F",
+    "alt": "N460-4"
+   },
+   {
+    "id": "BN6-4",
+    "name": "Rainy Season",
+    "hex": "879CA4",
+    "alt": "MQ5-27"
+   },
+   {
+    "id": "BN7-4",
+    "name": "Dusty Denim",
+    "hex": "90A1AA",
+    "alt": "N480-4A"
+   },
+   {
+    "id": "BN8-4",
+    "name": "Teton Blue",
+    "hex": "8D99A1",
+    "alt": "N490-4"
+   },
+   {
+    "id": "BN1-5",
+    "name": "Boreal",
+    "hex": "717E73",
+    "alt": "N420-5"
+   },
+   {
+    "id": "BN2-5",
+    "name": "Aspen Valley",
+    "hex": "687F7A",
+    "alt": "N430-5"
+   },
+   {
+    "id": "BN3-5",
+    "name": "Juniper Ash",
+    "hex": "798884",
+    "alt": "PPU12-16"
+   },
+   {
+    "id": "BN4-5",
+    "name": "Intergalactic",
+    "hex": "788082",
+    "alt": "N450-5"
+   },
+   {
+    "id": "BN5-5",
+    "name": "Slate Rock",
+    "hex": "868A88",
+    "alt": "N460-5"
+   },
+   {
+    "id": "BN6-5",
+    "name": "Norwegian Blue",
+    "hex": "78888E",
+    "alt": "N470-5"
+   },
+   {
+    "id": "BN7-5",
+    "name": "Adirondack Blue",
+    "hex": "74858F",
+    "alt": "N480-5"
+   },
+   {
+    "id": "BN8-5",
+    "name": "Charcoal Blue",
+    "hex": "6F7B84",
+    "alt": "N490-5"
+   },
+   {
+    "id": "BN1-6",
+    "name": "Pine Mountain",
+    "hex": "5C685E",
+    "alt": "N420-6"
+   },
+   {
+    "id": "BN2-6",
+    "name": "Hidden Gem",
+    "hex": "596D69",
+    "alt": "N430-6A"
+   },
+   {
+    "id": "BN3-6",
+    "name": "Brooklyn",
+    "hex": "586766",
+    "alt": "N440-6"
+   },
+   {
+    "id": "BN4-6",
+    "name": "Binary Star",
+    "hex": "616767",
+    "alt": "N450-6"
+   },
+   {
+    "id": "BN5-6",
+    "name": "Hematite",
+    "hex": "5F615F",
+    "alt": "N460-6"
+   },
+   {
+    "id": "BN6-6",
+    "name": "Whale Gray",
+    "hex": "59676B",
+    "alt": "N470-6"
+   },
+   {
+    "id": "BN7-6",
+    "name": "NYPD",
+    "hex": "5F6E77",
+    "alt": "N480-6"
+   },
+   {
+    "id": "BN8-6",
+    "name": "Calligraphy",
+    "hex": "59636A",
+    "alt": "N490-6"
+   },
+   {
+    "id": "BN1-7",
+    "name": "Alpine Trail",
+    "hex": "515A52",
+    "alt": "N420-7"
+   },
+   {
+    "id": "BN2-7",
+    "name": "Black Evergreen",
+    "hex": "45524F",
+    "alt": "MQ6-44"
+   },
+   {
+    "id": "BN3-7",
+    "name": "Midnight in Ny",
+    "hex": "4E5959",
+    "alt": "N440-7"
+   },
+   {
+    "id": "BN4-7",
+    "name": "Broadway",
+    "hex": "434442",
+    "alt": "PPU18-20"
+   },
+   {
+    "id": "BN5-7",
+    "name": "Black Mocha",
+    "hex": "4B4743",
+    "alt": "PPU24-01"
+   },
+   {
+    "id": "BN6-7",
+    "name": "Submarine Gray",
+    "hex": "4D585C",
+    "alt": "N470-7"
+   },
+   {
+    "id": "BN7-7",
+    "name": "Midnight Blue",
+    "hex": "4C565E",
+    "alt": "N480-7"
+   },
+   {
+    "id": "BN8-7",
+    "name": "Nightfall",
+    "hex": "45494D",
+    "alt": "T27-04"
+   },
+   {
+    "id": "PP1-1",
+    "name": "Spa Blue",
+    "hex": "9FD1EB",
+    "alt": "P500-3"
+   },
+   {
+    "id": "PP2-1",
+    "name": "Rhodes",
+    "hex": "89C0E6",
+    "alt": "P510-3"
+   },
+   {
+    "id": "PP3-1",
+    "name": "Bluebird",
+    "hex": "89B1D6",
+    "alt": "PPU15-12"
+   },
+   {
+    "id": "PP4-1",
+    "name": "Honest",
+    "hex": "9AB8E2",
+    "alt": "P530-3"
+   },
+   {
+    "id": "PP5-1",
+    "name": "Canterbury Bells",
+    "hex": "B9C3E6",
+    "alt": "P540-3"
+   },
+   {
+    "id": "PP6-1",
+    "name": "Lavender Cloud",
+    "hex": "B6B8DE",
+    "alt": "P550-3"
+   },
+   {
+    "id": "PP7-1",
+    "name": "Party Hat",
+    "hex": "CAC1E2",
+    "alt": "P560-3"
+   },
+   {
+    "id": "PP8-1",
+    "name": "Flower Girl",
+    "hex": "B7A1CE",
+    "alt": "P570-3"
+   },
+   {
+    "id": "PP1-2",
+    "name": "Life Force",
+    "hex": "6FB7E0",
+    "alt": "P500-4"
+   },
+   {
+    "id": "PP2-2",
+    "name": "Electra",
+    "hex": "75B5E1",
+    "alt": "P510-4"
+   },
+   {
+    "id": "PP3-2",
+    "name": "Cornflower",
+    "hex": "6AA0CF",
+    "alt": "P520-4"
+   },
+   {
+    "id": "PP4-2",
+    "name": "Periwinkle",
+    "hex": "82A4D7",
+    "alt": "P530-4"
+   },
+   {
+    "id": "PP5-2",
+    "name": "Lavender Sky",
+    "hex": "9FACDB",
+    "alt": "P540-4"
+   },
+   {
+    "id": "PP6-2",
+    "name": "Water Hyacinth",
+    "hex": "A0A3D2",
+    "alt": "P550-4"
+   },
+   {
+    "id": "PP7-2",
+    "name": "Magic Wand",
+    "hex": "ADA1D1",
+    "alt": "P560-4"
+   },
+   {
+    "id": "PP8-2",
+    "name": "Classic Bouquet",
+    "hex": "A38BBF",
+    "alt": "P570-4"
+   },
+   {
+    "id": "PP1-3",
+    "name": "Peaceful River",
+    "hex": "47A0D2",
+    "alt": "P500-5"
+   },
+   {
+    "id": "PP2-3",
+    "name": "Perfect Sky",
+    "hex": "4596CF",
+    "alt": "P510-5"
+   },
+   {
+    "id": "PP3-3",
+    "name": "Boat House",
+    "hex": "4E89BE",
+    "alt": "P520-5"
+   },
+   {
+    "id": "PP4-3",
+    "name": "Integrity",
+    "hex": "6389C6",
+    "alt": "P530-5"
+   },
+   {
+    "id": "PP5-3",
+    "name": "Pansy Garden",
+    "hex": "7F8FCA",
+    "alt": "P540-5"
+   },
+   {
+    "id": "PP6-3",
+    "name": "Carriage Ride",
+    "hex": "8A8DC4",
+    "alt": "P550-5"
+   },
+   {
+    "id": "PP7-3",
+    "name": "Unimaginable",
+    "hex": "8C7EB9",
+    "alt": "P560-5"
+   },
+   {
+    "id": "PP8-3",
+    "name": "Romantic Moment",
+    "hex": "9076AE",
+    "alt": "P570-5"
+   },
+   {
+    "id": "PP1-4",
+    "name": "Deep River",
+    "hex": "0079B3",
+    "alt": "P500-6"
+   },
+   {
+    "id": "PP2-4",
+    "name": "Brilliant Blue",
+    "hex": "267EBC",
+    "alt": "P510-6"
+   },
+   {
+    "id": "PP3-4",
+    "name": "Mega Blue",
+    "hex": "366FA6",
+    "alt": "P520-6"
+   },
+   {
+    "id": "PP4-4",
+    "name": "New Age Blue",
+    "hex": "496EAD",
+    "alt": "PPU15-05"
+   },
+   {
+    "id": "PP5-4",
+    "name": "Wild Pansy",
+    "hex": "6373B4",
+    "alt": "P540-6"
+   },
+   {
+    "id": "PP6-4",
+    "name": "Wizard's Potion",
+    "hex": "5D6098",
+    "alt": "P550-6"
+   },
+   {
+    "id": "PP7-4",
+    "name": "Just a Fairytale",
+    "hex": "6C5D97",
+    "alt": "P560-6"
+   },
+   {
+    "id": "PP8-4",
+    "name": "Classic Waltz",
+    "hex": "71588D",
+    "alt": "P570-6"
+   },
+   {
+    "id": "PP1-5",
+    "name": "Cosmic Cobalt",
+    "hex": "156A9B",
+    "alt": "P500-7"
+   },
+   {
+    "id": "PP2-5",
+    "name": "Beacon Blue",
+    "hex": "265C98",
+    "alt": "P510-7"
+   },
+   {
+    "id": "PP3-5",
+    "name": "Dark Cobalt Blue",
+    "hex": "33578A",
+    "alt": "PPU15-03"
+   },
+   {
+    "id": "PP4-5",
+    "name": "Tanzanite",
+    "hex": "3C4B7E",
+    "alt": "P530-7"
+   },
+   {
+    "id": "PP5-5",
+    "name": "Canyon Iris",
+    "hex": "49548F",
+    "alt": "P540-7"
+   },
+   {
+    "id": "PP6-5",
+    "name": "Purple Prince",
+    "hex": "515386",
+    "alt": "P550-7"
+   },
+   {
+    "id": "PP7-5",
+    "name": "King's Court",
+    "hex": "5F5286",
+    "alt": "P560-7"
+   },
+   {
+    "id": "PP8-5",
+    "name": "Virtual Violet",
+    "hex": "66537F",
+    "alt": "HDC-MD-25"
+   },
+   {
+    "id": "PM1-1",
+    "name": "Tinted Ice",
+    "hex": "BED8E4",
+    "alt": "M500-1"
+   },
+   {
+    "id": "PM2-1",
+    "name": "Blue Me Away",
+    "hex": "C9DCE7",
+    "alt": "M510-1"
+   },
+   {
+    "id": "PM3-1",
+    "name": "Soft Cloud",
+    "hex": "D0E3ED",
+    "alt": "M520-1A"
+   },
+   {
+    "id": "PM4-1",
+    "name": "Ice Drop",
+    "hex": "D2DFEA",
+    "alt": "M530-1"
+   },
+   {
+    "id": "PM5-1",
+    "name": "Bellflower Blue",
+    "hex": "E1E9EF",
+    "alt": "M540-1"
+   },
+   {
+    "id": "PM6-1",
+    "name": "White Lavender",
+    "hex": "E1E2EB",
+    "alt": "M550-1"
+   },
+   {
+    "id": "PM7-1",
+    "name": "Sweet Bianca",
+    "hex": "E2DEEA",
+    "alt": "M560-1"
+   },
+   {
+    "id": "PM8-1",
+    "name": "In the Spotlight",
+    "hex": "EDE6ED",
+    "alt": "M570-1"
+   },
+   {
+    "id": "PM1-2",
+    "name": "Early September",
+    "hex": "ADCDDC",
+    "alt": "M500-2"
+   },
+   {
+    "id": "PM2-2",
+    "name": "Life at Sea",
+    "hex": "AFC9DC",
+    "alt": "M510-2"
+   },
+   {
+    "id": "PM3-2",
+    "name": "After Rain",
+    "hex": "C1DBEA",
+    "alt": "M520-2"
+   },
+   {
+    "id": "PM4-2",
+    "name": "Sky's the Limit",
+    "hex": "BBCEE0",
+    "alt": "M530-2"
+   },
+   {
+    "id": "PM5-2",
+    "name": "Angelic Blue",
+    "hex": "CED9E9",
+    "alt": "M540-2"
+   },
+   {
+    "id": "PM6-2",
+    "name": "Lavender Memory",
+    "hex": "D3D3E2",
+    "alt": "M550-2"
+   },
+   {
+    "id": "PM7-2",
+    "name": "Fanciful",
+    "hex": "D7D0E1",
+    "alt": "M560-2"
+   },
+   {
+    "id": "PM8-2",
+    "name": "Monologue",
+    "hex": "DFD3E4",
+    "alt": "M570-2"
+   },
+   {
+    "id": "PM1-3",
+    "name": "Blue Chalk",
+    "hex": "95BCD2",
+    "alt": "M500-3"
+   },
+   {
+    "id": "PM2-3",
+    "name": "Sailor's Knot",
+    "hex": "90B1CB",
+    "alt": "M510-3"
+   },
+   {
+    "id": "PM3-3",
+    "name": "Charismatic Sky",
+    "hex": "9AC1DC",
+    "alt": "M520-3"
+   },
+   {
+    "id": "PM4-3",
+    "name": "Perennial Blue",
+    "hex": "A4BBD3",
+    "alt": "M530-3"
+   },
+   {
+    "id": "PM5-3",
+    "name": "Eternal Elegance",
+    "hex": "B3C3DD",
+    "alt": "M540-3"
+   },
+   {
+    "id": "PM6-3",
+    "name": "Foxglove",
+    "hex": "C1C2D7",
+    "alt": "M550-3"
+   },
+   {
+    "id": "PM7-3",
+    "name": "Grape Hyacinth",
+    "hex": "BCB3CF",
+    "alt": "M560-3"
+   },
+   {
+    "id": "PM8-3",
+    "name": "On Location",
+    "hex": "D4C6DC",
+    "alt": "M570-3"
+   },
+   {
+    "id": "PM1-4",
+    "name": "Hemisphere",
+    "hex": "5285A4",
+    "alt": "M500-4"
+   },
+   {
+    "id": "PM2-4",
+    "name": "Brittany Blue",
+    "hex": "6A92B1",
+    "alt": "M510-4"
+   },
+   {
+    "id": "PM3-4",
+    "name": "Mirror Lake",
+    "hex": "7AA8CB",
+    "alt": "M520-4"
+   },
+   {
+    "id": "PM4-4",
+    "name": "Washed Denim",
+    "hex": "819DBE",
+    "alt": "M530-4"
+   },
+   {
+    "id": "PM5-4",
+    "name": "Hopeful Dream",
+    "hex": "94A9CD",
+    "alt": "M540-4"
+   },
+   {
+    "id": "PM6-4",
+    "name": "Wisteria Blue",
+    "hex": "AAABC8",
+    "alt": "M550-4"
+   },
+   {
+    "id": "PM7-4",
+    "name": "Evening Slipper",
+    "hex": "A99EC1",
+    "alt": "M560-4"
+   },
+   {
+    "id": "PM8-4",
+    "name": "Cyber Grape",
+    "hex": "BBA7C7",
+    "alt": "M570-4"
+   },
+   {
+    "id": "PM1-5",
+    "name": "Sojourn Blue",
+    "hex": "416F8B",
+    "alt": "M500-5"
+   },
+   {
+    "id": "PM2-5",
+    "name": "Sailor's Bay",
+    "hex": "496F8E",
+    "alt": "M510-5"
+   },
+   {
+    "id": "PM3-5",
+    "name": "Glass Sapphire",
+    "hex": "587B9B",
+    "alt": "PPU14-02"
+   },
+   {
+    "id": "PM4-5",
+    "name": "Cowgirl Blue",
+    "hex": "6A87AB",
+    "alt": "M530-5"
+   },
+   {
+    "id": "PM5-5",
+    "name": "Blue Satin",
+    "hex": "7E95BE",
+    "alt": "M540-5"
+   },
+   {
+    "id": "PM6-5",
+    "name": "Violet Aura",
+    "hex": "8A8BAE",
+    "alt": "M550-5"
+   },
+   {
+    "id": "PM7-5",
+    "name": "Second Pour",
+    "hex": "887CA4",
+    "alt": "M560-5"
+   },
+   {
+    "id": "PM8-5",
+    "name": "Celeb City",
+    "hex": "9D86AD",
+    "alt": "M570-5"
+   },
+   {
+    "id": "PM1-6",
+    "name": "Express Blue",
+    "hex": "395A73",
+    "alt": "M500-6"
+   },
+   {
+    "id": "PM2-6",
+    "name": "Tidal",
+    "hex": "40607C",
+    "alt": "M510-6"
+   },
+   {
+    "id": "PM3-6",
+    "name": "National Anthem",
+    "hex": "3F6F98",
+    "alt": "M520-6"
+   },
+   {
+    "id": "PM4-6",
+    "name": "Charter Blue",
+    "hex": "546E91",
+    "alt": "M530-6"
+   },
+   {
+    "id": "PM5-6",
+    "name": "Neon Blue",
+    "hex": "5D83B3",
+    "alt": "PPU15-06"
+   },
+   {
+    "id": "PM6-6",
+    "name": "Kimono Violet",
+    "hex": "75769B",
+    "alt": "M550-6"
+   },
+   {
+    "id": "PM7-6",
+    "name": "Napa Winery",
+    "hex": "6A5C7D",
+    "alt": "M560-6"
+   },
+   {
+    "id": "PM8-6",
+    "name": "Notorious",
+    "hex": "7B658A",
+    "alt": "M570-6"
+   },
+   {
+    "id": "PM1-7",
+    "name": "Very Navy",
+    "hex": "3A4859",
+    "alt": "M500-7"
+   },
+   {
+    "id": "PM2-7",
+    "name": "Inked",
+    "hex": "3B5066",
+    "alt": "M510-7"
+   },
+   {
+    "id": "PM3-7",
+    "name": "Admiral Blue",
+    "hex": "3E5B7D",
+    "alt": "M520-7"
+   },
+   {
+    "id": "PM4-7",
+    "name": "Champlain Blue",
+    "hex": "435572",
+    "alt": "HDC-CL-26"
+   },
+   {
+    "id": "PM5-7",
+    "name": "Mozart",
+    "hex": "485480",
+    "alt": "PPU15-02"
+   },
+   {
+    "id": "PM6-7",
+    "name": "Strong Iris",
+    "hex": "5E5F7E",
+    "alt": "M550-7"
+   },
+   {
+    "id": "PM7-7",
+    "name": "Muscat Grape",
+    "hex": "5E5067",
+    "alt": "M560-7"
+   },
+   {
+    "id": "PM8-7",
+    "name": "Paparazzi",
+    "hex": "5A4A64",
+    "alt": "M570-7"
+   },
+   {
+    "id": "PS1-1",
+    "name": "Distant Shore",
+    "hex": "C2D8E3",
+    "alt": "S500-1"
+   },
+   {
+    "id": "PS2-1",
+    "name": "Celestial Light",
+    "hex": "C7DAE8",
+    "alt": "MQ3-24"
+   },
+   {
+    "id": "PS3-1",
+    "name": "Pale Cornflower",
+    "hex": "CED9E1",
+    "alt": "S520-1"
+   },
+   {
+    "id": "PS4-1",
+    "name": "Monet",
+    "hex": "C3CFDC",
+    "alt": "PPU15-17"
+   },
+   {
+    "id": "PS5-1",
+    "name": "So Blue-Berry",
+    "hex": "D4D8E3",
+    "alt": "S540-1"
+   },
+   {
+    "id": "PS6-1",
+    "name": "Blueberry Whip",
+    "hex": "D1D4DB",
+    "alt": "S550-1"
+   },
+   {
+    "id": "PS7-1",
+    "name": "Courteous",
+    "hex": "D2D3DE",
+    "alt": "S560-1"
+   },
+   {
+    "id": "PS8-1",
+    "name": "Misty Lavender",
+    "hex": "DBD9E1",
+    "alt": "S570-1"
+   },
+   {
+    "id": "PS1-2",
+    "name": "English Hollyhock",
+    "hex": "B5C9D3",
+    "alt": "HDC-CT-16A"
+   },
+   {
+    "id": "PS2-2",
+    "name": "Denim Light",
+    "hex": "B8CAD5",
+    "alt": "PPU14-15"
+   },
+   {
+    "id": "PS3-2",
+    "name": "Journey's End",
+    "hex": "BAC9D4",
+    "alt": "S520-2"
+   },
+   {
+    "id": "PS4-2",
+    "name": "Simply Blue",
+    "hex": "ADBBC9",
+    "alt": "PPU15-16"
+   },
+   {
+    "id": "PS5-2",
+    "name": "Violet Vision",
+    "hex": "B7BDD2",
+    "alt": "S540-2"
+   },
+   {
+    "id": "PS6-2",
+    "name": "Powder Lilac",
+    "hex": "BFC2CE",
+    "alt": "S550-2"
+   },
+   {
+    "id": "PS7-2",
+    "name": "Sweet Juliet",
+    "hex": "B8BFD2",
+    "alt": "PPU15-15"
+   },
+   {
+    "id": "PS8-2",
+    "name": "Magic Scent",
+    "hex": "CCC9D7",
+    "alt": "S570-2"
+   },
+   {
+    "id": "PS1-3",
+    "name": "Partly Cloudy",
+    "hex": "9DBBCD",
+    "alt": "S500-3"
+   },
+   {
+    "id": "PS2-3",
+    "name": "Ombre Blue",
+    "hex": "99ADBD",
+    "alt": "S510-3"
+   },
+   {
+    "id": "PS3-3",
+    "name": "Perfect Landing",
+    "hex": "9EB2C3",
+    "alt": "S520-3"
+   },
+   {
+    "id": "PS4-3",
+    "name": "Aerial View",
+    "hex": "A0B2C8",
+    "alt": "S530-3"
+   },
+   {
+    "id": "PS5-3",
+    "name": "Meadow Phlox",
+    "hex": "A8AFC7",
+    "alt": "S540-3"
+   },
+   {
+    "id": "PS6-3",
+    "name": "Chivalrous",
+    "hex": "AEB2C0",
+    "alt": "S550-3"
+   },
+   {
+    "id": "PS7-3",
+    "name": "Noble Purple",
+    "hex": "AFB1C5",
+    "alt": "S560-3"
+   },
+   {
+    "id": "PS8-3",
+    "name": "Bohemianism",
+    "hex": "B8B3C8",
+    "alt": "S570-3"
+   },
+   {
+    "id": "PS1-4",
+    "name": "Chilly Blue",
+    "hex": "8AAEC3",
+    "alt": "S500-4"
+   },
+   {
+    "id": "PS2-4",
+    "name": "Jean Jacket Blue",
+    "hex": "7B90A2",
+    "alt": "S510-4"
+   },
+   {
+    "id": "PS3-4",
+    "name": "China Silk",
+    "hex": "8B9EB3",
+    "alt": "PPU15-10"
+   },
+   {
+    "id": "PS4-4",
+    "name": "Jet Set",
+    "hex": "8397B1",
+    "alt": "S530-4"
+   },
+   {
+    "id": "PS5-4",
+    "name": "Vintage Ribbon",
+    "hex": "9097B4",
+    "alt": "S540-4"
+   },
+   {
+    "id": "PS6-4",
+    "name": "Camelot",
+    "hex": "8B90A3",
+    "alt": "S550-4"
+   },
+   {
+    "id": "PS7-4",
+    "name": "Monarchy",
+    "hex": "9093AD",
+    "alt": "S560-4"
+   },
+   {
+    "id": "PS8-4",
+    "name": "Night Music",
+    "hex": "9C96AF",
+    "alt": "S570-4"
+   },
+   {
+    "id": "PS1-5",
+    "name": "Treasure Map",
+    "hex": "658FAA",
+    "alt": "S500-5"
+   },
+   {
+    "id": "PS2-5",
+    "name": "Arrowhead Lake",
+    "hex": "58728A",
+    "alt": "PPU14-01"
+   },
+   {
+    "id": "PS3-5",
+    "name": "Thundercloud",
+    "hex": "70869D",
+    "alt": "S520-5"
+   },
+   {
+    "id": "PS4-5",
+    "name": "Brisk Blue",
+    "hex": "6D829D",
+    "alt": "S530-5"
+   },
+   {
+    "id": "PS5-5",
+    "name": "Velvet Curtain",
+    "hex": "7E85A3",
+    "alt": "S540-5"
+   },
+   {
+    "id": "PS6-5",
+    "name": "Fantasia",
+    "hex": "73788B",
+    "alt": "S550-5"
+   },
+   {
+    "id": "PS7-5",
+    "name": "Royal Fortune",
+    "hex": "747792",
+    "alt": "S560-5"
+   },
+   {
+    "id": "PS8-5",
+    "name": "Live Jazz",
+    "hex": "87819B",
+    "alt": "S570-5"
+   },
+   {
+    "id": "PS1-6",
+    "name": "Shipyard",
+    "hex": "4F6F85",
+    "alt": "S500-6"
+   },
+   {
+    "id": "PS2-6",
+    "name": "English Channel",
+    "hex": "4E6173",
+    "alt": "PPU14-19"
+   },
+   {
+    "id": "PS3-6",
+    "name": "Laguna Blue",
+    "hex": "5A7490",
+    "alt": "PPU14-18"
+   },
+   {
+    "id": "PS4-6",
+    "name": "Extreme",
+    "hex": "536078",
+    "alt": "S530-6"
+   },
+   {
+    "id": "PS5-6",
+    "name": "Dangerously Elegant",
+    "hex": "616B89",
+    "alt": "S540-6"
+   },
+   {
+    "id": "PS6-6",
+    "name": "Mysterious Night",
+    "hex": "5C6070",
+    "alt": "S550-6"
+   },
+   {
+    "id": "PS7-6",
+    "name": "Blue Blood",
+    "hex": "5D5F76",
+    "alt": "S560-6"
+   },
+   {
+    "id": "PS8-6",
+    "name": "New Orleans",
+    "hex": "6F697E",
+    "alt": "S570-6"
+   },
+   {
+    "id": "PS1-7",
+    "name": "Infinite Deep Sea",
+    "hex": "435A6F",
+    "alt": "S500-7"
+   },
+   {
+    "id": "PS2-7",
+    "name": "Starless Night",
+    "hex": "3E4855",
+    "alt": "PPU14-20"
+   },
+   {
+    "id": "PS3-7",
+    "name": "Dark Navy",
+    "hex": "40495B",
+    "alt": "S530-7"
+   },
+   {
+    "id": "PS4-7",
+    "name": "Compass Blue",
+    "hex": "35475B",
+    "alt": "MQ5-54"
+   },
+   {
+    "id": "PS5-7",
+    "name": "Vintage Velvet",
+    "hex": "485169",
+    "alt": "PPU15-18"
+   },
+   {
+    "id": "PS6-7",
+    "name": "Black Sapphire",
+    "hex": "434555",
+    "alt": "PPU15-19"
+   },
+   {
+    "id": "PS7-7",
+    "name": "Lap of Luxury",
+    "hex": "515366",
+    "alt": "S560-7"
+   },
+   {
+    "id": "PS8-7",
+    "name": "Plush Purple",
+    "hex": "5E5967",
+    "alt": "S570-7A"
+   },
+   {
+    "id": "PN1-1",
+    "name": "Silent White",
+    "hex": "E5E7E4",
+    "alt": "PPU26-13"
+   },
+   {
+    "id": "PN2-1",
+    "name": "Silver Shadow",
+    "hex": "CFD2D3",
+    "alt": "N510-1"
+   },
+   {
+    "id": "PN3-1",
+    "name": "White Metal",
+    "hex": "D1D1CF",
+    "alt": "N520-1"
+   },
+   {
+    "id": "PN4-1",
+    "name": "Pixel White",
+    "hex": "DBDCDB",
+    "alt": "N530-1"
+   },
+   {
+    "id": "PN5-1",
+    "name": "Mainsail",
+    "hex": "D9DFE3",
+    "alt": "MQ3-26"
+   },
+   {
+    "id": "PN6-1",
+    "name": "Will O' the Wisp",
+    "hex": "D7D8DD",
+    "alt": "MQ3-59"
+   },
+   {
+    "id": "PN7-1",
+    "name": "Posture and Pose",
+    "hex": "C7C4CD",
+    "alt": "N560-1"
+   },
+   {
+    "id": "PN8-1",
+    "name": "Opera",
+    "hex": "D3CFD0",
+    "alt": "N570-1"
+   },
+   {
+    "id": "PN1-2",
+    "name": "Loft Space",
+    "hex": "CBCECD",
+    "alt": "N500-2"
+   },
+   {
+    "id": "PN2-2",
+    "name": "Galactic Tint",
+    "hex": "C0C4C6",
+    "alt": "N510-2"
+   },
+   {
+    "id": "PN3-2",
+    "name": "Silver Bullet",
+    "hex": "C5C5C3",
+    "alt": "N520-2"
+   },
+   {
+    "id": "PN4-2",
+    "name": "Double Click",
+    "hex": "D0D2D1",
+    "alt": "N530-2"
+   },
+   {
+    "id": "PN5-2",
+    "name": "Moonlit Snow",
+    "hex": "CED2D7",
+    "alt": "MQ3-61"
+   },
+   {
+    "id": "PN6-2",
+    "name": "Centre Stage",
+    "hex": "C8C7CB",
+    "alt": "N550-2"
+   },
+   {
+    "id": "PN7-2",
+    "name": "Coveted Gem",
+    "hex": "B6B3BF",
+    "alt": "N560-2"
+   },
+   {
+    "id": "PN8-2",
+    "name": "Standing Ovation",
+    "hex": "BFB9BD",
+    "alt": "N570-2"
+   },
+   {
+    "id": "PN1-3",
+    "name": "Tin Foil",
+    "hex": "ACB0B0",
+    "alt": "N500-3"
+   },
+   {
+    "id": "PN2-3",
+    "name": "Stargazer",
+    "hex": "AEB3B6",
+    "alt": "N510-3"
+   },
+   {
+    "id": "PN3-3",
+    "name": "Flannel Gray",
+    "hex": "AEADAC",
+    "alt": "N520-3"
+   },
+   {
+    "id": "PN4-3",
+    "name": "High Speed Access",
+    "hex": "BDBEBF",
+    "alt": "N530-3"
+   },
+   {
+    "id": "PN5-3",
+    "name": "Vanity",
+    "hex": "B1B3BB",
+    "alt": "N540-3"
+   },
+   {
+    "id": "PN6-3",
+    "name": "Best in Show",
+    "hex": "B9B7BD",
+    "alt": "N550-3"
+   },
+   {
+    "id": "PN7-3",
+    "name": "Luxe Lilac",
+    "hex": "A8A3B1",
+    "alt": "N560-3"
+   },
+   {
+    "id": "PN8-3",
+    "name": "Art Nouveau Glass",
+    "hex": "A29AA0",
+    "alt": "N570-3"
+   },
+   {
+    "id": "PN1-4",
+    "name": "Pencil Sketch",
+    "hex": "999D9E",
+    "alt": "N500-4"
+   },
+   {
+    "id": "PN2-4",
+    "name": "Supernova",
+    "hex": "9FA4A8",
+    "alt": "N510-4"
+   },
+   {
+    "id": "PN3-4",
+    "name": "Cool Ashes",
+    "hex": "929291",
+    "alt": "N520-4"
+   },
+   {
+    "id": "PN4-4",
+    "name": "Power Gray",
+    "hex": "A2A4A6",
+    "alt": "N530-4"
+   },
+   {
+    "id": "PN5-4",
+    "name": "Silhouette",
+    "hex": "9698A2",
+    "alt": "N540-4"
+   },
+   {
+    "id": "PN6-4",
+    "name": "Ashberry",
+    "hex": "A29FA8",
+    "alt": "N550-4"
+   },
+   {
+    "id": "PN7-4",
+    "name": "Evening in Paris",
+    "hex": "938F9F",
+    "alt": "N560-4"
+   },
+   {
+    "id": "PN8-4",
+    "name": "Classy Plum",
+    "hex": "887E82",
+    "alt": "N570-4"
+   },
+   {
+    "id": "PN1-5",
+    "name": "Magnetic Gray",
+    "hex": "838789",
+    "alt": "N500-5"
+   },
+   {
+    "id": "PN2-5",
+    "name": "Liquid Mercury",
+    "hex": "757A80",
+    "alt": "N510-5"
+   },
+   {
+    "id": "PN3-5",
+    "name": "Iron Mountain",
+    "hex": "757574",
+    "alt": "N520-5"
+   },
+   {
+    "id": "PN4-5",
+    "name": "Mission Control",
+    "hex": "818387",
+    "alt": "N530-5"
+   },
+   {
+    "id": "PN5-5",
+    "name": "Infamous",
+    "hex": "777985",
+    "alt": "N540-5"
+   },
+   {
+    "id": "PN6-5",
+    "name": "Box Office",
+    "hex": "898790",
+    "alt": "N550-5"
+   },
+   {
+    "id": "PN7-5",
+    "name": "Solitaire",
+    "hex": "7D798A",
+    "alt": "N560-5"
+   },
+   {
+    "id": "PN8-5",
+    "name": "Curtain Call",
+    "hex": "70666A",
+    "alt": "N570-5"
+   },
+   {
+    "id": "PN1-6",
+    "name": "Graphic Charcoal",
+    "hex": "5C5E5F",
+    "alt": "N500-6"
+   },
+   {
+    "id": "PN2-6",
+    "name": "Orion Gray",
+    "hex": "535558",
+    "alt": "N510-6"
+   },
+   {
+    "id": "PN3-6",
+    "name": "Asphalt Gray",
+    "hex": "5E5E5D",
+    "alt": "N520-6"
+   },
+   {
+    "id": "PN4-6",
+    "name": "Digital",
+    "hex": "636365",
+    "alt": "N530-6"
+   },
+   {
+    "id": "PN5-6",
+    "name": "Script Ink",
+    "hex": "60616B",
+    "alt": "N540-6"
+   },
+   {
+    "id": "PN6-6",
+    "name": "Alter Ego",
+    "hex": "69656D",
+    "alt": "N550-6"
+   },
+   {
+    "id": "PN7-6",
+    "name": "Fashionista",
+    "hex": "66616F",
+    "alt": "N560-6"
+   },
+   {
+    "id": "PN8-6",
+    "name": "Virtuoso",
+    "hex": "5D5558",
+    "alt": "N570-6"
+   },
+   {
+    "id": "PN1-7",
+    "name": "Night Club",
+    "hex": "494B4E",
+    "alt": "N500-7"
+   },
+   {
+    "id": "PN2-7",
+    "name": "Blackout",
+    "hex": "413F3E",
+    "alt": "N510-7"
+   },
+   {
+    "id": "PN3-7",
+    "name": "Carbon",
+    "hex": "3D3E3E",
+    "alt": "N520-7"
+   },
+   {
+    "id": "PN4-7",
+    "name": "Private Black",
+    "hex": "4C4949",
+    "alt": "N530-7"
+   },
+   {
+    "id": "PN5-7",
+    "name": "Coal Mine",
+    "hex": "54555D",
+    "alt": "N540-7"
+   },
+   {
+    "id": "PN6-7",
+    "name": "Catwalk",
+    "hex": "4A4649",
+    "alt": "N550-7"
+   },
+   {
+    "id": "PN7-7",
+    "name": "Limo-Scene",
+    "hex": "4B4950",
+    "alt": "N560-7"
+   },
+   {
+    "id": "PN8-7",
+    "name": "Black Elegance",
+    "hex": "524C4F",
+    "alt": "N570-7"
+   }
+  ],
+  "trending": [
+   {
+    "title": "2027 Color of the Year & Trends",
+    "note": "New on the wall",
+    "items": [
+     "T27-01",
+     "PPU7-13",
+     "T27-02",
+     "T27-03",
+     "HDC-AC-28",
+     "HDC-AC-26",
+     "PPU9-11",
+     "PPU11-09",
+     "T27-04",
+     "PPU14-15",
+     "PPU15-02"
+    ]
+   },
+   {
+    "title": "More trending colors",
+    "note": "",
+    "items": [
+     "S190-3",
+     "S190-5",
+     "M290-2",
+     "MQ2-22",
+     "MQ4-07",
+     "PPU4-20",
+     "S390-5",
+     "N430-6A",
+     "S430-2",
+     "S480-5"
+    ]
+   }
+  ]
+ },
+ "designerCols": [
+  [
+   "DC-001",
+   "HDC-MD-08",
+   "DC-005",
+   "DC-003",
+   "12",
+   "70",
+   "23",
+   "HDC-MD-21",
+   "DC-010",
+   "PPU5-13",
+   "N350-5",
+   "N420-5",
+   "HDC-CL-21A",
+   "PPU5-01",
+   "MQ1-15"
+  ],
+  [
+   "UPW",
+   "57",
+   "52",
+   "DC-004",
+   "DC-006",
+   "PPU26-11",
+   "PPU26-10",
+   "DC-007",
+   "DC-008",
+   "PPU18-11",
+   "PPU24-11",
+   "N480-5",
+   "N480-7",
+   "PPU18-01",
+   "BLACK"
+  ]
+ ]
+}

@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Paint Planogram</title>
+<meta name="description" content="Find any color chip on the paint wall. Search by name or number and see exactly where it sits.">
+<meta name="theme-color" content="#ffffff">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='4' width='8' height='24' rx='1.5' fill='%23c44536'/%3E%3Crect x='12' y='4' width='8' height='24' rx='1.5' fill='%23e0b23a'/%3E%3Crect x='22' y='4' width='8' height='24' rx='1.5' fill='%233d6fa8'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#1d2329;
+  --ink-soft:#5a636d;
+  --paper:#ffffff;
+  --fixture:#e4e7ea;
+  --fixture-edge:#c9ced4;
+  --line:#d7dbe0;
+  --focus:#1f5fd1;
+  --radius:14px;
+  --gutter:16px;
+  font-family:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  color:var(--ink);
+  background:var(--paper);
+  -webkit-text-size-adjust:100%;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);line-height:1.45}
+button,input{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+
+/* Search bar */
+.top{position:sticky;top:0;z-index:5;background:var(--paper);padding:12px var(--gutter) 10px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:0 0 8px}
+.brand h1{font-size:1.15rem;margin:0;letter-spacing:-.01em}
+.brand span{font-size:.85rem;color:var(--ink-soft)}
+.field{position:relative}
+.field input{width:100%;height:54px;border:2px solid var(--ink);border-radius:var(--radius);padding:0 48px 0 46px;font-size:1.1rem;background:var(--paper);-webkit-appearance:none;appearance:none}
+.field input::placeholder{color:#7b848d}
+.field svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);pointer-events:none}
+.clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);width:42px;height:42px;border:0;border-radius:50%;background:transparent;font-size:1.5rem;line-height:1;cursor:pointer;color:var(--ink-soft)}
+.clear[hidden]{display:none}
+
+/* Suggestions */
+.results{list-style:none;margin:8px 0 0;padding:0;max-height:52vh;overflow:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--paper);box-shadow:0 10px 30px rgba(29,35,41,.12)}
+.results[hidden]{display:none}
+.results li button{display:flex;width:100%;align-items:center;gap:12px;padding:10px 12px;border:0;background:none;text-align:left;cursor:pointer}
+.results li+li button{border-top:1px solid var(--line)}
+.results li button:hover,.results li button[aria-selected="true"]{background:#f2f4f6}
+.sw{flex:none;width:34px;height:34px;border-radius:7px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.12)}
+.rname{font-weight:700;display:block}
+.rmeta{font-size:.85rem;color:var(--ink-soft)}
+.empty{padding:14px 12px;color:var(--ink-soft)}
+
+main{padding:14px var(--gutter) 40px;max-width:1100px;margin:0 auto}
+
+/* Found color card */
+.found{scroll-margin-top:150px;display:grid;grid-template-columns:72px 1fr;gap:14px;align-items:center;margin:0 0 14px}
+.found[hidden]{display:none}
+.found .big{width:72px;height:72px;border-radius:12px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.12)}
+.found h2{margin:0;font-size:1.35rem;line-height:1.2}
+.found .code{color:var(--ink-soft);font-size:.95rem}
+.where{grid-column:1/-1;margin:0;font-size:1.05rem;padding:12px 14px;border-radius:12px;background:#f2f4f6}
+.where strong{font-weight:700}
+.spots{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px}
+.spots button{border:1.5px solid var(--ink);background:var(--paper);border-radius:999px;padding:6px 12px;font-size:.9rem;cursor:pointer}
+.spots button[aria-pressed="true"]{background:var(--ink);color:#fff}
+
+/* Wall */
+.wallhead{display:flex;justify-content:space-between;align-items:baseline;margin:6px 0 8px;gap:10px}
+.wallhead h3{margin:0;font-size:1rem}
+.wallhead p{margin:0;font-size:.85rem;color:var(--ink-soft)}
+.wallwrap{background:var(--fixture);border:1px solid var(--fixture-edge);border-radius:var(--radius);overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y pinch-zoom}
+.wallwrap svg{display:block;height:auto}
+.wallwrap.fit svg{width:100%}
+.zoombar{display:flex;gap:8px;margin:8px 0 0}
+.zoombar button{border:1.5px solid var(--ink);background:var(--paper);border-radius:999px;padding:6px 14px;font-size:.9rem;cursor:pointer}
+.zoombar button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.chip{cursor:pointer}
+.lbl{font-size:7px;fill:#3f4750;font-weight:700}
+.region{fill:none;stroke:var(--ink);stroke-width:1.5;stroke-dasharray:4 3}
+
+/* The locator: high contrast double ring that works on any chip color */
+.ring-o{fill:none;stroke:#fff;stroke-width:5}
+.ring-i{fill:none;stroke:#111;stroke-width:2.6}
+.pulse{animation:pulse 1s ease-in-out infinite}
+.cross{stroke:#111;stroke-width:.8;stroke-dasharray:3 2;opacity:.75}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.15;transform:scale(1.35)}}
+.pulse{transform-box:fill-box;transform-origin:center}
+
+/* Section close up */
+.detail{margin:22px 0 0}
+.detail[hidden]{display:none}
+.detail h3{margin:0 0 4px;font-size:1.1rem}
+.detail p{margin:0 0 10px;color:var(--ink-soft);font-size:.9rem}
+.grid{display:grid;gap:4px;background:var(--fixture);border:1px solid var(--fixture-edge);border-radius:var(--radius);padding:10px;overflow-x:auto}
+.cell{position:relative;aspect-ratio:3/4;border-radius:4px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.08);border:0;padding:0;cursor:pointer;min-width:22px}
+.cell.blank{background:transparent;box-shadow:inset 0 0 0 1px rgba(0,0,0,.06);cursor:default}
+.cell.hit{outline:4px solid #111;outline-offset:2px;box-shadow:0 0 0 7px #fff;z-index:1;animation:blink 1s step-end infinite}
+@keyframes blink{50%{outline-color:#fff;box-shadow:0 0 0 7px #111}}
+.axis{display:flex;justify-content:space-between;font-size:.8rem;color:var(--ink-soft);margin:6px 2px 0}
+
+.intro{color:var(--ink-soft);margin:0 0 12px;font-size:.95rem}
+.intro[hidden]{display:none}
+.quick{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.quick[hidden]{display:none}
+.quick button{display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:5px 12px 5px 5px;cursor:pointer;font-size:.9rem}
+.quick .sw{width:24px;height:24px;border-radius:50%}
+footer{color:var(--ink-soft);font-size:.8rem;padding:0 var(--gutter) 30px;max-width:1100px;margin:0 auto}
+
+@media (prefers-reduced-motion:reduce){
+  .pulse{animation:none}
+  .cell.hit{animation:none}
+}
+@media (min-width:760px){
+  .brand h1{font-size:1.35rem}
+  .top{padding:16px 24px 12px}
+  main{padding:18px 24px 48px}
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="brand"><h1>Find a paint color</h1><span id="count"></span></div>
+  <div class="field">
+    <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M16 16l5.5 5.5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+    <input id="q" type="search" inputmode="search" autocomplete="off" autocorrect="off" spellcheck="false"
+      placeholder="Color name or number" aria-label="Search by color name or number"
+      role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+    <button class="clear" id="clear" type="button" aria-label="Clear search" hidden>&times;</button>
+  </div>
+  <ul class="results" id="results" role="listbox" hidden></ul>
+</header>
+
+<main>
+  <p class="intro" id="intro">Type a color name like "Swiss Coffee" or a number like "PPU7-13". The wall map will flash where the chip is.</p>
+  <div class="quick" id="quick" aria-label="Popular colors"></div>
+
+  <section class="found" id="found" aria-live="polite" hidden>
+    <div class="big" id="fSw"></div>
+    <div>
+      <h2 id="fName"></h2>
+      <div class="code" id="fCode"></div>
+    </div>
+    <p class="where" id="fWhere"></p>
+    <div class="spots" id="fSpots"></div>
+  </section>
+
+  <div class="wallhead">
+    <h3>The whole wall</h3>
+    <p>Left to right, as you face it</p>
+  </div>
+  <div class="wallwrap fit" id="wallwrap"><svg id="wall" role="img" aria-label="Map of the paint chip wall"></svg></div>
+  <div class="zoombar">
+    <button type="button" id="fitBtn" aria-pressed="true">Fit to screen</button>
+    <button type="button" id="zoomBtn" aria-pressed="false">Zoom in</button>
+  </div>
+
+  <section class="detail" id="detail" hidden>
+    <h3 id="dTitle"></h3>
+    <p id="dSub"></p>
+    <div class="grid" id="dGrid"></div>
+    <div class="axis"><span>Column 1</span><span id="dLast"></span></div>
+  </section>
+</main>
+<footer>Chip positions match the standard wall layout. If a chip has moved, ask an associate.</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
