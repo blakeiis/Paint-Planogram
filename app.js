@@ -31,7 +31,7 @@
   const colors = [...byKey.values()];
   const byCode = new Map();
   colors.forEach((c) => { if (!byCode.has(c.codeC)) byCode.set(c.codeC, c); });
-  $("count").textContent = colors.length.toLocaleString() + " colors";
+  $("count").textContent = colors.length.toLocaleString();
 
   /* ---------- Search with typo tolerance ---------- */
   function dist(a, b, max) {
@@ -204,6 +204,124 @@
     return s.title;
   }
 
+  /* ---------- My colors (saved on this device only) ---------- */
+  const STORE_KEY = "paintPlanogram.myColors.v1";
+  const MAX_SAVED = 200;
+  const SHOW_FEW = 4;
+  let mineOpen = false;
+  const keyOf = (c) => c.name.toLowerCase() + "|" + c.code.toLowerCase();
+  function loadSaved() {
+    try {
+      const raw = JSON.parse(localStorage.getItem(STORE_KEY) || "[]");
+      if (!Array.isArray(raw)) return [];
+      // Keep only real colors from our own data, so stored values can never inject anything.
+      return [...new Set(raw.filter((k) => typeof k === "string" && byKey.has(k)))].slice(0, MAX_SAVED);
+    } catch (e) {
+      return [];
+    }
+  }
+  let saved = loadSaved();
+  let storageOk = true;
+  function persist() {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(saved)); storageOk = true; }
+    catch (e) { storageOk = false; }
+  }
+  const isSaved = (c) => saved.includes(keyOf(c));
+  let lastRemoved = null, undoTimer = null;
+  function toggleSave(c) {
+    const k = keyOf(c);
+    if (saved.includes(k)) { removeSaved(c); return; }
+    saved = [k, ...saved].slice(0, MAX_SAVED);
+    persist();
+    renderMine();
+    syncSaveButton(true);
+  }
+  function removeSaved(c) {
+    const k = keyOf(c);
+    const at = saved.indexOf(k);
+    if (at < 0) return;
+    saved.splice(at, 1);
+    persist();
+    lastRemoved = { k, at };
+    $("undoText").textContent = `Removed ${c.name}.`;
+    $("undo").hidden = false;
+    clearTimeout(undoTimer);
+    undoTimer = setTimeout(() => { $("undo").hidden = true; lastRemoved = null; }, 6000);
+    renderMine();
+    syncSaveButton(false);
+  }
+  $("undoBtn").addEventListener("click", () => {
+    if (!lastRemoved) return;
+    if (!saved.includes(lastRemoved.k)) saved.splice(Math.min(lastRemoved.at, saved.length), 0, lastRemoved.k);
+    persist();
+    lastRemoved = null;
+    $("undo").hidden = true;
+    renderMine();
+    syncSaveButton(false);
+  });
+  function syncSaveButton(animate) {
+    const b = $("fSave");
+    if (!current) return;
+    const on = isSaved(current.color);
+    b.setAttribute("aria-pressed", String(on));
+    b.querySelector("span").textContent = on ? "Saved" : "Save";
+    b.setAttribute("aria-label", on ? `Remove ${current.color.name} from my colors` : `Save ${current.color.name} to my colors`);
+    if (animate && on) { b.classList.remove("pop"); void b.offsetWidth; b.classList.add("pop"); }
+  }
+  $("fSave").addEventListener("click", () => { if (current) toggleSave(current.color); });
+  function renderMine() {
+    const list = $("mineList");
+    list.replaceChildren();
+    saved.forEach((k) => {
+      const c = byKey.get(k);
+      const li = document.createElement("li");
+      const go = document.createElement("button");
+      go.type = "button";
+      go.className = "go";
+      if (current && keyOf(current.color) === k) go.setAttribute("aria-current", "true");
+      const txt = document.createElement("span");
+      txt.style.minWidth = "0";
+      const nm = document.createElement("span");
+      nm.className = "rname";
+      nm.textContent = c.name;
+      const meta = document.createElement("span");
+      meta.className = "rmeta";
+      meta.textContent = c.code + "  \u2022  " + spotLabel(c.spots[0]);
+      txt.append(nm, meta);
+      go.append(swatch(c.hex), txt);
+      go.setAttribute("aria-label", `Show ${c.name} on the wall`);
+      go.addEventListener("click", () => { input.value = c.name; clearBtn.hidden = false; show(c, 0); });
+      const rm = document.createElement("button");
+      rm.type = "button";
+      rm.className = "rm";
+      rm.textContent = "\u00d7";
+      rm.setAttribute("aria-label", `Remove ${c.name} from my colors`);
+      rm.addEventListener("click", () => removeSaved(c));
+      li.append(go, rm);
+      list.appendChild(li);
+    });
+    const n = saved.length;
+    const more = $("mineMore");
+    more.hidden = n <= SHOW_FEW;
+    list.classList.toggle("collapsed", n > SHOW_FEW && !mineOpen);
+    more.textContent = mineOpen ? "Show fewer" : `Show all ${n}`;
+    more.setAttribute("aria-expanded", String(mineOpen));
+    $("mine").hidden = n === 0 && $("undo").hidden;
+    $("myBtn").hidden = n === 0;
+    $("myCount").textContent = String(n);
+    $("myBtn").setAttribute("aria-label", `My colors, ${n} saved`);
+    const note = $("mine").querySelector(".minehead p");
+    note.textContent = storageOk ? "Saved on this device only" : "This browser is blocking saving. Your list will clear when you close the page.";
+  }
+  $("mineMore").addEventListener("click", () => { mineOpen = !mineOpen; renderMine(); });
+  $("myBtn").addEventListener("click", () => {
+    mineOpen = true;
+    renderMine();
+    $("mine").scrollIntoView({ block: "start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+    const first = $("mineList").querySelector(".go");
+    if (first) first.focus({ preventScroll: true });
+  });
+
   /* ---------- Show a color ---------- */
   let current = null;
   function show(color, spotIdx, fromWall) {
@@ -223,6 +341,12 @@
       b.textContent = text;
       return b;
     }));
+
+    syncSaveButton(false);
+    renderMine();
+    // Keep the wall map near the top while a color is showing; saved list moves below the close up.
+    const mineEl = $("mine"), detailEl = $("detail");
+    if (detailEl.nextElementSibling !== mineEl) detailEl.after(mineEl);
 
     const spots = $("fSpots");
     spots.replaceChildren();
@@ -402,6 +526,8 @@
       input.value = c.name; clearBtn.hidden = false; show(c, si, true);
     }
   }
+
+  renderMine();
 
   // Read only search hook used by automated tests.
   Object.defineProperty(window, "__planogram", { value: Object.freeze({ search }), writable: false });

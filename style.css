@@ -99,6 +99,42 @@ main{padding:14px var(--gutter) 40px;max-width:1100px;margin:0 auto}
 .quick .sw{width:24px;height:24px;border-radius:50%}
 footer{color:var(--ink-soft);font-size:.8rem;padding:0 var(--gutter) 30px;max-width:1100px;margin:0 auto}
 
+/* Saved colors */
+.mybtn{display:inline-flex;align-items:center;gap:6px;border:1.5px solid var(--ink);background:var(--paper);border-radius:999px;padding:4px 6px 4px 10px;font-size:.9rem;cursor:pointer;color:#b3261e}
+.mybtn[hidden]{display:none}
+.mybtn span{color:var(--ink)}
+.mybtn .badge{min-width:24px;height:24px;border-radius:999px;background:var(--ink);color:#fff;font-weight:700;font-size:.8rem;display:inline-flex;align-items:center;justify-content:center;padding:0 6px}
+.fhead{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.save{flex:none;display:inline-flex;align-items:center;gap:6px;min-height:44px;border:1.5px solid var(--ink);background:var(--paper);border-radius:999px;padding:6px 14px;font-size:.95rem;font-weight:700;cursor:pointer;color:var(--ink)}
+.save svg path{fill:transparent;stroke:currentColor}
+.save[aria-pressed="true"]{background:var(--ink);color:#fff}
+.save[aria-pressed="true"] svg{color:#ff6b62}
+.save[aria-pressed="true"] svg path{fill:currentColor}
+.save.pop svg{animation:pop .35s ease-out}
+@keyframes pop{40%{transform:scale(1.35)}}
+.mine{margin:4px 0 20px}
+.detail + .mine{margin:28px 0 0}
+.mine[hidden]{display:none}
+.minehead{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin:0 0 8px}
+.minehead h3{margin:0;font-size:1rem}
+.minehead p{margin:0;font-size:.85rem;color:var(--ink-soft)}
+.minelist{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.minelist li{display:flex;align-items:center}
+.minelist li+li{border-top:1px solid var(--line)}
+.minelist .go{flex:1;display:flex;align-items:center;gap:12px;padding:10px 12px;border:0;background:none;text-align:left;cursor:pointer;min-width:0}
+.minelist .go:hover{background:#f2f4f6}
+.minelist .go[aria-current="true"]{background:#f2f4f6}
+.minelist .go .rname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.minelist .rm{flex:none;width:44px;height:44px;margin-right:4px;border:0;border-radius:50%;background:none;font-size:1.4rem;line-height:1;color:var(--ink-soft);cursor:pointer}
+.minelist .rm:hover{background:#f2f4f6;color:var(--ink)}
+.minelist.collapsed li:nth-child(n+5){display:none}
+.more{margin:8px 0 0;border:1.5px solid var(--ink);background:var(--paper);border-radius:999px;padding:6px 14px;font-size:.9rem;cursor:pointer}
+.more[hidden]{display:none}
+.undo{margin:8px 0 0;font-size:.9rem;color:var(--ink-soft)}
+.undo[hidden]{display:none}
+.undo button{border:0;background:none;padding:4px 2px;font-weight:700;text-decoration:underline;cursor:pointer;color:var(--ink)}
+@media (prefers-reduced-motion:reduce){.save.pop svg{animation:none}}
+
 @media (prefers-reduced-motion:reduce){
   .pulse{animation:none}
   .cell.hit{animation:none}
