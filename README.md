@@ -31,6 +31,10 @@ Live site: https://blakeiis.github.io/Paint-Planogram/
 2. Run `python3 scripts/build_data.py raw/colors.json data.js`.
 3. Commit and push. GitHub Pages updates in a minute or two.
 
+## Releasing changes
+
+When you change `style.css`, `app.js` or `data.js`, update the `?v=` value on their tags in `index.html` (any new value works, such as today's date). That makes phones load the new files instead of an old saved copy.
+
 ## Wall layout
 
 Left to right as you face it: Reds, Oranges, Yellows, Greens, Blues, Purples (each with Pure, Muted, Shaded and Neutral rows, 8 columns), then the Whites, Neutrals and Grays panel, then One Coat Hide, then the Designer Collection.
