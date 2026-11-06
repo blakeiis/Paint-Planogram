@@ -6,7 +6,9 @@
 
   /* ---------- Data ---------- */
   const sections = new Map(W.sections.map((s) => [s.key, s]));
-  const chips = W.chips.map((c, i) => ({ i, name: c[0], code: c[1], hex: "#" + c[2], sec: c[3], r: c[4], c: c[5], slot: c[6] }));
+  // Only the color family slot labels (like GN4-7) match real positions; side panel labels do not.
+  const isCore = (sec) => /^[ROYGBP][PMSN]$/.test(sec);
+  const chips = W.chips.map((c, i) => ({ i, name: c[0], code: c[1], hex: "#" + c[2], sec: c[3], r: c[4], c: c[5], slot: isCore(c[3]) ? c[6] : "" }));
 
   const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
   const compact = (s) => norm(s).replace(/ /g, "");
